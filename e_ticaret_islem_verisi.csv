@@ -1,0 +1,1411 @@
+﻿siparis_id,musteri_id,siparis_tarihi,sehir,musteri_kidem_ayi,kategori,birim_fiyat,adet,indirim_orani,kampanya,odeme_yontemi,cihaz,kargo_gunu,iade_edildi,memnuniyet_puani,siparis_tutari
+S001337,M0012,2025-12-26,İstanbul,20,Elektronik,5070.49,3.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,4.0,15211.47
+S000257,M0222,2025-06-10,İstanbul,12,Kitap,170.16,3.0,0.15,Hafta Sonu,Banka Kartı,Masaüstü,4.0,Hayır,4.0,433.91
+S000889,M0116,2025-12-20,Elazığ,21,Kozmetik,256.64,2.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,6.0,Evet,2.0,461.95
+S001098,M0316,2025-07-06,Elazığ,2,Spor,749.4,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,4.0,636.99
+S000205,M0191,2025-08-17,Bursa,48,Giyim,774.81,1.0,0.1,Hafta Sonu,Banka Kartı,Masaüstü,2.0,Hayır,5.0,697.33
+S000828,M0309,2025-12-03,İzmir,18,Kitap,385.49,1.0,0.1,Sepette İndirim,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,346.94
+S000429,M0048,2025-02-22,Ankara,40,Kitap,93.92,5.0,0.15,Yeni Üye,Kredi Kartı,Tablet,1.0,Hayır,4.0,399.16
+S001380,M0309,2025-10-20,İzmir,18,Kitap,135.78,2.0,0.25,Özel Gün,Kredi Kartı,Mobil,4.0,Hayır,5.0,203.67
+S000740,M0122,2025-03-21,Elazığ,23,Giyim,1267.34,2.0,0.0,Yok,Kredi Kartı,Tablet,3.0,Hayır,3.0,2534.68
+S000093,M0153,2025-01-04,Bursa,41,Spor,741.13,1.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,3.0,Evet,,667.02
+S001325,M0286,2025-03-16,Ankara,22,Spor,355.21,1.0,0.25,Özel Gün,Kredi Kartı,Masaüstü,4.0,Hayır,4.0,266.41
+S000916,M0176,2025-10-21,Malatya,24,Kitap,172.54,2.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,3.0,345.08
+S000043,M0147,2025-01-30,İstanbul,44,Kozmetik,591.65,1.0,0.0,Yok,Havale/EFT,Mobil,4.0,Hayır,5.0,591.65
+S000141,M0282,2025-02-24,Malatya,39,Giyim,709.25,1.0,0.0,Yok,Banka Kartı,Mobil,4.0,Hayır,5.0,709.25
+S001075,M0263,2025-03-21,Malatya,20,Elektronik,13663.19,2.0,0.0,Yok,Banka Kartı,Masaüstü,3.0,Hayır,5.0,27326.38
+S000954,M0309,2025-12-09,İzmir,18,Giyim,472.53,4.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,4.0,1890.12
+S001263,M0017,2025-10-18,Malatya,35,Kitap,183.3,3.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,11.0,Hayır,4.0,522.41
+S000174,M0045,2025-02-02,Ankara,38,Kitap,142.34,1.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,5.0,113.87
+S000899,M0041,2025-02-06,Ankara,37,Giyim,265.45,2.0,0.1,Hafta Sonu,Banka Kartı,Mobil,4.0,Hayır,4.0,477.81
+S001312,M0191,2025-12-09,Bursa,48,Kitap,138.77,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,1.0,Hayır,4.0,117.95
+S000703,M0012,2025-08-09,İstanbul,20,Giyim,718.59,1.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,646.73
+S000967,M0136,2025-12-11,İstanbul,25,Giyim,410.12,2.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,5.0,Hayır,3.0,738.22
+S001345,M0281,2025-01-21,İzmir,6,Elektronik,4037.88,4.0,0.0,Yok,,Tablet,2.0,Hayır,4.0,16151.52
+S000262,M0290,2025-11-22,Ankara,25,Kozmetik,1373.58,1.0,0.0,Yok,Banka Kartı,Mobil,2.0,Hayır,4.0,1373.58
+S000517,M0309,2025-10-29,İzmir,18,Spor,855.26,2.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,5.0,1539.47
+S000328,M0160,2025-03-26,Ankara,46,Kitap,194.23,1.0,0.1,Yeni Üye,Havale/EFT,Mobil,5.0,Hayır,4.0,174.81
+S000556,M0170,2025-11-06,Ankara,43,Elektronik,3204.22,2.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,4.0,Hayır,5.0,5126.75
+S000037,M0309,2025-09-12,İzmir,18,Elektronik,3095.31,1.0,0.0,Yok,Kredi Kartı,Masaüstü,6.0,Hayır,5.0,3095.31
+S001031,M0275,2025-08-22,İzmir,32,Elektronik,9437.04,1.0,0.0,Yok,Havale/EFT,Mobil,4.0,Hayır,5.0,9437.04
+S000756,M0198,2025-06-26,Bursa,22,Kozmetik,1263.81,2.0,0.1,Yeni Üye,Banka Kartı,Tablet,1.0,Hayır,4.0,2274.86
+S000589,M0130,2025-02-21,İstanbul,36,Elektronik,5491.5,1.0,0.1,Sepette İndirim,Kredi Kartı,Masaüstü,3.0,Hayır,4.0,4942.35
+S000909,M0184,2025-05-02,İstanbul,25,Kitap,111.76,3.0,0.25,Sepette İndirim,Kredi Kartı,Tablet,2.0,Hayır,4.0,251.46
+S000371,M0052,2025-06-03,Bursa,31,Giyim,427.31,3.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,4.0,1281.93
+S000181,M0075,2025-09-25,İstanbul,39,Elektronik,13774.88,1.0,0.0,Yok,Havale/EFT,Masaüstü,4.0,Hayır,5.0,13649.88
+S000162,M0309,2025-09-27,İzmir,18,Kozmetik,400.85,-2.0,0.2,Sepette İndirim,Havale/EFT,Mobil,4.0,Hayır,5.0,320.68
+S001229,M0171,2025-04-15,İstanbul,9,Ev & Yaşam,683.09,3.0,0.05,Yok,Kredi Kartı,Mobil,7.0,Hayır,5.0,1946.81
+S000911,M0306,2025-12-09,Ankara,25,Spor,815.0,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,3.0,Hayır,4.0,733.5
+S000495,M0245,2025-04-20,İstanbul,10,Giyim,357.65,1.0,0.2,Özel Gün,Kredi Kartı,Mobil,2.0,Hayır,5.0,286.12
+S000840,M0298,2025-04-04,Elazığ,35,Elektronik,7859.83,1.0,0.15,Sepette İndirim,Kredi Kartı,Masaüstü,4.0,Hayır,5.0,6680.86
+S000400,M0309,2025-01-05,İzmir,18,Giyim,1092.71,1.0,0.2,Sepette İndirim,Havale/EFT,Masaüstü,2.0,Hayır,4.0,874.17
+S000898,M0309,2025-10-08,İzmir,18,Spor,2636.05,1.0,0.3,Özel Gün,Kredi Kartı,Masaüstü,5.0,Hayır,4.0,1845.24
+S000029,M0026,2025-06-04,İstanbul,7,Kitap,148.73,3.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,4.0,Hayır,5.0,356.95
+S000515,M0309,2025-05-07,İzmir,18,Giyim,1112.74,2.0,0.0,Yok,Kredi Kartı,Masaüstü,1.0,Hayır,,2225.48
+S000286,M0149,2025-01-01,İstanbul,40,Kitap,222.77,6.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,6.0,Hayır,3.0,1202.96
+S001300,M0309,2025-10-25,İzmir,18,Ev & Yaşam,369.19,3.0,0.0,Yok,Banka Kartı,Mobil,4.0,Hayır,5.0,1107.57
+S001219,M0163,2025-06-23,Elazığ,38,Spor,706.42,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,8.0,Hayır,3.0,600.46
+S000287,M0022,2025-05-21,İstanbul,30,Ev & Yaşam,1744.71,1.0,0.0,Yok,Banka Kartı,Mobil,1.0,Hayır,4.0,1744.71
+S001242,M0133,2025-03-04,Ankara,25,Kozmetik,312.17,2.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,3.0,499.47
+S000410,M0134,2025-07-13,Ankara,30,Kozmetik,549.28,1.0,0.0,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,549.28
+S000776,M0268,2025-07-18,Ankara,25,Kozmetik,176.06,1.0,0.05,Yok,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,167.26
+S000364,M0081,2025-12-02,Ankara,26,Kozmetik,209.34,1.0,,Yok,Banka Kartı,Mobil,4.0,Hayır,4.0,209.34
+S000494,M0163,2025-10-22,Elazığ,38,Ev & Yaşam,869.32,1.0,0.0,Yok,Kapıda Ödeme,Mobil,6.0,Hayır,4.0,869.32
+S000206,M0309,2025-11-21,İzmir,18,Giyim,1035.48,1.0,0.0,Yok,Kapıda Ödeme,Masaüstü,3.0,Evet,2.0,1035.48
+S001194,M0309,2025-12-22,İzmir,18,Giyim,666.9,1.0,0.15,Yeni Üye,Banka Kartı,Mobil,3.0,Hayır,4.0,566.86
+S000342,M0004,2025-03-18,İzmir,45,Ev & Yaşam,823.76,1.0,0.25,Sepette İndirim,Havale/EFT,Mobil,3.0,Hayır,4.0,617.82
+S000917,M0015,2025-12-10,İstanbul,35,Kitap,261.74,3.0,0.0,Yok,Kapıda Ödeme,Mobil,3.0,Hayır,5.0,785.22
+S000170,M0280,2025-05-28,İstanbul,17,Spor,448.81,2.0,0.1,Hafta Sonu,Banka Kartı,Mobil,3.0,Hayır,4.0,807.86
+S000971,M0230,2025-12-22,İstanbul,1,Elektronik,2188.79,1.0,0.0,Yok,Kapıda Ödeme,Masaüstü,3.0,Hayır,5.0,2188.79
+S000748,M0233,2025-05-01,Ankara,27,Giyim,1016.15,4.0,0.0,Yok,Kredi Kartı,Masaüstü,7.0,Hayır,3.0,4064.6
+S001001,M0191,2025-10-23,Bursa,48,Giyim,370.43,2.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,5.0,740.86
+S000035,M0253,2025-04-06,Ankara,5,Kozmetik,679.08,1.0,0.0,Yok,Kredi Kartı,Masaüstü,2.0,Evet,3.0,679.08
+S000147,M0309,2025-07-16,İzmir,18,Spor,708.3,3.0,0.15,Yeni Üye,Kredi Kartı,Mobil,2.0,Hayır,4.0,1806.16
+S001081,M0230,2025-07-11,İstanbul,1,Kitap,360.45,2.0,0.15,Yeni Üye,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,612.76
+S000247,M0109,2025-07-29,İstanbul,27,Elektronik,9165.9,2.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,2.0,Hayır,3.0,16498.62
+S000537,M0027,2025-11-04,Ankara,40,Giyim,835.55,6.0,0.25,Özel Gün,Kredi Kartı,Mobil,3.0,Hayır,5.0,3759.97
+S000250,M0309,2025-12-16,İzmir,18,Spor,776.55,1.0,0.25,Özel Gün,Banka Kartı,Mobil,4.0,Hayır,4.0,582.41
+S000500,M0144,2025-07-13,Bursa,8,Ev & Yaşam,388.36,3.0,0.0,Yok,Havale/EFT,Mobil,11.0,Hayır,3.0,1165.08
+S001392,M0197,2025-09-23,İstanbul,4,Ev & Yaşam,741.13,1.0,0.0,Yok,Kredi Kartı,Mobil,6.0,Hayır,3.0,741.13
+S000189,M0254,2025-05-15,İzmir,22,Giyim,1318.98,1.0,0.0,Yok,Kredi Kartı,Masaüstü,1.0,Evet,3.0,1318.98
+S001128,M0309,2025-11-30,İzmir,18,Spor,1185.19,1.0,0.25,Sepette İndirim,Kapıda Ödeme,Mobil,3.0,Hayır,4.0,888.89
+S000595,M0309,2025-06-13,İzmir,18,Elektronik,942.34,1.0,0.1,Hafta Sonu,Kapıda Ödeme,Masaüstü,6.0,Evet,3.0,848.11
+S001085,M0309,2025-10-16,İzmir,18,Giyim,528.15,0.0,0.15,Hafta Sonu,Banka Kartı,Mobil,4.0,Hayır,5.0,897.85
+S000386,M0313,2025-11-18,İzmir,8,Giyim,822.58,5.0,0.0,Yok,Kredi Kartı,Masaüstü,3.0,Evet,3.0,4112.9
+S000476,M0053,2025-12-07,İstanbul,33,Giyim,312.64,1.0,0.15,Özel Gün,Kredi Kartı,Masaüstü,3.0,Hayır,4.0,265.74
+S000497,M0191,2025-04-11,Bursa,48,Kozmetik,351.33,2.0,,Hafta Sonu,Kredi Kartı,Mobil,4.0,Hayır,4.0,667.53
+S001254,M0219,2025-02-08,İstanbul,37,Spor,1847.42,2.0,0.0,Yok,Kredi Kartı,Masaüstü,8.0,Hayır,4.0,3694.84
+S000787,M0039,2025-08-08,Bursa,13,Spor,783.31,2.0,0.1,Hafta Sonu,Banka Kartı,Mobil,3.0,Hayır,4.0,1409.96
+S000820,M0058,2025-06-14,Ankara,9,Elektronik,4655.93,1.0,0.15,Yeni Üye,Havale/EFT,Mobil,1.0,Hayır,4.0,3957.54
+S000603,M0303,2025-12-03,Ankara,11,Spor,522.83,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,4.0,444.41
+S000422,M0121,2025-11-09,İstanbul,10,Spor,751.29,2.0,0.0,Yok,Kapıda Ödeme,Mobil,4.0,Hayır,4.0,1502.58
+S000779,M0090,2025-05-15,Bursa,18,Spor,2270.33,4.0,0.05,Yok,Kredi Kartı,Mobil,2.0,Hayır,5.0,8627.25
+S000016,M0226,2025-05-02,İstanbul,31,Elektronik,12909.52,1.0,0.25,Özel Gün,Kredi Kartı,Masaüstü,5.0,Hayır,4.0,9682.14
+S000124,M0305,2025-07-15,Ankara,27,Elektronik,4074.61,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,4.0,4074.61
+S000062,M0007,2025-03-25,Elazığ,17,Elektronik,14165.0,1.0,0.1,Yeni Üye,Kredi Kartı,Mobil,3.0,Hayır,5.0,12748.5
+S001234,M0309,2025-04-22,İzmir,18,Kozmetik,228.11,1.0,0.2,Özel Gün,Kredi Kartı,Tablet,3.0,Evet,,182.49
+S000758,M0186,2025-05-13,Malatya,25,Elektronik,2029.04,2.0,0.0,Yok,Kapıda Ödeme,Mobil,6.0,Hayır,5.0,4058.08
+S000153,M0309,2025-04-16,İzmir,18,Kitap,160.0,1.0,0.0,Yok,Kredi Kartı,Tablet,2.0,Hayır,5.0,160.0
+S000771,M0297,2025-09-03,Malatya,35,Elektronik,6254.39,1.0,0.0,Yok,Banka Kartı,Mobil,5.0,Hayır,5.0,6254.39
+S000961,M0309,2025-07-05,İzmir,18,Elektronik,4478.37,3.0,0.0,Yok,Havale/EFT,Mobil,5.0,Hayır,5.0,13435.11
+S000084,M0315,2025-01-13,İstanbul,36,Spor,985.85,2.0,0.2,Sepette İndirim,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,1577.36
+S000200,M0185,2025-09-30,Malatya,41,Spor,3613.01,2.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,5.0,6142.12
+S000912,M0044,2025-01-01,İstanbul,41,Ev & Yaşam,2639.89,1.0,0.0,Yok,Kapıda Ödeme,Mobil,2.0,Hayır,5.0,2639.89
+S001323,M0051,2025-05-04,Elazığ,34,Ev & Yaşam,1051.24,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,5.0,1051.24
+S000792,M0210,2025-10-02,Malatya,40,Giyim,482.59,1.0,0.15,Sepette İndirim,Kredi Kartı,Masaüstü,5.0,Hayır,4.0,410.2
+S000406,M0309,2025-06-27,İzmir,18,Giyim,1677.34,1.0,0.1,Hafta Sonu,Havale/EFT,Mobil,4.0,Hayır,5.0,1509.61
+S000313,M0309,2025-08-08,İzmir,18,Ev & Yaşam,1305.7,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,5.0,Hayır,4.0,1175.13
+S000928,M0316,2025-01-10,Elazığ,2,Ev & Yaşam,1612.03,2.0,0.15,Sepette İndirim,Kredi Kartı,Masaüstü,4.0,Hayır,4.0,2740.45
+S000415,M0119,2025-03-28,İzmir,16,Kozmetik,235.3,2.0,0.1,Yeni Üye,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,423.54
+S000649,M0309,2025-05-11,İzmir,18,Elektronik,2049.28,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,4.0,2049.28
+S000169,M0232,2025-04-21,Malatya,12,Giyim,333.06,1.0,0.1,Yeni Üye,Kredi Kartı,Mobil,2.0,Hayır,4.0,299.75
+S001276,M0079,2025-11-11,Ankara,40,Spor,1682.96,3.0,0.25,Sepette İndirim,Banka Kartı,Mobil,1.0,Hayır,5.0,3786.66
+S000005,M0309,2025-06-02,İzmir,18,Kozmetik,312.51,2.0,0.0,Yok,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,625.02
+S000303,M0309,2025-12-19,İzmir,18,Giyim,1033.48,1.0,0.15,Yeni Üye,Banka Kartı,Mobil,3.0,Hayır,5.0,878.46
+S000914,M0121,2025-11-27,İstanbul,10,Giyim,365.11,4.0,0.15,Hafta Sonu,Havale/EFT,Mobil,4.0,Hayır,5.0,1241.37
+S000087,M0309,2025-02-10,İzmir,18,Spor,1306.28,1.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,5.0,Hayır,3.0,1175.65
+S000651,M0269,2025-09-27,Malatya,45,Ev & Yaşam,2443.0,3.0,0.25,Özel Gün,Kredi Kartı,Mobil,6.0,Hayır,5.0,5496.75
+S001009,M0309,2025-01-28,İzmir,18,Kozmetik,570.22,3.0,0.15,Sepette İndirim,Banka Kartı,Mobil,4.0,Hayır,4.0,1454.06
+S001066,M0260,2025-07-27,Bursa,32,Elektronik,2110.15,3.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,1.0,Hayır,,5697.41
+S001048,M0174,2025-07-19,Bursa,5,Elektronik,2661.63,5.0,0.0,Yok,Havale/EFT,Masaüstü,1.0,Hayır,5.0,13308.15
+S000780,M0303,2025-11-20,Ankara,11,Ev & Yaşam,1218.98,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,4.0,1218.98
+S001223,M0148,2025-05-27,İstanbul,4,Elektronik,4220.82,1.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,1.0,Hayır,4.0,3798.74
+S000783,M0314,2025-04-17,İstanbul,20,Kitap,323.04,3.0,0.1,Yeni Üye,Havale/EFT,Mobil,2.0,Hayır,4.0,872.21
+S000453,M0049,2025-05-16,İzmir,45,Giyim,833.9,2.0,0.05,Yok,Kredi Kartı,Tablet,2.0,Hayır,4.0,1584.41
+S000636,M0309,2025-12-07,İzmir,18,Kozmetik,618.54,3.0,0.15,Sepette İndirim,Banka Kartı,Masaüstü,6.0,Hayır,4.0,1577.28
+S000106,M0210,2025-11-18,Malatya,40,Ev & Yaşam,676.13,1.0,0.25,Özel Gün,Kredi Kartı,Masaüstü,4.0,Evet,2.0,507.1
+S001258,M0098,2025-08-25,İstanbul,30,Spor,614.89,2.0,0.0,Yok,Banka Kartı,Mobil,2.0,Hayır,5.0,1229.78
+S000838,M0083,2025-07-11,Bursa,46,Kitap,202.44,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,2.0,Hayır,5.0,182.2
+S001038,M0309,2025-02-06,İzmir,18,Spor,322.98,1.0,0.0,Yok,Banka Kartı,Masaüstü,10.0,Evet,2.0,322.98
+S001386,M0222,2025-10-20,İstanbul,12,Spor,1304.93,1.0,0.0,Yok,Banka Kartı,Mobil,7.0,Hayır,2.0,1304.93
+S000521,M0250,2025-04-30,İstanbul,35,Kitap,253.05,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,5.0,215.09
+S001346,M0191,2025-01-24,Bursa,48,Giyim,611.94,3.0,,Yok,Kredi Kartı,Mobil,6.0,Hayır,4.0,1835.82
+S000762,M0306,2025-09-06,Ankara,25,Giyim,350.06,4.0,0.15,Sepette İndirim,Banka Kartı,Masaüstü,1.0,Hayır,5.0,1190.2
+S000710,M0105,2025-05-22,Ankara,45,Ev & Yaşam,720.49,1.0,0.05,Hafta Sonu,Havale/EFT,Mobil,2.0,Hayır,,684.47
+S000149,M0157,2025-01-15,İstanbul,24,Kozmetik,352.59,1.0,0.0,Yok,Kredi Kartı,Tablet,2.0,Hayır,5.0,352.59
+S000470,M0158,2025-02-10,Bursa,26,Kitap,316.35,2.0,0.0,Yok,Banka Kartı,Mobil,4.0,Hayır,3.0,632.7
+S001082,M0014,2025-07-09,Malatya,15,Kitap,270.27,1.0,0.15,Hafta Sonu,Kredi Kartı,Mobil,10.0,Hayır,2.0,229.73
+S000690,M0166,2025-01-26,İzmir,29,Kitap,130.36,2.0,0.0,Yok,Banka Kartı,Mobil,5.0,Hayır,4.0,260.72
+S000120,M0078,2025-02-05,İzmir,28,Spor,2010.53,2.0,0.0,Yok,Kredi Kartı,Masaüstü,2.0,Evet,3.0,4021.06
+S000194,M0233,2025-04-07,Ankara,27,Kitap,153.48,1.0,0.15,Sepette İndirim,Banka Kartı,Masaüstü,3.0,Hayır,4.0,130.46
+S000652,M0288,2025-01-24,Ankara,30,Kozmetik,388.16,4.0,0.05,Hafta Sonu,Banka Kartı,Mobil,2.0,Hayır,4.0,1475.01
+S001153,M0119,2025-01-07,İzmir,16,Giyim,1656.76,1.0,0.0,Yok,Banka Kartı,Mobil,3.0,Hayır,4.0,1656.76
+S000697,M0306,2025-10-22,Ankara,25,Giyim,1011.52,1.0,0.25,Sepette İndirim,Kredi Kartı,Mobil,4.0,Hayır,5.0,758.64
+S000750,M0051,2025-11-07,Elazığ,34,Elektronik,694.92,1.0,0.0,Yok,Kredi Kartı,Masaüstü,6.0,Hayır,4.0,694.92
+S001177,M0288,2025-09-29,Ankara,30,Kozmetik,326.53,1.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,5.0,326.53
+S001335,M0024,2025-01-18,Ankara,35,Kitap,331.24,2.0,0.0,Yok,Banka Kartı,Mobil,3.0,Hayır,5.0,662.48
+S000813,M0100,2025-12-19,İstanbul,35,Kozmetik,308.33,2.0,0.0,Yok,Banka Kartı,Mobil,1.0,Hayır,4.0,616.66
+S000439,M0309,2025-01-11,İzmir,18,Giyim,757.54,2.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,5.0,1515.08
+S000294,M0240,2025-12-03,Elazığ,21,Giyim,805.12,2.0,0.0,Yok,Kredi Kartı,Tablet,7.0,Hayır,4.0,1610.24
+S000285,M0282,2025-09-13,Malatya,39,Elektronik,8041.12,2.0,0.0,Yok,Banka Kartı,Mobil,3.0,Hayır,5.0,16082.24
+S000096,M0297,2025-01-23,Malatya,35,Spor,609.63,2.0,0.0,Yok,Banka Kartı,Mobil,4.0,Hayır,4.0,1219.26
+S000146,M0279,2025-05-12,Ankara,44,Ev & Yaşam,314.34,1.0,0.15,Özel Gün,Kredi Kartı,Masaüstü,1.0,Hayır,4.0,267.19
+S000522,M0002,2025-12-13,Ankara,26,Elektronik,5204.13,1.0,0.0,Yok,Kredi Kartı,Mobil,5.0,Hayır,5.0,5204.13
+S000197,M0245,2025-12-29,İstanbul,10,Kitap,314.7,2.0,0.2,Özel Gün,Kapıda Ödeme,Mobil,3.0,Hayır,4.0,503.52
+S000008,M0229,2025-03-25,İstanbul,1,Elektronik,7560.22,1.0,0.05,Hafta Sonu,Kapıda Ödeme,Mobil,3.0,Hayır,3.0,7182.21
+S000942,M0104,2025-05-05,Ankara,24,Giyim,884.34,2.0,0.0,Yok,Banka Kartı,Mobil,4.0,Hayır,5.0,1768.68
+S000229,M0155,2025-08-16,Ankara,7,Giyim,624.84,3.0,0.0,Yok,Kapıda Ödeme,Tablet,5.0,Hayır,4.0,1874.52
+S000394,M0215,2025-12-18,Elazığ,32,Elektronik,3180.25,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,3.0,3180.25
+S000417,M0203,2025-12-14,İstanbul,22,Kozmetik,301.7,1.0,0.0,Yok,Kapıda Ödeme,Masaüstü,5.0,Hayır,5.0,301.7
+S001327,M0269,2025-03-08,Malatya,45,Giyim,374.89,2.0,0.0,Yok,Kapıda Ödeme,Mobil,4.0,Hayır,4.0,749.78
+S001127,M0309,2025-08-01,İzmir,18,Spor,2084.38,1.0,0.1,Hafta Sonu,Banka Kartı,Masaüstü,5.0,Hayır,4.0,1875.94
+S000973,M0160,2025-10-04,Ankara,46,Spor,984.76,2.0,0.1,Hafta Sonu,Banka Kartı,Mobil,3.0,Hayır,3.0,1772.57
+S001326,M0306,2025-03-27,Ankara,25,Kozmetik,153.52,1.0,0.0,Yok,Kredi Kartı,Masaüstü,1.0,Hayır,4.0,153.52
+S000290,M0028,2025-09-29,Bursa,4,Giyim,946.59,2.0,0.1,Sepette İndirim,Havale/EFT,Mobil,1.0,Hayır,4.0,1703.86
+S001130,M0102,2025-08-01,İzmir,40,Ev & Yaşam,492.38,2.0,0.0,Yok,Banka Kartı,Mobil,8.0,Hayır,4.0,984.76
+S000243,M0305,2025-11-13,Ankara,27,Ev & Yaşam,2528.56,1.0,0.1,Yeni Üye,Kredi Kartı,Mobil,3.0,Evet,,2275.7
+S001186,M0064,2025-10-05,İzmir,40,Spor,1655.38,1.0,0.1,Sepette İndirim,Havale/EFT,Tablet,4.0,Hayır,3.0,1489.84
+S001086,M0213,2025-09-04,Ankara,7,Giyim,543.29,1.0,0.05,Yok,Kredi Kartı,Mobil,4.0,Hayır,5.0,516.13
+S000053,M0282,2025-01-08,Malatya,39,Spor,1138.17,2.0,0.2,Yeni Üye,Kredi Kartı,Mobil,3.0,Hayır,5.0,1821.07
+S000826,M0220,2025-03-21,Bursa,19,Kitap,303.82,1.0,0.1,Hafta Sonu,Havale/EFT,Mobil,2.0,Hayır,4.0,273.44
+S000508,M0218,2025-08-15,Ankara,46,Spor,1277.1,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,5.0,1277.1
+S000223,M0130,2025-11-24,İstanbul,36,Spor,680.42,2.0,0.0,Yok,Kredi Kartı,Tablet,3.0,Evet,5.0,1360.84
+S001149,M0220,2025-03-22,Bursa,19,Giyim,959.1,2.0,0.2,Sepette İndirim,Kredi Kartı,Masaüstü,6.0,Hayır,4.0,1534.56
+S000864,M0197,2025-11-02,İstanbul,4,Giyim,690.18,2.0,0.15,Sepette İndirim,Kredi Kartı,Masaüstü,3.0,Hayır,,1173.31
+S001047,M0115,2025-11-14,Bursa,25,Ev & Yaşam,1017.76,1.0,0.05,Yok,Kredi Kartı,Masaüstü,4.0,Hayır,4.0,966.87
+S000939,M0212,2025-02-25,Ankara,42,Kitap,275.13,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,5.0,275.13
+S000314,M0096,2025-11-12,Elazığ,22,Spor,837.73,2.0,0.1,Sepette İndirim,Havale/EFT,Mobil,4.0,Evet,2.0,1507.91
+S001399,M0107,2025-11-09,İzmir,6,Ev & Yaşam,454.42,1.0,0.0,Yok,Havale/EFT,Masaüstü,5.0,Hayır,4.0,454.42
+S000765,M0315,2025-09-11,İstanbul,36,Kitap,244.59,1.0,0.0,Yok,Kapıda Ödeme,Mobil,4.0,Hayır,5.0,244.59
+S000350,M0035,2025-08-10,Malatya,38,Kitap,195.1,2.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,4.0,Hayır,,370.69
+S000339,M0302,2025-01-29,Bursa,41,Spor,882.65,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,5.0,750.25
+S000127,M0309,2025-10-29,İzmir,18,Ev & Yaşam,4355.7,2.0,0.0,Yok,Banka Kartı,Mobil,,Hayır,4.0,8711.4
+S000638,M0303,2025-01-14,Ankara,11,Ev & Yaşam,474.76,1.0,0.2,Sepette İndirim,Kredi Kartı,Masaüstü,3.0,Hayır,4.0,379.81
+S000080,M0143,2025-11-25,Ankara,30,Spor,590.04,3.0,0.3,Özel Gün,Kapıda Ödeme,Mobil,2.0,Hayır,3.0,1239.08
+S000298,M0058,2025-03-01,Ankara,9,Elektronik,10983.36,1.0,0.1,Hafta Sonu,Banka Kartı,Mobil,1.0,Hayır,5.0,9885.02
+S000186,M0156,2025-11-21,Elazığ,27,Ev & Yaşam,771.38,2.0,0.0,Yok,Kredi Kartı,Mobil,12.0,Hayır,3.0,1542.76
+S000689,M0220,2025-08-27,Bursa,19,Giyim,409.32,4.0,0.05,Hafta Sonu,Banka Kartı,Mobil,3.0,Hayır,3.0,1555.42
+S000214,M0130,2025-03-19,İstanbul,36,Kitap,290.5,1.0,0.05,Yok,Kapıda Ödeme,Masaüstü,6.0,Hayır,4.0,275.97
+S001221,M0022,2025-06-01,İstanbul,30,Ev & Yaşam,2558.29,1.0,0.15,Hafta Sonu,Banka Kartı,Mobil,10.0,Hayır,4.0,2174.55
+S000950,M0001,2025-01-31,İstanbul,14,Kitap,100.33,1.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,1.0,Hayır,4.0,80.26
+S000482,M0024,2025-10-20,Ankara,35,Spor,1416.98,5.0,0.0,Yok,Banka Kartı,Masaüstü,3.0,Hayır,,7084.9
+S000981,M0024,2025-03-08,Ankara,35,Spor,2050.74,1.0,0.0,Yok,Kapıda Ödeme,Mobil,9.0,Hayır,4.0,2050.74
+S000527,M0124,2025-03-25,İzmir,1,Ev & Yaşam,940.63,1.0,0.1,Yeni Üye,Kapıda Ödeme,Mobil,6.0,Evet,3.0,846.57
+S001034,M0081,2025-06-19,Ankara,26,Kitap,293.24,2.0,0.0,Yok,Banka Kartı,Masaüstü,3.0,Hayır,4.0,586.48
+S000137,M0188,2025-01-17,İzmir,28,Elektronik,8678.52,1.0,0.0,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,8678.52
+S000599,M0110,2025-01-27,Bursa,20,Spor,437.08,1.0,0.15,Özel Gün,Banka Kartı,Mobil,4.0,Hayır,4.0,371.52
+S000442,M0024,2025-03-27,Ankara,35,Giyim,422.56,3.0,0.0,Yok,Kapıda Ödeme,Masaüstü,4.0,Hayır,4.0,1267.68
+S000074,M0140,2025-08-10,Bursa,26,Ev & Yaşam,1689.05,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,3.0,Hayır,5.0,1520.14
+S000774,M0154,2025-09-02,İstanbul,30,Giyim,486.67,1.0,0.15,Yeni Üye,Banka Kartı,Masaüstü,1.0,Hayır,4.0,413.67
+S001024,M0189,2025-04-18,Ankara,16,Spor,537.68,1.0,0.0,Yok,Banka Kartı,Mobil,1.0,Hayır,4.0,537.68
+S000644,M0279,2025-10-30,Ankara,44,Giyim,385.82,3.0,0.1,Sepette İndirim,Banka Kartı,Tablet,2.0,Hayır,5.0,1041.71
+S000037,M0309,2025-09-12,İzmir,18,Elektronik,3095.31,1.0,0.0,Yok,Kredi Kartı,Masaüstü,6.0,Hayır,5.0,3095.31
+S001179,M0309,2025-06-03,İzmir,18,Kitap,165.21,2.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,4.0,330.42
+S000935,M0195,2025-02-21,Elazığ,5,Kitap,158.02,1.0,0.1,Sepette İndirim,Kredi Kartı,Masaüstü,4.0,Hayır,4.0,142.22
+S000987,M0244,2025-09-07,İstanbul,42,Ev & Yaşam,558.22,2.0,0.2,Sepette İndirim,Banka Kartı,Mobil,1.0,Hayır,4.0,893.15
+S001158,M0309,2025-12-09,İzmir,18,Ev & Yaşam,1157.79,1.0,0.25,Özel Gün,Kredi Kartı,Mobil,2.0,Evet,,868.34
+S000159,M0306,2025-09-08,Ankara,25,Giyim,1390.05,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,3.0,Evet,,1251.04
+S000083,M0042,2025-02-06,İstanbul,22,Kozmetik,449.79,2.0,0.1,Yeni Üye,Kredi Kartı,Mobil,5.0,Hayır,5.0,809.62
+S000728,M0071,2025-12-04,Ankara,24,Ev & Yaşam,1130.55,1.0,0.0,Yok,Kredi Kartı,Masaüstü,10.0,Hayır,4.0,1130.55
+S000518,M0017,2025-10-05,Malatya,35,Giyim,349.31,1.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,4.0,314.38
+S000292,M0273,2025-01-05,İstanbul,18,Kitap,417.95,1.0,0.05,Yok,Kredi Kartı,Masaüstü,2.0,Hayır,5.0,397.05
+S000635,M0192,2025-09-22,Bursa,35,Elektronik,2961.91,1.0,0.2,Özel Gün,Kredi Kartı,Mobil,2.0,Hayır,4.0,2369.53
+S001195,M0216,2025-06-09,Malatya,45,Giyim,784.85,2.0,0.0,Yok,Banka Kartı,Mobil,10.0,Hayır,3.0,1569.7
+S001220,M0126,2025-08-30,İzmir,27,Giyim,702.31,3.0,0.1,Hafta Sonu,Kredi Kartı,Tablet,1.0,Evet,3.0,1896.24
+S000337,M0305,2025-07-06,Ankara,27,Elektronik,2867.09,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,4.0,Hayır,5.0,2580.38
+S000320,M0251,2025-07-18,Bursa,21,Giyim,625.6,6.0,0.0,Yok,Kredi Kartı,Masaüstü,4.0,Hayır,5.0,3753.6
+S001050,M0309,2025-07-05,İzmir,18,Giyim,1129.79,2.0,0.05,Hafta Sonu,Banka Kartı,Mobil,2.0,Evet,2.0,2146.6
+S000034,M0213,2025-08-30,Ankara,7,Ev & Yaşam,1322.29,1.0,0.0,Yok,Kapıda Ödeme,Masaüstü,7.0,Hayır,3.0,1322.29
+S001198,M0261,2025-11-06,Bursa,14,Giyim,484.74,2.0,0.2,Yeni Üye,Banka Kartı,Mobil,1.0,Hayır,5.0,775.58
+S000754,M0036,2025-08-05,Ankara,35,Ev & Yaşam,793.23,5.0,0.0,Yok,Kredi Kartı,Masaüstü,2.0,Hayır,,3966.15
+S000512,M0291,2025-12-21,İstanbul,31,Kitap,107.31,3.0,0.2,Sepette İndirim,Havale/EFT,Masaüstü,2.0,Hayır,4.0,257.54
+S001363,M0309,2025-12-15,İzmir,18,Elektronik,3311.74,1.0,0.2,Yeni Üye,Kredi Kartı,Mobil,2.0,Hayır,5.0,2649.39
+S000276,M0282,2025-10-09,Malatya,39,Ev & Yaşam,676.32,2.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,6.0,Hayır,5.0,1149.74
+S000252,M0297,2025-12-11,Malatya,35,Ev & Yaşam,3227.39,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,4.0,3227.39
+S001262,M0268,2025-05-09,Ankara,25,Giyim,2003.2,1.0,0.0,Yok,Kredi Kartı,Mobil,7.0,Hayır,4.0,2003.2
+S001333,M0293,2025-01-15,İstanbul,31,Giyim,779.45,1.0,0.05,Yok,Kredi Kartı,Mobil,1.0,Hayır,4.0,740.48
+S000863,M0188,2025-09-24,İzmir,28,Giyim,919.39,2.0,0.15,Yeni Üye,Kapıda Ödeme,Masaüstü,2.0,Hayır,4.0,1562.96
+S001105,M0056,2025-08-29,Elazığ,27,Giyim,428.77,1.0,0.1,Sepette İndirim,Kredi Kartı,Masaüstü,5.0,Hayır,5.0,385.89
+S001214,M0245,2025-06-13,İstanbul,10,Giyim,312.36,2.0,0.05,Yok,Kredi Kartı,Mobil,6.0,Hayır,4.0,593.48
+S000629,M0166,2025-12-12,İzmir,29,Elektronik,4021.51,1.0,0.05,Yok,Kredi Kartı,Mobil,1.0,Hayır,5.0,3820.43
+S000613,M0138,2025-03-05,Ankara,45,Elektronik,2739.44,3.0,0.0,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,8218.32
+S000419,M0150,2025-02-24,İstanbul,26,Kitap,205.09,2.0,0.25,Sepette İndirim,Kredi Kartı,Tablet,1.0,Evet,3.0,307.64
+S000009,M0309,2025-11-11,İzmir,18,Elektronik,6853.14,1.0,0.2,Yeni Üye,Kredi Kartı,Mobil,5.0,Hayır,4.0,5482.51
+S001175,M0295,2025-12-25,İstanbul,47,Giyim,403.58,1.0,0.15,Yeni Üye,Havale/EFT,Tablet,2.0,Hayır,4.0,343.04
+S001211,M0309,2025-05-31,İzmir,18,Ev & Yaşam,1072.02,1.0,0.15,Sepette İndirim,Banka Kartı,Tablet,1.0,Hayır,,911.22
+S001028,M0131,2025-02-17,İzmir,29,Ev & Yaşam,972.32,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,8.0,Hayır,4.0,875.09
+S000929,M0309,2025-12-08,İzmir,18,Kozmetik,483.98,1.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,5.0,Hayır,4.0,387.18
+S000505,M0305,2025-09-11,Ankara,27,Elektronik,1921.29,3.0,0.25,Sepette İndirim,Kredi Kartı,Mobil,2.0,Evet,3.0,4322.9
+S001003,M0036,2025-02-15,Ankara,35,Giyim,782.59,1.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,1.0,Hayır,5.0,626.07
+S001084,M0016,2025-05-23,Malatya,30,Elektronik,5440.45,1.0,0.0,Yok,Havale/EFT,Tablet,,Hayır,4.0,5440.45
+S000730,M0198,2025-03-02,Bursa,22,Spor,875.46,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,5.0,Hayır,5.0,744.14
+S001046,M0174,2025-11-10,Bursa,5,Kozmetik,464.69,1.0,,Hafta Sonu,Havale/EFT,Mobil,4.0,Hayır,5.0,418.22
+S000382,M0309,2025-02-28,İzmir,18,Giyim,280.66,3.0,0.05,Hafta Sonu,Banka Kartı,Mobil,2.0,Evet,2.0,799.88
+S001261,M0214,2025-12-06,İstanbul,6,Giyim,1734.85,1.0,0.0,Yok,Banka Kartı,Masaüstü,3.0,Hayır,5.0,1734.85
+S000860,M0309,2025-02-01,İzmir,18,Elektronik,2084.93,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,2.0,Hayır,4.0,1876.44
+S000615,M0298,2025-09-14,Elazığ,35,Ev & Yaşam,739.1,2.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,5.0,1182.56
+S000980,M0107,2025-09-10,İzmir,6,Elektronik,6190.62,2.0,0.05,Hafta Sonu,Havale/EFT,Mobil,4.0,Hayır,4.0,11762.18
+S001210,M0049,2025-02-21,İzmir,45,Kozmetik,530.12,1.0,0.1,Yeni Üye,Kredi Kartı,Mobil,4.0,Evet,4.0,477.11
+S000968,M0309,2025-03-30,İzmir,18,Spor,1425.74,1.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,9.0,Hayır,2.0,1140.59
+S000469,M0283,2025-04-12,İstanbul,14,Ev & Yaşam,248.83,1.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,1.0,Hayır,5.0,223.95
+S001087,M0031,2025-05-24,Ankara,13,Kitap,209.65,2.0,,Sepette İndirim,Havale/EFT,Masaüstü,4.0,Hayır,3.0,356.4
+S000827,M0191,2025-06-13,Bursa,48,Ev & Yaşam,956.53,4.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,,Hayır,4.0,3252.2
+S001298,M0163,2025-03-12,Elazığ,38,Ev & Yaşam,792.43,1.0,0.25,Sepette İndirim,Kredi Kartı,Masaüstü,2.0,Evet,2.0,594.32
+S000177,M0134,2025-07-19,Ankara,30,Kozmetik,384.81,4.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,5.0,1539.24
+S000268,M0309,2025-08-07,İzmir,18,Elektronik,14761.36,5.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,3.0,Evet,3.0,66426.12
+S001359,M0284,2025-07-08,İzmir,13,Kitap,304.25,2.0,0.0,Yok,Havale/EFT,Mobil,2.0,Hayır,5.0,608.5
+S000309,M0309,2025-12-30,İzmir,18,Kitap,267.85,1.0,0.1,Sepette İndirim,Banka Kartı,Mobil,3.0,Hayır,5.0,241.07
+S001358,M0182,2025-08-23,Ankara,12,Kitap,294.98,1.0,0.2,Yeni Üye,Havale/EFT,Mobil,1.0,Hayır,5.0,235.98
+S000324,M0312,2025-05-21,İstanbul,11,Giyim,168.87,2.0,0.0,Yok,Banka Kartı,Mobil,3.0,Evet,2.0,337.74
+S001056,M0254,2025-07-31,İzmir,22,Ev & Yaşam,296.47,3.0,0.05,Hafta Sonu,Kredi Kartı,Masaüstü,2.0,Hayır,5.0,844.94
+S001172,M0254,2025-11-12,İzmir,22,Ev & Yaşam,2066.18,1.0,0.25,Sepette İndirim,Kredi Kartı,Masaüstü,5.0,Hayır,,1549.63
+S000581,M0119,2025-09-10,İzmir,16,Kozmetik,424.28,2.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,,848.56
+S000704,M0309,2025-06-10,İzmir,18,Giyim,993.85,1.0,0.2,Özel Gün,Banka Kartı,Mobil,4.0,Hayır,3.0,795.08
+S000451,M0036,2025-10-17,Ankara,35,Giyim,201.04,2.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,4.0,Hayır,4.0,361.87
+S000202,M0294,2025-05-19,İzmir,18,Giyim,407.04,1.0,0.15,Hafta Sonu,Kapıda Ödeme,Masaüstü,9.0,Hayır,4.0,345.98
+S000706,M0309,2025-12-01,İzmir,18,Giyim,873.38,2.0,0.0,Yok,Havale/EFT,Mobil,4.0,Hayır,4.0,1746.76
+S000321,M0309,2025-05-09,İzmir,18,Ev & Yaşam,770.24,1.0,0.15,Sepette İndirim,Banka Kartı,Masaüstü,2.0,Hayır,3.0,654.7
+S001049,M0305,2025-12-18,Ankara,27,Elektronik,1667.7,1.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,2.0,Evet,3.0,1584.32
+S000850,M0306,2025-09-23,Ankara,25,Kitap,195.68,1.0,0.0,Yok,Kapıda Ödeme,Masaüstü,6.0,Hayır,4.0,195.68
+S000677,M0022,2025-03-25,İstanbul,30,Kitap,206.5,3.0,0.05,Yok,Banka Kartı,Mobil,2.0,Hayır,5.0,588.52
+S001009,M0309,2025-01-28,İzmir,18,Kozmetik,570.22,3.0,0.15,Sepette İndirim,Banka Kartı,Mobil,4.0,Hayır,4.0,1454.06
+S001275,M0252,2025-10-13,Ankara,16,Giyim,814.39,2.0,0.15,Hafta Sonu,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,1384.46
+S000192,M0170,2025-07-12,Ankara,43,Kitap,177.34,4.0,0.0,Yok,Kredi Kartı,Mobil,5.0,Hayır,5.0,709.36
+S000547,M0136,2025-12-26,İstanbul,25,Kozmetik,204.05,2.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,4.0,408.1
+S000632,M0254,2025-12-09,İzmir,22,Elektronik,12668.33,1.0,0.2,Sepette İndirim,Banka Kartı,Mobil,3.0,Hayır,4.0,10134.66
+S001365,M0051,2025-12-06,Elazığ,34,Kozmetik,561.27,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,4.0,Hayır,5.0,505.14
+S000046,M0253,2025-03-24,Ankara,5,Elektronik,11644.62,1.0,0.25,Sepette İndirim,Kredi Kartı,Mobil,,Hayır,5.0,8733.46
+S000548,M0119,2025-06-01,İzmir,16,Kitap,390.84,2.0,0.15,Hafta Sonu,Kredi Kartı,Mobil,4.0,Hayır,3.0,664.43
+S000413,M0006,2025-08-02,Bursa,40,Elektronik,4283.81,1.0,0.0,Yok,Havale/EFT,Mobil,2.0,Hayır,5.0,4283.81
+S001339,M0306,2025-04-13,Ankara,25,Giyim,465.87,3.0,0.0,Yok,Kredi Kartı,Masaüstü,,Hayır,3.0,1397.61
+S000356,M0309,2025-07-12,İzmir,18,Spor,835.65,3.0,0.0,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,2506.95
+S000437,M0256,2025-01-15,Ankara,13,Kitap,174.22,1.0,0.25,Özel Gün,Kredi Kartı,Mobil,5.0,Evet,,130.66
+S000887,M0309,2025-08-14,İzmir,18,Elektronik,1558.91,1.0,0.0,Yok,Kredi Kartı,Masaüstü,1.0,Evet,3.0,1558.91
+S000883,M0247,2025-11-23,Elazığ,19,Kozmetik,298.27,1.0,0.0,Yok,Kredi Kartı,Mobil,7.0,Hayır,4.0,298.27
+S000976,M0309,2025-02-05,İzmir,18,Kozmetik,485.41,1.0,0.15,Hafta Sonu,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,412.6
+S000719,M0155,2025-05-01,Ankara,7,Giyim,1054.35,2.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,4.0,2108.7
+S000958,M0279,2025-10-22,Ankara,44,Ev & Yaşam,604.46,5.0,0.0,Yok,Kredi Kartı,Masaüstü,9.0,Hayır,5.0,3022.3
+S000450,M0135,2025-07-05,Malatya,22,Elektronik,2099.29,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,2.0,2099.29
+S000006,M0306,2025-07-11,Ankara,25,Ev & Yaşam,575.36,1.0,0.05,Yok,Kredi Kartı,Mobil,2.0,Hayır,,546.59
+S000801,M0057,2025-05-30,Bursa,16,Kozmetik,881.98,1.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,5.0,881.98
+S000420,M0087,2025-01-02,İstanbul,45,Giyim,430.19,1.0,0.0,Yok,Banka Kartı,Masaüstü,3.0,Hayır,5.0,430.19
+S000510,M0309,2025-05-28,İzmir,18,Ev & Yaşam,791.94,3.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,3.0,Hayır,5.0,2257.03
+S000989,M0201,2025-11-16,Ankara,17,Kozmetik,360.36,1.0,0.2,Özel Gün,Kapıda Ödeme,Mobil,35.0,Hayır,4.0,288.29
+S000260,M0246,2025-07-23,İstanbul,17,Elektronik,4232.74,1.0,0.0,Yok,Kredi Kartı,Masaüstü,1.0,Hayır,5.0,4232.74
+S000601,M0030,2025-09-07,Elazığ,35,Giyim,245.91,1.0,0.05,Yok,Havale/EFT,Masaüstü,3.0,Hayır,4.0,233.61
+S000688,M0001,2025-07-15,İstanbul,14,Giyim,728.01,1.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Evet,,728.01
+S000373,M0313,2025-09-30,İzmir,8,Spor,704.82,2.0,0.15,Özel Gün,Kredi Kartı,Mobil,4.0,Hayır,5.0,1198.19
+S000362,M0309,2025-06-01,İzmir,18,Kozmetik,209.5,1.0,0.2,Sepette İndirim,Havale/EFT,Mobil,3.0,Hayır,4.0,167.6
+S000269,M0254,2025-04-13,İzmir,22,Giyim,1176.71,5.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,5.0,Hayır,3.0,5589.37
+S001187,M0284,2025-06-19,İzmir,13,Ev & Yaşam,1411.08,3.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,4.0,4233.24
+S001212,M0309,2025-11-06,İzmir,18,Spor,413.4,2.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,4.0,826.8
+S000219,M0287,2025-05-08,Ankara,5,Giyim,574.78,1.0,0.0,Yok,Kredi Kartı,Tablet,5.0,Hayır,4.0,574.78
+S000288,M0306,2025-02-05,Ankara,25,Elektronik,7266.11,1.0,0.2,Özel Gün,Kredi Kartı,Mobil,4.0,Hayır,5.0,5812.89
+S001061,M0040,2025-08-28,İzmir,19,Giyim,535.8,1.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,4.0,535.8
+S001228,M0136,2025-09-24,İstanbul,25,Giyim,606.55,1.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,1.0,Hayır,5.0,545.9
+S000766,M0205,2025-03-31,İstanbul,39,Elektronik,2412.83,2.0,0.0,Yok,Kredi Kartı,Mobil,7.0,Hayır,3.0,4825.66
+S001022,M0066,2025-02-10,İzmir,47,Spor,926.78,4.0,0.05,Yok,Havale/EFT,Mobil,3.0,Hayır,,3521.76
+S000110,M0056,2025-06-16,Elazığ,27,Giyim,591.88,3.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,4.0,Hayır,5.0,1598.08
+S001224,M0123,2025-11-27,Bursa,42,Spor,1213.82,2.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,5.0,Hayır,5.0,2184.88
+S001388,M0305,2025-08-26,Ankara,27,Spor,1337.05,1.0,0.1,Hafta Sonu,Banka Kartı,Mobil,8.0,Evet,,1203.34
+S000502,M0155,2025-03-03,Ankara,7,Kitap,331.91,2.0,0.1,Yeni Üye,Havale/EFT,Mobil,2.0,Hayır,3.0,597.44
+S000874,M0301,2025-04-24,Bursa,4,Kozmetik,797.72,5.0,0.0,Yok,Banka Kartı,Masaüstü,4.0,Hayır,4.0,3988.6
+S001248,M0007,2025-08-21,Elazığ,17,Elektronik,6369.9,1.0,0.25,Özel Gün,Kredi Kartı,Masaüstü,8.0,Evet,,4777.42
+S001065,M0097,2025-09-19,İzmir,32,Ev & Yaşam,707.14,1.0,0.2,Sepette İndirim,Kredi Kartı,Tablet,3.0,Hayır,5.0,565.71
+S000372,M0022,2025-09-27,İstanbul,30,Giyim,567.29,3.0,0.2,Özel Gün,Kredi Kartı,Mobil,3.0,Evet,2.0,1361.5
+S000806,M0191,2025-12-10,Bursa,48,Spor,3010.62,1.0,0.15,Yeni Üye,Kredi Kartı,Mobil,4.0,Hayır,5.0,2559.03
+S000281,M0119,2025-04-14,İzmir,16,Elektronik,9584.93,1.0,0.0,Yok,Banka Kartı,Mobil,5.0,Hayır,4.0,9584.93
+S000148,M0119,2025-09-09,İzmir,16,Ev & Yaşam,1121.17,2.0,0.15,Sepette İndirim,Kapıda Ödeme,Mobil,3.0,Hayır,4.0,1905.99
+S000761,M0204,2025-09-09,İstanbul,23,Ev & Yaşam,558.88,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,1.0,Hayır,5.0,502.99
+S000892,M0165,2025-06-12,Malatya,15,Spor,519.52,5.0,0.0,Yok,Kredi Kartı,Masaüstü,5.0,Hayır,3.0,2597.6
+S000166,M0064,2025-04-17,İzmir,40,Giyim,726.84,2.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,2.0,Evet,2.0,1308.31
+S001230,M0026,2025-06-04,İstanbul,7,Elektronik,3647.93,1.0,0.1,Sepette İndirim,Kredi Kartı,Masaüstü,3.0,Hayır,4.0,3283.14
+S000405,M0308,2025-07-27,İstanbul,32,Ev & Yaşam,1863.32,2.0,0.2,Yeni Üye,Kredi Kartı,Mobil,2.0,Hayır,5.0,2981.31
+S000380,M0256,2025-04-02,Ankara,13,Giyim,696.16,1.0,0.2,Sepette İndirim,Kredi Kartı,Masaüstü,6.0,Hayır,5.0,556.93
+S000462,M0217,2025-04-05,Ankara,46,Spor,692.91,1.0,0.2,Sepette İndirim,Havale/EFT,Mobil,5.0,Hayır,4.0,554.33
+S000215,M0298,2025-11-12,Elazığ,35,Elektronik,3935.1,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,4.0,3935.1
+S000142,M0205,2025-11-15,İstanbul,39,Kozmetik,290.48,4.0,0.15,Sepette İndirim,Banka Kartı,Masaüstü,5.0,Hayır,4.0,987.63
+S000284,M0309,2025-02-02,İzmir,18,Kozmetik,233.1,1.0,0.1,Hafta Sonu,Havale/EFT,Tablet,1.0,Hayır,4.0,209.79
+S000568,M0195,2025-12-26,Elazığ,5,Kitap,213.89,2.0,0.15,Hafta Sonu,Kredi Kartı,Mobil,5.0,Hayır,4.0,363.61
+S001156,M0300,2025-01-15,İzmir,41,Kitap,267.01,4.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,1.0,Hayır,4.0,1014.64
+S000772,M0056,2025-03-04,Elazığ,27,Kozmetik,527.73,1.0,0.0,Yok,,Mobil,2.0,Hayır,5.0,527.73
+S000357,M0220,2025-07-03,Bursa,19,Kitap,271.21,1.0,0.05,Yok,Banka Kartı,Mobil,3.0,Hayır,5.0,257.65
+S000807,M0305,2025-11-22,Ankara,27,Spor,796.7,1.0,0.1,Hafta Sonu,Havale/EFT,Masaüstü,1.0,Evet,3.0,717.03
+S000557,M0236,2025-04-23,Ankara,28,Ev & Yaşam,1288.68,3.0,0.25,Özel Gün,Kredi Kartı,Mobil,2.0,Hayır,4.0,2899.53
+S000549,M0309,2025-12-13,İzmir,18,Ev & Yaşam,3071.06,3.0,0.1,Yeni Üye,Havale/EFT,Mobil,1.0,Hayır,4.0,8291.86
+S000090,M0060,2025-09-18,Ankara,1,Kozmetik,560.84,5.0,0.0,Yok,Banka Kartı,Masaüstü,3.0,Hayır,4.0,2804.2
+S001139,M0299,2025-08-16,Ankara,27,Kozmetik,535.57,1.0,0.2,Sepette İndirim,Kredi Kartı,Tablet,7.0,Hayır,4.0,428.46
+S000507,M0110,2025-01-06,Bursa,20,Elektronik,949.23,1.0,0.0,Yok,Kredi Kartı,Masaüstü,7.0,Hayır,5.0,949.23
+S001132,M0300,2025-03-15,İzmir,41,Ev & Yaşam,609.69,2.0,0.1,Hafta Sonu,Banka Kartı,Masaüstü,2.0,Hayır,4.0,1097.44
+S000872,M0230,2025-10-19,İstanbul,1,Spor,961.7,4.0,0.25,Özel Gün,Kapıda Ödeme,Mobil,8.0,Evet,,2885.1
+S000063,M0277,2025-03-24,İstanbul,7,Elektronik,6341.75,1.0,0.0,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,3.0,6341.75
+S000435,M0184,2025-05-14,İstanbul,25,Giyim,235.68,2.0,0.15,Yeni Üye,Kapıda Ödeme,Mobil,4.0,Hayır,5.0,400.66
+S001157,M0243,2025-06-10,Malatya,34,Ev & Yaşam,706.58,3.0,0.0,Yok,Banka Kartı,Mobil,4.0,Hayır,4.0,2119.74
+S000352,M0290,2025-11-01,Ankara,25,Ev & Yaşam,2072.08,1.0,0.15,Hafta Sonu,Havale/EFT,Masaüstü,,Hayır,4.0,1761.27
+S000870,M0074,2025-01-27,İzmir,3,Giyim,1000.01,1.0,0.05,Yok,Havale/EFT,Mobil,3.0,Evet,1.0,950.01
+S000511,M0134,2025-05-24,Ankara,30,Elektronik,5250.64,1.0,0.1,Hafta Sonu,Banka Kartı,Mobil,9.0,Hayır,4.0,4725.58
+S000457,M0195,2025-07-24,Elazığ,5,Ev & Yaşam,1325.92,1.0,0.0,Yok,Kredi Kartı,Masaüstü,5.0,Hayır,,1325.92
+S001274,M0175,2025-07-02,İstanbul,14,Kitap,330.43,1.0,0.2,Sepette İndirim,Havale/EFT,Masaüstü,1.0,Hayır,4.0,311.92
+S000307,M0113,2025-03-03,İzmir,19,Ev & Yaşam,793.81,2.0,0.05,Yok,Banka Kartı,Tablet,9.0,Hayır,3.0,1508.24
+S000849,M0309,2025-08-08,İzmir,18,Kitap,249.34,1.0,0.0,Yok,Kapıda Ödeme,Masaüstü,5.0,Hayır,5.0,249.34
+S001336,M0237,2025-02-17,Malatya,13,Kozmetik,624.52,3.0,0.1,Yeni Üye,Kredi Kartı,Mobil,5.0,Hayır,4.0,1686.2
+S000426,M0043,2025-06-08,Bursa,26,Kozmetik,332.12,2.0,0.25,Özel Gün,Kredi Kartı,Mobil,2.0,Hayır,4.0,498.18
+S001286,M0315,2025-04-29,İstanbul,36,Spor,357.77,2.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,4.0,715.54
+S000455,M0309,2025-07-13,İzmir,18,Kitap,198.68,1.0,0.1,Yeni Üye,Kredi Kartı,Mobil,2.0,Hayır,4.0,178.81
+S000085,M0221,2025-01-16,Elazığ,24,Ev & Yaşam,1815.24,5.0,0.2,Yeni Üye,Banka Kartı,Masaüstü,8.0,Hayır,3.0,7260.96
+S000741,M0079,2025-09-05,Ankara,40,Elektronik,2097.29,4.0,0.15,Hafta Sonu,Kredi Kartı,Masaüstü,2.0,Hayır,5.0,7130.79
+S000481,M0282,2025-11-15,Malatya,39,Giyim,469.86,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,,469.86
+S001099,M0228,2025-09-09,İstanbul,27,Kitap,162.87,1.0,0.25,Özel Gün,Kredi Kartı,Mobil,3.0,Hayır,4.0,122.15
+S000175,M0309,2025-12-10,İzmir,18,Spor,767.22,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,4.0,767.22
+S000293,M0309,2025-11-13,İzmir,18,Elektronik,9233.29,3.0,0.15,Sepette İndirim,Banka Kartı,Mobil,4.0,Hayır,4.0,23544.89
+S000791,M0309,2025-07-04,İzmir,18,Giyim,564.77,1.0,0.05,Yok,Kapıda Ödeme,Masaüstü,4.0,Evet,3.0,536.53
+S001343,M0309,2025-06-08,İzmir,18,Kozmetik,796.67,1.0,0.15,Sepette İndirim,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,677.17
+S000403,M0309,2025-01-24,İzmir,18,Ev & Yaşam,870.72,1.0,0.1,Hafta Sonu,Havale/EFT,Mobil,5.0,Hayır,5.0,783.65
+S000375,M0199,2025-09-11,İzmir,24,Kozmetik,428.28,1.0,0.1,Yeni Üye,Kredi Kartı,Masaüstü,3.0,Hayır,4.0,385.45
+S000532,M0309,2025-08-21,İzmir,18,Kitap,75.3,1.0,0.0,Yok,Banka Kartı,Mobil,6.0,Hayır,4.0,75.3
+S000627,M0256,2025-05-24,Ankara,13,Giyim,268.94,1.0,0.2,Özel Gün,Havale/EFT,Mobil,3.0,Evet,3.0,215.15
+S000760,M0300,2025-02-12,İzmir,41,Kozmetik,525.63,1.0,0.25,Özel Gün,Banka Kartı,Masaüstü,1.0,Hayır,3.0,394.22
+S000128,M0309,2025-11-02,İzmir,18,Spor,220.13,1.0,0.0,Yok,Kredi Kartı,Masaüstü,6.0,Evet,3.0,220.13
+S001053,M0057,2025-10-30,Bursa,16,Spor,442.73,1.0,0.0,Yok,Banka Kartı,Tablet,4.0,Hayır,5.0,442.73
+S001236,M0027,2025-05-15,Ankara,40,Spor,899.21,2.0,0.1,Sepette İndirim,Kredi Kartı,Tablet,2.0,Hayır,5.0,1618.58
+S000052,M0111,2025-05-11,Malatya,23,Kitap,192.85,4.0,0.15,Özel Gün,Kapıda Ödeme,Masaüstü,5.0,Hayır,4.0,655.69
+S000349,M0119,2025-08-07,İzmir,16,Kozmetik,384.21,3.0,0.2,Sepette İndirim,Kapıda Ödeme,Mobil,4.0,Evet,4.0,922.1
+S000335,M0022,2025-04-01,İstanbul,30,Elektronik,2294.72,2.0,0.0,Yok,Havale/EFT,Masaüstü,4.0,Hayır,5.0,4589.44
+S000297,M0119,2025-04-19,İzmir,16,Elektronik,6044.01,3.0,0.0,Yok,Kredi Kartı,Mobil,8.0,Evet,1.0,18132.03
+S001256,M0060,2025-05-10,Ankara,1,Ev & Yaşam,1624.94,2.0,0.0,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,4.0,3249.88
+S001019,M0284,2025-10-26,İzmir,13,Giyim,402.57,1.0,0.15,Sepette İndirim,Kredi Kartı,Masaüstü,2.0,Hayır,5.0,342.18
+S000376,M0114,2025-05-13,Ankara,43,Kozmetik,556.01,1.0,0.25,Özel Gün,Banka Kartı,Mobil,2.0,Hayır,4.0,417.01
+S000777,M0306,2025-11-08,Ankara,25,Kitap,115.65,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,4.0,98.3
+S000901,M0197,2025-11-07,İstanbul,4,Giyim,1047.47,1.0,0.0,Yok,Havale/EFT,Mobil,3.0,Evet,3.0,1047.47
+S000900,M0147,2025-01-07,İstanbul,44,Kozmetik,358.84,5.0,0.2,Sepette İndirim,Havale/EFT,Masaüstü,3.0,Hayır,4.0,1435.36
+S000596,M0245,2025-11-13,İstanbul,10,Elektronik,4625.03,6.0,0.15,Yeni Üye,Kredi Kartı,Mobil,5.0,Hayır,4.0,23587.65
+S000769,M0250,2025-11-29,İstanbul,35,Ev & Yaşam,645.71,2.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,5.0,1166.42
+S000657,M0179,2025-06-24,İstanbul,5,Giyim,1030.32,4.0,0.0,Yok,Banka Kartı,Masaüstü,3.0,Evet,,4121.28
+S000591,M0309,2025-01-02,İzmir,18,Kozmetik,228.07,3.0,0.15,Hafta Sonu,Kapıda Ödeme,Mobil,2.0,Evet,3.0,581.58
+S001391,M0140,2025-05-17,Bursa,26,Giyim,1250.49,6.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,4.0,6377.5
+S001071,M0271,2025-05-27,İstanbul,40,Giyim,617.59,1.0,0.05,Hafta Sonu,Banka Kartı,Tablet,4.0,Hayır,5.0,586.71
+S001155,M0103,2025-03-23,Elazığ,39,Giyim,914.61,1.0,0.15,Yeni Üye,Banka Kartı,Masaüstü,4.0,Hayır,4.0,777.42
+S000108,M0222,2025-05-26,İstanbul,12,Spor,576.96,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,1.0,Hayır,5.0,519.26
+S001353,M0309,2025-06-18,İzmir,18,Giyim,835.84,3.0,0.05,Hafta Sonu,Banka Kartı,Mobil,1.0,Hayır,4.0,2382.14
+S001215,M0175,2025-07-08,İstanbul,14,Kozmetik,538.58,1.0,0.1,Hafta Sonu,Havale/EFT,Mobil,1.0,Hayır,5.0,484.72
+S000975,M0309,2025-10-03,İzmir,18,Giyim,565.92,1.0,0.1,Sepette İndirim,Kredi Kartı,Masaüstü,1.0,Hayır,5.0,509.33
+S000705,M0309,2025-11-13,İzmir,18,Ev & Yaşam,1280.67,1.0,0.05,Yok,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,1216.64
+S001000,M0293,2025-12-22,İstanbul,31,Giyim,1394.85,2.0,0.1,Yeni Üye,Kredi Kartı,Mobil,2.0,Hayır,4.0,2510.73
+S000048,M0204,2025-08-29,İstanbul,23,Kitap,226.62,5.0,0.15,Sepette İndirim,Banka Kartı,Masaüstü,3.0,Hayır,5.0,963.13
+S001238,M0256,2025-01-01,Ankara,13,Ev & Yaşam,890.82,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,2.0,Hayır,4.0,801.74
+S000923,M0220,2025-06-08,Bursa,19,Spor,1055.46,2.0,0.25,Özel Gün,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,1583.19
+S000232,M0191,2025-07-21,Bursa,48,Kozmetik,207.94,2.0,0.1,Sepette İndirim,Banka Kartı,Masaüstü,2.0,Hayır,5.0,374.29
+S000944,M0309,2025-01-13,İzmir,18,Kozmetik,438.88,4.0,0.2,Özel Gün,Kredi Kartı,Tablet,3.0,Hayır,4.0,1404.42
+S001042,M0100,2025-10-15,İstanbul,35,Kitap,194.84,1.0,0.15,Yeni Üye,Kredi Kartı,Mobil,3.0,Hayır,5.0,165.61
+S000775,M0309,2025-08-12,İzmir,18,Spor,447.0,2.0,0.0,Yok,Havale/EFT,Mobil,1.0,Hayır,5.0,894.0
+S000210,M0314,2025-10-10,İstanbul,20,Elektronik,4209.11,3.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,3.0,Hayır,4.0,11995.96
+S000304,M0245,2025-11-28,İstanbul,10,Giyim,564.07,2.0,0.1,Sepette İndirim,Banka Kartı,Masaüstü,1.0,Hayır,4.0,1015.33
+S000819,M0251,2025-05-27,Bursa,21,Spor,575.21,1.0,0.0,Yok,Kredi Kartı,Mobil,6.0,Hayır,3.0,575.21
+S000683,M0311,2025-09-14,İstanbul,48,Kozmetik,659.05,5.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Evet,,3295.25
+S001231,M0316,2025-01-13,Elazığ,2,Elektronik,7054.44,2.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,10.0,Hayır,2.0,13403.44
+S001351,M0017,2025-12-19,Malatya,35,Ev & Yaşam,2256.27,1.0,0.1,Sepette İndirim,Kredi Kartı,Masaüstü,4.0,Hayır,5.0,2030.64
+S000565,M0309,2025-10-20,İzmir,18,Giyim,501.17,3.0,0.25,Özel Gün,Kapıda Ödeme,Mobil,4.0,Hayır,5.0,1127.63
+S001209,M0095,2025-09-25,Malatya,45,Ev & Yaşam,685.39,2.0,0.25,Sepette İndirim,Banka Kartı,Masaüstü,6.0,Hayır,3.0,1028.08
+S001278,M0298,2025-09-19,Elazığ,35,Elektronik,9362.17,5.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,5.0,46810.85
+S001190,M0058,2025-10-21,Ankara,9,Giyim,544.2,3.0,0.1,Hafta Sonu,Havale/EFT,Tablet,2.0,Hayır,5.0,1469.34
+S000039,M0253,2025-05-15,Ankara,5,Elektronik,4563.29,2.0,0.0,Yok,Banka Kartı,Mobil,3.0,Evet,3.0,9126.58
+S000492,M0134,2025-04-25,Ankara,30,Elektronik,6008.8,1.0,0.05,Yok,Kredi Kartı,Tablet,2.0,Hayır,4.0,5708.36
+S001125,M0061,2025-05-30,Elazığ,44,Ev & Yaşam,917.9,1.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,4.0,826.11
+S000461,M0023,2025-05-01,İstanbul,31,Giyim,991.14,3.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,6.0,Evet,2.0,2527.41
+S000551,M0309,2025-11-06,İzmir,18,Giyim,776.06,1.0,0.05,Yok,Kredi Kartı,Masaüstü,1.0,Evet,4.0,737.26
+S000562,M0309,2025-02-14,İzmir,18,Kitap,274.98,1.0,0.05,Hafta Sonu,Kapıda Ödeme,Mobil,3.0,Hayır,3.0,261.23
+S000592,M0043,2025-05-06,Bursa,26,Giyim,622.88,1.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,5.0,622.88
+S000323,M0294,2025-10-21,İzmir,18,Giyim,482.19,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,2.0,Hayır,4.0,433.97
+S000567,M0160,2025-05-18,Ankara,46,Kitap,87.76,2.0,,Yok,Kapıda Ödeme,Mobil,4.0,Hayır,5.0,175.52
+S000535,M0306,2025-01-02,Ankara,25,Elektronik,7015.37,3.0,0.0,Yok,Kredi Kartı,Masaüstü,6.0,Hayır,5.0,21046.11
+S000786,M0043,2025-07-22,Bursa,26,Kozmetik,332.53,3.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,2.0,Hayır,4.0,947.71
+S000509,M0220,2025-12-18,Bursa,19,Spor,498.97,6.0,0.1,Hafta Sonu,Banka Kartı,Mobil,4.0,Hayır,3.0,2694.44
+S001183,M0096,2025-02-04,Elazığ,22,Kitap,213.15,1.0,0.15,Yeni Üye,Banka Kartı,Mobil,9.0,Hayır,4.0,181.18
+S000166,M0064,2025-04-17,İzmir,40,Giyim,726.84,2.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,2.0,Evet,2.0,1308.31
+S000432,M0041,2025-06-05,Ankara,37,Kozmetik,403.9,1.0,0.0,Yok,Banka Kartı,Masaüstü,3.0,Hayır,3.0,403.9
+S000778,M0018,2025-12-07,İzmir,43,Spor,761.1,1.0,0.2,Özel Gün,Kapıda Ödeme,Mobil,3.0,Evet,2.0,608.88
+S000934,M0301,2025-01-29,Bursa,4,Elektronik,4302.61,6.0,0.0,Yok,Kredi Kartı,Masaüstü,2.0,Hayır,5.0,25815.66
+S001072,M0306,2025-10-26,Ankara,25,Ev & Yaşam,2453.85,3.0,0.25,Sepette İndirim,Kredi Kartı,Mobil,4.0,Hayır,4.0,5521.16
+S000744,M0022,2025-01-04,İstanbul,30,Kitap,305.72,3.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,1.0,Hayır,4.0,825.44
+S000315,M0261,2025-03-17,Bursa,14,Elektronik,5547.81,1.0,0.1,Sepette İndirim,Banka Kartı,Masaüstü,3.0,Hayır,5.0,4993.03
+S001058,M0225,2025-10-08,İstanbul,3,Spor,642.8,1.0,0.0,Yok,Havale/EFT,Masaüstü,3.0,Hayır,4.0,642.8
+S001352,M0146,2025-09-05,İstanbul,21,Giyim,202.28,1.0,0.1,Hafta Sonu,Banka Kartı,Tablet,4.0,Hayır,5.0,182.05
+S000999,M0305,2025-04-11,Ankara,27,Kozmetik,233.82,2.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,5.0,Hayır,4.0,420.88
+S000855,M0210,2025-12-23,Malatya,40,Ev & Yaşam,597.19,1.0,0.05,Yok,Banka Kartı,Mobil,10.0,Hayır,3.0,567.33
+S000623,M0309,2025-11-26,İzmir,18,Kozmetik,319.11,1.0,0.1,Hafta Sonu,Banka Kartı,Mobil,2.0,Hayır,4.0,287.2
+S001188,M0309,2025-04-17,İzmir,18,Giyim,964.44,1.0,0.0,Yok,Banka Kartı,Masaüstü,5.0,Hayır,3.0,964.44
+S000089,M0007,2025-08-29,Elazığ,17,Kozmetik,747.6,3.0,0.0,Yok,Banka Kartı,Mobil,4.0,Hayır,,2242.8
+S001068,M0024,2025-05-01,Ankara,35,Giyim,471.58,2.0,0.1,Sepette İndirim,Kredi Kartı,Tablet,5.0,Hayır,5.0,848.84
+S000757,M0271,2025-05-26,İstanbul,40,Giyim,571.57,1.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,5.0,571.57
+S000563,M0300,2025-08-14,İzmir,41,Kitap,259.1,1.0,0.25,Sepette İndirim,Kapıda Ödeme,Tablet,6.0,Hayır,3.0,194.32
+S000136,M0293,2025-11-28,İstanbul,31,Giyim,683.59,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,4.0,Hayır,4.0,581.05
+S000414,M0058,2025-05-13,Ankara,9,Giyim,561.07,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,3.0,Hayır,5.0,504.96
+S000600,M0291,2025-03-31,İstanbul,31,Elektronik,3017.01,1.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,5.0,3017.01
+S000493,M0012,2025-12-31,İstanbul,20,Ev & Yaşam,1096.04,1.0,0.2,Sepette İndirim,Banka Kartı,Mobil,2.0,Hayır,,876.83
+S000712,M0017,2025-11-25,Malatya,35,Kozmetik,366.19,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,4.0,Evet,3.0,329.57
+S000078,M0153,2025-02-10,Bursa,41,Kozmetik,774.79,2.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,4.0,1549.58
+S000847,M0306,2025-04-17,Ankara,25,Elektronik,2785.85,1.0,0.05,Yok,Kredi Kartı,Mobil,6.0,Hayır,4.0,2646.56
+S000295,M0205,2025-01-16,İstanbul,39,Kitap,148.94,2.0,0.15,Hafta Sonu,Banka Kartı,Masaüstü,4.0,Hayır,4.0,253.2
+S000609,M0168,2025-02-04,Bursa,21,Ev & Yaşam,876.17,4.0,0.0,Yok,Kapıda Ödeme,Mobil,3.0,Evet,2.0,3504.68
+S000881,M0191,2025-10-11,Bursa,48,Ev & Yaşam,1519.56,2.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,2.0,Evet,1.0,2887.16
+S000070,M0083,2025-07-12,Bursa,46,Giyim,320.62,2.0,0.1,Yeni Üye,Kredi Kartı,Masaüstü,3.0,Evet,1.0,577.12
+S000095,M0306,2025-07-27,Ankara,25,Spor,433.45,1.0,0.1,Yeni Üye,Kredi Kartı,Mobil,2.0,Hayır,5.0,390.1
+S001342,M0254,2025-08-16,İzmir,22,Kitap,150.11,2.0,0.15,Sepette İndirim,Havale/EFT,Mobil,4.0,Hayır,4.0,255.19
+S000941,M0291,2025-05-19,İstanbul,31,Kitap,284.95,3.0,0.2,Özel Gün,Banka Kartı,Mobil,2.0,Hayır,5.0,683.88
+S000274,M0074,2025-04-26,İzmir,3,Kozmetik,719.57,4.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,5.0,2878.28
+S001240,M0309,2025-02-25,İzmir,18,Elektronik,2977.51,1.0,0.25,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,4.0,2233.13
+S001141,M0022,2025-06-25,İstanbul,30,Elektronik,26389.47,1.0,,Sepette İndirim,Kredi Kartı,Mobil,1.0,Hayır,4.0,21111.58
+S000764,M0188,2025-07-02,İzmir,28,Kozmetik,201.74,3.0,0.1,Hafta Sonu,Havale/EFT,Mobil,3.0,Hayır,,544.7
+S000833,M0219,2025-01-05,İstanbul,37,Kitap,144.07,1.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,4.0,129.66
+S000637,M0190,2025-03-17,Elazığ,23,Ev & Yaşam,582.47,2.0,0.2,Sepette İndirim,Kapıda Ödeme,Mobil,5.0,Hayır,4.0,931.95
+S000067,M0309,2025-06-18,İzmir,18,Ev & Yaşam,883.72,4.0,0.15,Özel Gün,Kredi Kartı,Masaüstü,3.0,Hayır,3.0,3004.65
+S000168,M0309,2025-10-27,İzmir,18,Kozmetik,325.21,2.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,3.0,Hayır,5.0,585.38
+S000552,M0252,2025-10-13,Ankara,16,Kitap,199.28,1.0,0.05,Yok,Kredi Kartı,Tablet,2.0,Hayır,4.0,189.32
+S001163,M0191,2025-01-17,Bursa,48,Elektronik,5656.6,1.0,1.25,Yok,Kredi Kartı,Mobil,2.0,Hayır,4.0,5656.6
+S000452,M0156,2025-09-21,Elazığ,27,Giyim,566.58,2.0,0.2,Sepette İndirim,Banka Kartı,Masaüstü,4.0,Hayır,5.0,906.53
+S000028,M0094,2025-03-14,Malatya,26,Spor,1823.91,2.0,0.0,Yok,Kredi Kartı,Masaüstü,5.0,Hayır,4.0,3647.82
+S000630,M0312,2025-09-18,İstanbul,11,Elektronik,3603.77,5.0,0.15,Sepette İndirim,Havale/EFT,Mobil,1.0,Hayır,5.0,15316.02
+S000868,M0241,2025-12-03,İstanbul,47,Elektronik,4650.42,3.0,0.0,Yok,Havale/EFT,Mobil,2.0,Hayır,5.0,13951.26
+S001180,M0102,2025-08-21,İzmir,40,Kitap,190.64,2.0,0.0,Yok,Havale/EFT,Masaüstü,6.0,Hayır,,381.28
+S000244,M0309,2025-08-24,İzmir,18,Ev & Yaşam,2058.2,1.0,0.1,Yeni Üye,Havale/EFT,Mobil,3.0,Hayır,4.0,1852.38
+S000216,M0309,2025-07-18,İzmir,18,Giyim,1021.78,3.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,4.0,2605.54
+S001078,M0170,2025-11-01,Ankara,43,Giyim,318.4,1.0,0.0,Yok,Havale/EFT,Masaüstü,1.0,Hayır,5.0,318.4
+S000962,M0002,2025-01-30,Ankara,26,Kitap,367.55,1.0,0.0,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,4.0,367.55
+S000996,M0187,2025-10-20,İzmir,43,Spor,900.92,3.0,0.15,Yeni Üye,Havale/EFT,Mobil,6.0,Evet,2.0,2297.35
+S000724,M0024,2025-04-05,Ankara,35,Ev & Yaşam,1215.58,2.0,0.2,Sepette İndirim,Havale/EFT,Mobil,6.0,Hayır,4.0,1944.93
+S001369,M0224,2025-06-11,İstanbul,35,Elektronik,3635.96,4.0,0.0,Yok,Kredi Kartı,Masaüstü,6.0,Hayır,5.0,14543.84
+S000970,M0295,2025-08-16,İstanbul,47,Ev & Yaşam,874.37,4.0,0.05,Hafta Sonu,Kredi Kartı,Tablet,1.0,Hayır,5.0,3322.61
+S000643,M0245,2025-07-03,İstanbul,10,Ev & Yaşam,504.94,2.0,0.15,Sepette İndirim,Havale/EFT,Masaüstü,3.0,Hayır,4.0,858.4
+S000534,M0115,2025-06-24,Bursa,25,Ev & Yaşam,703.54,2.0,0.1,Hafta Sonu,Kapıda Ödeme,Masaüstü,3.0,Hayır,4.0,1266.37
+S000076,M0171,2025-12-19,İstanbul,9,Kitap,258.71,2.0,0.15,Özel Gün,Banka Kartı,Mobil,5.0,Hayır,5.0,518.98
+S000585,M0306,2025-11-04,Ankara,25,Kitap,290.86,1.0,0.0,Yok,Banka Kartı,Mobil,2.0,Hayır,5.0,290.86
+S001176,M0127,2025-07-09,Malatya,22,Spor,862.22,1.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,2.0,Evet,4.0,819.11
+S001257,M0115,2025-06-27,Bursa,25,Elektronik,4390.19,1.0,0.0,Yok,Kredi Kartı,Masaüstü,7.0,Hayır,4.0,4390.19
+S000624,M0080,2025-05-12,İstanbul,7,Giyim,739.78,4.0,0.2,Özel Gün,Havale/EFT,Mobil,1.0,Hayır,5.0,2367.3
+S001382,M0134,2025-12-19,Ankara,30,Spor,1173.63,5.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,3.0,Hayır,5.0,5574.74
+S001016,M0119,2025-07-13,İzmir,16,Kitap,222.11,2.0,0.05,Yok,Banka Kartı,Mobil,3.0,Hayır,4.0,422.01
+S000255,M0254,2025-11-19,İzmir,22,Kitap,167.65,1.0,0.0,Yok,Banka Kartı,Mobil,1.0,Evet,3.0,167.65
+S000910,M0160,2025-10-02,Ankara,46,Kozmetik,194.9,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,5.0,194.9
+S000121,M0220,2025-01-01,Bursa,19,Kitap,120.0,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,9.0,Hayır,2.0,102.0
+S000930,M0082,2025-10-31,İzmir,45,Elektronik,5705.4,1.0,0.05,Yok,Havale/EFT,Mobil,3.0,Hayır,5.0,5420.13
+S000580,M0301,2025-10-22,Bursa,4,Elektronik,4086.79,1.0,0.15,Özel Gün,Kredi Kartı,Masaüstü,2.0,Hayır,5.0,3473.77
+S000501,M0096,2025-03-09,Elazığ,22,Spor,49999.0,3.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,6.0,Hayır,5.0,3295.54
+S001225,M0288,2025-04-09,Ankara,30,Elektronik,1836.75,1.0,0.0,Yok,Havale/EFT,Mobil,1.0,Hayır,4.0,1836.75
+S000344,M0144,2025-10-05,Bursa,8,Ev & Yaşam,964.26,3.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,3.0,Evet,3.0,2314.22
+S000404,M0300,2025-10-20,İzmir,41,Kozmetik,382.9,2.0,0.0,Yok,Havale/EFT,Mobil,8.0,Hayır,3.0,765.8
+S001055,M0222,2025-01-21,İstanbul,12,Elektronik,4111.84,5.0,0.15,Hafta Sonu,Kredi Kartı,Mobil,1.0,Hayır,5.0,17475.32
+S001250,M0282,2025-12-15,Malatya,39,Giyim,353.83,2.0,0.0,Yok,Havale/EFT,Mobil,2.0,Evet,2.0,707.66
+S000336,M0217,2025-09-01,Ankara,46,Giyim,432.93,1.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,1.0,Hayır,5.0,411.28
+S001111,M0038,2025-08-09,Bursa,20,Giyim,956.76,1.0,0.0,Yok,Kredi Kartı,Mobil,5.0,Evet,2.0,956.76
+S000155,M0040,2025-10-03,İzmir,19,Spor,910.56,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,5.0,910.56
+S000802,M0309,2025-08-14,İzmir,18,Kozmetik,605.21,2.0,0.1,Sepette İndirim,Havale/EFT,Mobil,4.0,Hayır,4.0,1089.38
+S000858,M0065,2025-02-10,Elazığ,36,Elektronik,2567.25,2.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,7.0,Hayır,4.0,4364.32
+S000523,M0041,2025-02-15,Ankara,37,Elektronik,3239.36,4.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,2.0,Hayır,4.0,11661.7
+S001205,M0316,2025-01-16,Elazığ,2,Spor,1585.17,1.0,0.1,Yeni Üye,Havale/EFT,Mobil,4.0,Hayır,4.0,1426.65
+S000829,M0217,2025-06-20,Ankara,46,Kozmetik,312.9,1.0,0.25,Özel Gün,Banka Kartı,Mobil,3.0,Hayır,5.0,234.68
+S000355,M0309,2025-08-08,İzmir,18,Ev & Yaşam,852.23,1.0,0.0,Yok,Havale/EFT,Mobil,5.0,Hayır,5.0,852.23
+S000631,M0275,2025-12-17,İzmir,32,Giyim,620.41,1.0,0.1,Sepette İndirim,Havale/EFT,Masaüstü,3.0,Hayır,4.0,558.37
+S000055,M0022,2025-12-08,İstanbul,30,Elektronik,4060.1,1.0,0.05,Hafta Sonu,Havale/EFT,Tablet,4.0,Hayır,5.0,3857.1
+S000896,M0079,2025-10-02,Ankara,40,Kitap,312.61,1.0,0.0,Yok,Banka Kartı,Masaüstü,3.0,Hayır,5.0,312.61
+S000668,M0309,2025-04-09,İzmir,18,Giyim,469.74,1.0,0.05,Yok,Kredi Kartı,Mobil,1.0,Evet,,446.25
+S001302,M0309,2025-12-04,İzmir,18,Elektronik,8333.08,2.0,0.0,Yok,Banka Kartı,Tablet,1.0,Hayır,,16666.16
+S000781,M0131,2025-01-13,İzmir,29,Ev & Yaşam,601.51,1.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,2.0,Evet,2.0,571.43
+S001136,M0206,2025-01-01,Bursa,25,Elektronik,1360.18,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,9.0,Hayır,3.0,1224.16
+S000397,M0057,2025-12-09,Bursa,16,Spor,340.39,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,2.0,Hayır,,306.35
+S001057,M0160,2025-03-05,Ankara,46,Kozmetik,212.23,1.0,0.0,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,212.23
+S001308,M0309,2025-05-18,İzmir,18,Spor,1249.72,1.0,0.0,Yok,Banka Kartı,Masaüstü,2.0,Hayır,5.0,1249.72
+S001400,M0214,2025-03-07,İstanbul,6,Kozmetik,568.25,3.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,7.0,Hayır,4.0,1534.28
+S001350,M0306,2025-06-16,Ankara,25,Giyim,724.08,4.0,0.2,Sepette İndirim,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,2317.06
+S000619,M0309,2025-01-30,İzmir,18,Elektronik,7907.7,4.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,2.0,Hayır,4.0,28467.72
+S001288,M0218,2025-03-31,Ankara,46,Kozmetik,291.26,1.0,0.0,Yok,Banka Kartı,Mobil,1.0,Hayır,4.0,291.26
+S000583,M0051,2025-07-20,Elazığ,34,Spor,695.09,1.0,0.0,Yok,Havale/EFT,Mobil,3.0,Hayır,5.0,695.09
+S001309,M0058,2025-01-25,Ankara,9,Spor,391.53,2.0,0.25,Özel Gün,Kredi Kartı,Mobil,1.0,Evet,2.0,587.29
+S001226,M0186,2025-11-06,Malatya,25,Giyim,32999.0,1.0,0.25,Özel Gün,Kapıda Ödeme,Tablet,3.0,Evet,3.0,601.89
+S000902,M0307,2025-12-03,Elazığ,47,Kitap,252.65,1.0,0.05,Yok,Kredi Kartı,Masaüstü,5.0,Hayır,4.0,240.02
+S000228,M0011,2025-10-22,Malatya,27,Kitap,385.56,3.0,0.15,Yeni Üye,Havale/EFT,Mobil,2.0,Hayır,5.0,983.18
+S000913,M0309,2025-08-02,İzmir,18,Kitap,240.09,1.0,0.0,Yok,Havale/EFT,Mobil,1.0,Hayır,5.0,240.09
+S000824,M0303,2025-09-15,Ankara,11,Giyim,272.09,4.0,0.1,Hafta Sonu,Kapıda Ödeme,Masaüstü,3.0,Hayır,4.0,979.52
+S001045,M0303,2025-02-18,Ankara,11,Spor,1587.33,2.0,0.2,Özel Gün,Kredi Kartı,Mobil,1.0,Hayır,3.0,2539.73
+S000768,M0092,2025-10-15,Ankara,11,Giyim,1923.78,6.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,3.0,9811.28
+S001166,M0244,2025-10-07,İstanbul,42,Ev & Yaşam,1476.08,1.0,0.0,Yok,Banka Kartı,Mobil,1.0,Hayır,3.0,1476.08
+S000799,M0294,2025-06-20,İzmir,18,Ev & Yaşam,1217.14,1.0,0.0,Yok,Kredi Kartı,Masaüstü,4.0,Hayır,4.0,1217.14
+S001282,M0240,2025-08-17,Elazığ,21,Kitap,202.91,4.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,-3.0,Hayır,4.0,730.48
+S000056,M0307,2025-09-23,Elazığ,47,Elektronik,2534.41,1.0,0.05,Hafta Sonu,Banka Kartı,Mobil,4.0,Hayır,4.0,2407.69
+S000982,M0130,2025-11-22,İstanbul,36,Kozmetik,196.84,3.0,0.0,Yok,Kredi Kartı,Masaüstü,4.0,Hayır,4.0,590.52
+S000204,M0220,2025-06-08,Bursa,19,Spor,416.08,1.0,0.0,Yok,Havale/EFT,Mobil,2.0,Hayır,4.0,416.08
+S000590,M0164,2025-07-12,Elazığ,31,Spor,2072.06,1.0,0.05,Yok,Kredi Kartı,Masaüstü,4.0,Hayır,,1968.46
+S000343,M0204,2025-11-11,İstanbul,23,Ev & Yaşam,1234.84,1.0,0.0,Yok,Kredi Kartı,Masaüstü,4.0,Hayır,5.0,1234.84
+S000735,M0217,2025-03-09,Ankara,46,Giyim,628.52,3.0,0.1,Yeni Üye,Kredi Kartı,Tablet,3.0,Hayır,5.0,1697.0
+S000707,M0309,2025-01-15,İzmir,18,Kitap,244.51,2.0,0.25,Sepette İndirim,Banka Kartı,Masaüstü,9.0,Hayır,4.0,366.76
+S000331,M0271,2025-01-15,İstanbul,40,Giyim,636.07,1.0,0.2,Yeni Üye,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,508.86
+S001171,M0175,2025-02-20,İstanbul,14,Elektronik,2812.89,3.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,4.0,Evet,4.0,8016.74
+S000259,M0235,2025-10-08,İzmir,19,Giyim,623.64,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,5.0,530.09
+S000992,M0287,2025-05-16,Ankara,5,Giyim,320.78,2.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,4.0,641.56
+S000897,M0042,2025-07-07,İstanbul,22,Giyim,476.68,3.0,0.05,Yok,Havale/EFT,Mobil,1.0,Hayır,4.0,1358.54
+S000134,M0273,2025-12-12,İstanbul,18,Elektronik,3726.6,1.0,0.15,Sepette İndirim,Kapıda Ödeme,Mobil,6.0,Hayır,2.0,3167.61
+S000496,M0319,2025-04-27,Bursa,7,Elektronik,9558.76,5.0,0.15,Sepette İndirim,Havale/EFT,Mobil,3.0,Hayır,5.0,40624.73
+S000245,M0309,2025-05-21,İzmir,18,Kozmetik,215.17,1.0,0.0,Yok,Kredi Kartı,Tablet,7.0,Hayır,3.0,215.17
+S001341,M0297,2025-09-22,Malatya,35,Kozmetik,391.55,2.0,0.0,Yok,Banka Kartı,Masaüstü,5.0,Hayır,5.0,783.1
+S001357,M0215,2025-03-26,Elazığ,32,Kitap,123.72,2.0,0.15,Hafta Sonu,Kredi Kartı,Mobil,4.0,Hayır,4.0,210.32
+S000030,M0069,2025-04-17,Malatya,2,Giyim,1101.21,2.0,0.1,Hafta Sonu,Havale/EFT,Masaüstü,4.0,Evet,2.0,1982.18
+S000207,M0287,2025-11-19,Ankara,5,Elektronik,10216.9,1.0,0.05,Hafta Sonu,Havale/EFT,Masaüstü,4.0,Hayır,4.0,9706.05
+S000606,M0309,2025-06-14,İzmir,18,Kozmetik,-250.0,1.0,0.15,Sepette İndirim,Havale/EFT,Masaüstü,5.0,Hayır,4.0,425.7
+S000811,M0309,2025-03-25,İzmir,18,Elektronik,1050.04,4.0,0.0,Yok,Banka Kartı,Mobil,5.0,Hayır,3.0,4200.16
+S001201,M0007,2025-07-26,Elazığ,17,Elektronik,6802.99,2.0,0.05,Yok,Banka Kartı,Mobil,8.0,Evet,3.0,12925.68
+S001375,M0024,2025-09-02,Ankara,35,Kozmetik,454.67,2.0,0.15,Yeni Üye,Kapıda Ödeme,Mobil,5.0,Hayır,4.0,772.94
+S000536,M0306,2025-01-27,Ankara,25,Elektronik,5894.29,2.0,0.05,Yok,Banka Kartı,Mobil,3.0,Hayır,4.0,11199.15
+S000158,M0274,2025-08-12,Elazığ,1,Ev & Yaşam,1721.67,3.0,0.0,Yok,Kapıda Ödeme,Mobil,8.0,Evet,1.0,5165.01
+S001023,M0174,2025-12-16,Bursa,5,Kozmetik,371.55,1.0,0.25,Özel Gün,Kapıda Ödeme,Mobil,3.0,Hayır,5.0,278.66
+S000099,M0128,2025-02-05,Elazığ,21,Ev & Yaşam,3518.03,3.0,0.0,Yok,Havale/EFT,Mobil,6.0,Hayır,4.0,10554.09
+S000907,M0068,2025-12-30,İstanbul,39,Spor,1060.62,1.0,0.0,Yok,Kredi Kartı,Tablet,,Hayır,,1060.62
+S000321,M0309,2025-05-09,İzmir,18,Ev & Yaşam,770.24,1.0,0.15,Sepette İndirim,Banka Kartı,Masaüstü,2.0,Hayır,3.0,654.7
+S000906,M0120,2025-06-17,Malatya,33,Spor,1160.78,4.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,5.0,Hayır,4.0,4410.96
+S001174,M0112,2025-06-27,İstanbul,27,Ev & Yaşam,1188.29,1.0,0.2,Yeni Üye,Kredi Kartı,Mobil,1.0,Evet,3.0,950.63
+S000542,M0203,2025-03-18,İstanbul,22,Giyim,663.58,3.0,0.15,Sepette İndirim,Kapıda Ödeme,Masaüstü,3.0,Evet,1.0,1692.13
+S001283,M0287,2025-12-27,Ankara,5,Kitap,230.17,1.0,0.0,Yok,Banka Kartı,Mobil,2.0,Hayır,5.0,230.17
+S000682,M0179,2025-04-21,İstanbul,5,Kitap,219.19,2.0,0.2,Sepette İndirim,Havale/EFT,Mobil,1.0,Hayır,5.0,350.7
+S001241,M0042,2025-10-28,İstanbul,22,Kitap,337.65,1.0,0.0,Yok,Kredi Kartı,Masaüstü,1.0,Hayır,5.0,337.65
+S000834,M0309,2025-02-28,İzmir,18,Kozmetik,460.26,4.0,0.05,Yok,Banka Kartı,Masaüstü,2.0,Hayır,4.0,1748.99
+S001119,M0220,2025-01-27,Bursa,19,Kozmetik,339.67,2.0,0.15,Hafta Sonu,Banka Kartı,Masaüstü,11.0,Hayır,4.0,577.44
+S000499,M0168,2025-09-17,Bursa,21,Ev & Yaşam,344.64,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,4.0,344.64
+S001138,M0122,2025-11-19,Elazığ,23,Ev & Yaşam,1094.51,3.0,0.1,Sepette İndirim,Havale/EFT,Masaüstü,3.0,Hayır,3.0,2955.18
+S000588,M0309,2025-11-18,İzmir,18,Spor,254.34,1.0,0.1,Hafta Sonu,Banka Kartı,Masaüstü,3.0,Hayır,5.0,228.91
+S001113,M0312,2025-06-05,İstanbul,11,Kitap,150.32,3.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,4.0,Hayır,5.0,405.86
+S000381,M0107,2025-10-31,İzmir,6,Kitap,291.03,2.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,4.0,582.06
+S000598,M0048,2025-01-26,Ankara,40,Giyim,430.27,1.0,0.05,Yok,Havale/EFT,Mobil,2.0,Hayır,4.0,408.76
+S000504,M0308,2025-06-15,İstanbul,32,Kitap,256.55,3.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,4.0,615.72
+S001255,M0085,2025-05-17,Ankara,43,Giyim,589.24,1.0,0.1,Hafta Sonu,Banka Kartı,Masaüstü,1.0,Hayır,5.0,530.32
+S001244,M0237,2025-03-22,Malatya,13,Elektronik,14083.08,1.0,0.0,Yok,Havale/EFT,Mobil,14.0,Hayır,,14083.08
+S000759,M0309,2025-08-11,İzmir,18,Spor,1000.94,1.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,8.0,Hayır,3.0,900.85
+S000466,M0186,2025-12-27,Malatya,25,Giyim,1215.67,1.0,0.2,Sepette İndirim,Banka Kartı,Mobil,6.0,Hayır,3.0,972.54
+S000058,M0204,2025-07-15,İstanbul,23,Giyim,1043.87,1.0,0.05,Hafta Sonu,Banka Kartı,Mobil,5.0,Hayır,5.0,991.68
+S001036,M0312,2025-07-14,İstanbul,11,Ev & Yaşam,869.69,1.0,0.0,Yok,Kapıda Ödeme,Mobil,7.0,Hayır,5.0,869.69
+S000020,M0230,2025-03-01,İstanbul,1,Kozmetik,632.69,1.0,0.05,Hafta Sonu,Havale/EFT,Mobil,1.0,Hayır,5.0,601.06
+S000578,M0286,2025-07-16,Ankara,22,Spor,954.95,1.0,0.15,Özel Gün,Banka Kartı,Mobil,2.0,Hayır,4.0,811.71
+S000079,M0215,2025-10-09,Elazığ,32,Giyim,895.42,4.0,0.0,Yok,Kapıda Ödeme,Masaüstü,4.0,Hayır,5.0,3581.68
+S000113,M0185,2025-08-09,Malatya,41,Elektronik,5438.84,1.0,0.1,Sepette İndirim,Havale/EFT,Mobil,5.0,Hayır,4.0,4894.96
+S001137,M0245,2025-01-26,İstanbul,10,Kitap,194.62,1.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,4.0,194.62
+S000345,M0315,2025-09-21,İstanbul,36,Giyim,388.01,1.0,0.0,Yok,,Mobil,2.0,Evet,1.0,388.01
+S000767,M0282,2025-09-14,Malatya,39,Giyim,1466.19,1.0,0.15,Sepette İndirim,Kredi Kartı,Tablet,7.0,Hayır,5.0,1246.26
+S001313,M0002,2025-08-13,Ankara,26,Kozmetik,440.99,1.0,0.0,Yok,Havale/EFT,Mobil,5.0,Hayır,5.0,440.99
+S001063,M0011,2025-05-22,Malatya,27,Ev & Yaşam,716.45,3.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,4.0,Hayır,5.0,1934.42
+S001196,M0191,2025-01-10,Bursa,48,Kozmetik,338.26,3.0,0.0,Yok,Banka Kartı,Mobil,3.0,Hayır,3.0,1014.78
+S000300,M0059,2025-12-13,Ankara,44,Giyim,1349.71,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,1.0,Hayır,4.0,1214.74
+S001095,M0067,2025-05-05,Ankara,21,Ev & Yaşam,1032.47,1.0,0.15,Hafta Sonu,Banka Kartı,Masaüstü,3.0,Hayır,4.0,877.6
+S000139,M0036,2025-03-15,Ankara,35,Kozmetik,489.29,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,5.0,Hayır,5.0,440.36
+S001184,M0126,2025-08-15,İzmir,27,Ev & Yaşam,1671.92,5.0,0.3,Özel Gün,Kredi Kartı,Masaüstü,5.0,Hayır,3.0,5851.72
+S000275,M0059,2025-05-13,Ankara,44,Kitap,83.75,5.0,0.2,Sepette İndirim,Havale/EFT,Mobil,4.0,Hayır,,335.0
+S000340,M0065,2025-05-01,Elazığ,36,Giyim,618.39,2.0,0.15,Hafta Sonu,Kapıda Ödeme,Mobil,3.0,Hayır,5.0,1051.26
+S000925,M0165,2025-02-04,Malatya,15,Ev & Yaşam,491.75,4.0,0.15,Hafta Sonu,Kredi Kartı,Masaüstü,3.0,Evet,,1671.95
+S000625,M0152,2025-09-29,İstanbul,17,Kitap,354.4,1.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,2.0,Hayır,5.0,336.68
+S000650,M0305,2025-12-27,Ankara,27,Giyim,2116.24,3.0,0.15,Özel Gün,Kredi Kartı,Mobil,1.0,Hayır,5.0,5396.41
+S001102,M0308,2025-06-05,İstanbul,32,Elektronik,3026.09,1.0,0.15,Özel Gün,Kredi Kartı,Masaüstü,1.0,Hayır,5.0,2572.18
+S001037,M0306,2025-07-10,Ankara,25,Kozmetik,338.7,2.0,0.1,Hafta Sonu,Banka Kartı,Mobil,5.0,Hayır,4.0,609.66
+S000329,M0103,2025-07-24,Elazığ,39,Ev & Yaşam,403.82,2.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,5.0,807.64
+S000248,M0309,2025-05-04,İzmir,18,Elektronik,3191.82,2.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,5.0,6383.64
+S000891,M0291,2025-03-28,İstanbul,31,Elektronik,553.78,1.0,0.2,Sepette İndirim,Banka Kartı,Mobil,2.0,Hayır,5.0,443.02
+S000837,M0236,2025-08-02,Ankara,28,Giyim,1146.99,3.0,0.15,Sepette İndirim,Kredi Kartı,Masaüstü,3.0,Hayır,4.0,2924.82
+S000673,M0060,2025-06-12,Ankara,1,Giyim,315.67,1.0,0.1,Hafta Sonu,Banka Kartı,Masaüstü,2.0,Evet,3.0,284.1
+S000560,M0186,2025-12-31,Malatya,25,Ev & Yaşam,480.53,1.0,0.05,Yok,Banka Kartı,Masaüstü,3.0,Evet,2.0,456.5
+S000065,M0185,2025-01-18,Malatya,41,Giyim,179.39,2.0,0.0,Yok,Kapıda Ödeme,Masaüstü,4.0,Hayır,5.0,358.78
+S001295,M0133,2025-08-26,Ankara,25,Kozmetik,143.23,1.0,0.15,Yeni Üye,Kredi Kartı,Mobil,2.0,Hayır,4.0,121.75
+S001317,M0312,2025-11-19,İstanbul,11,Kitap,156.45,1.0,0.0,Yok,Banka Kartı,Mobil,3.0,Hayır,5.0,156.45
+S000830,M0309,2025-04-03,İzmir,18,Kozmetik,386.88,1.0,0.0,Yok,Kapıda Ödeme,Tablet,2.0,Hayır,,386.88
+S000880,M0143,2025-04-14,Ankara,30,Kozmetik,332.06,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,4.0,332.06
+S000367,M0164,2025-12-13,Elazığ,31,Kozmetik,240.98,6.0,0.05,Yok,Kredi Kartı,Masaüstü,4.0,Hayır,4.0,1373.59
+S001344,M0193,2025-10-11,Bursa,25,Ev & Yaşam,1654.64,1.0,0.05,Yok,Kredi Kartı,Masaüstü,1.0,Hayır,4.0,1571.91
+S000679,M0283,2025-04-23,İstanbul,14,Kozmetik,534.22,4.0,0.15,Yeni Üye,Kredi Kartı,Masaüstü,3.0,Hayır,4.0,1816.35
+S000253,M0306,2025-03-23,Ankara,25,Giyim,385.84,1.0,0.2,Yeni Üye,Kredi Kartı,Mobil,5.0,Hayır,5.0,308.67
+S000383,M0309,2025-02-17,İzmir,18,Kitap,282.79,1.0,0.0,Yok,Banka Kartı,Masaüstü,3.0,Hayır,3.0,282.79
+S001079,M0088,2025-09-20,Ankara,11,Elektronik,3246.41,2.0,0.15,Sepette İndirim,Kredi Kartı,Masaüstü,4.0,Hayır,5.0,5518.9
+S001271,M0197,2025-11-03,İstanbul,4,Ev & Yaşam,1689.27,1.0,0.05,Hafta Sonu,Banka Kartı,Mobil,1.0,Hayır,5.0,1604.81
+S000236,M0251,2025-03-24,Bursa,21,Ev & Yaşam,972.68,4.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,5.0,Hayır,5.0,3501.65
+S000674,M0114,2025-01-03,Ankara,43,Kozmetik,470.12,1.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,3.0,Hayır,4.0,423.11
+S000865,M0309,2025-02-27,İzmir,18,Elektronik,914.78,1.0,0.0,Yok,Banka Kartı,Masaüstü,3.0,Hayır,,914.78
+S001154,M0082,2025-07-23,İzmir,45,Giyim,596.79,1.0,0.0,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,596.79
+S000031,M0279,2025-12-18,Ankara,44,Giyim,613.73,1.0,0.05,Yok,Kredi Kartı,Mobil,7.0,Hayır,5.0,583.04
+S000993,M0190,2025-08-27,Elazığ,23,Giyim,677.02,1.0,0.0,Yok,Banka Kartı,Masaüstü,2.0,Hayır,5.0,677.02
+S000173,M0110,2025-09-25,Bursa,20,Ev & Yaşam,784.73,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Evet,,784.73
+S000526,M0252,2025-02-11,Ankara,16,Ev & Yaşam,847.3,2.0,0.0,Yok,Havale/EFT,Mobil,3.0,Hayır,5.0,1694.6
+S000634,M0109,2025-04-20,İstanbul,27,Spor,498.42,1.0,0.15,Özel Gün,Banka Kartı,Masaüstü,4.0,Hayır,5.0,423.66
+S000018,M0305,2025-05-31,Ankara,27,Ev & Yaşam,1015.01,1.0,0.0,Yok,Banka Kartı,Masaüstü,4.0,Hayır,4.0,1015.01
+S000088,M0251,2025-06-15,Bursa,21,Spor,1068.88,1.0,0.1,Hafta Sonu,Havale/EFT,Masaüstü,4.0,Hayır,4.0,961.99
+S000423,M0205,2025-01-31,İstanbul,39,Giyim,1532.16,2.0,0.0,Yok,Havale/EFT,Mobil,3.0,Hayır,4.0,3064.32
+S001108,M0156,2025-10-27,Elazığ,27,Ev & Yaşam,1661.38,2.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,5.0,2824.35
+S000825,M0309,2025-12-29,İzmir,18,Giyim,700.27,3.0,0.0,Yok,Kredi Kartı,Masaüstü,8.0,Evet,,2100.81
+S001222,M0173,2025-02-04,Ankara,18,Spor,913.1,3.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,3.0,2739.3
+S000237,M0203,2025-04-16,İstanbul,22,Ev & Yaşam,472.05,1.0,0.05,Hafta Sonu,,Mobil,1.0,Evet,3.0,448.45
+S000991,M0309,2025-12-23,İzmir,18,Elektronik,3983.91,6.0,0.15,Sepette İndirim,Banka Kartı,Mobil,3.0,Evet,2.0,20317.94
+S000431,M0079,2025-03-02,Ankara,40,Ev & Yaşam,716.73,4.0,0.2,Sepette İndirim,Havale/EFT,Mobil,5.0,Hayır,4.0,2293.54
+S000816,M0033,2025-05-27,İzmir,30,Giyim,867.82,1.0,0.0,Yok,Banka Kartı,Mobil,9.0,Hayır,3.0,867.82
+S000570,M0319,2025-12-27,Bursa,7,Giyim,1826.28,1.0,0.05,Yok,Havale/EFT,Masaüstü,5.0,Evet,2.0,1734.97
+S000491,M0186,2025-10-09,Malatya,25,Elektronik,15409.04,3.0,0.0,Yok,Kredi Kartı,Mobil,6.0,Hayır,4.0,46227.12
+S001315,M0309,2025-10-08,İzmir,18,Elektronik,22457.12,3.0,0.15,Yeni Üye,Kredi Kartı,Mobil,4.0,Hayır,3.0,57265.66
+S000188,M0309,2025-08-27,İzmir,18,Giyim,521.32,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,5.0,521.32
+S000960,M0149,2025-06-28,İstanbul,40,Kozmetik,283.19,1.0,0.0,Yok,Kredi Kartı,Mobil,5.0,Hayır,4.0,283.19
+S001028,M0131,2025-02-17,İzmir,29,Ev & Yaşam,972.32,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,8.0,Hayır,4.0,875.09
+S000894,M0299,2025-11-22,Ankara,27,Kitap,260.9,1.0,0.0,Yok,Kredi Kartı,Masaüstü,2.0,Hayır,5.0,260.9
+S001203,M0033,2025-12-12,İzmir,30,Spor,1478.77,3.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,5.0,4436.31
+S001193,M0181,2025-12-31,İzmir,3,Elektronik,16646.72,4.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,5.0,56598.85
+S000818,M0203,2025-11-02,İstanbul,22,Giyim,639.09,3.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,4.0,1917.27
+S001052,M0305,2025-08-02,Ankara,27,Kitap,255.65,2.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,,511.3
+S000859,M0050,2025-12-05,İstanbul,9,Ev & Yaşam,1338.44,1.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,5.0,1338.44
+S000027,M0110,2025-06-02,Bursa,20,Giyim,634.45,1.0,0.0,Yok,Kapıda Ödeme,Masaüstü,2.0,Evet,,634.45
+S001103,M0218,2025-07-22,Ankara,46,Kozmetik,871.03,1.0,0.2,Özel Gün,Kredi Kartı,Mobil,2.0,Hayır,5.0,696.82
+S000218,M0135,2025-10-15,Malatya,22,Giyim,619.98,3.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Evet,3.0,1859.94
+S000729,M0309,2025-08-25,İzmir,18,Kozmetik,638.44,1.0,0.15,Yeni Üye,Kredi Kartı,Mobil,2.0,Hayır,5.0,542.67
+S001044,M0293,2025-01-15,İstanbul,31,Elektronik,2643.81,2.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,5.0,Hayır,4.0,4758.86
+S000920,M0309,2025-08-12,İzmir,18,Kitap,156.21,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,5.0,156.21
+S001284,M0043,2025-06-19,Bursa,26,Kozmetik,226.12,1.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,3.0,226.12
+S000621,M0014,2025-11-17,Malatya,15,Ev & Yaşam,573.67,1.0,0.0,Yok,Banka Kartı,Mobil,4.0,Hayır,3.0,573.67
+S000869,M0309,2025-03-20,İzmir,18,Ev & Yaşam,816.34,1.0,0.15,Hafta Sonu,Kredi Kartı,Tablet,4.0,Hayır,5.0,693.89
+S000249,M0139,2025-03-07,İstanbul,1,Kitap,188.0,2.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,5.0,Hayır,5.0,338.4
+S001039,M0305,2025-02-12,Ankara,27,Kitap,349.13,2.0,0.0,Yok,Havale/EFT,Masaüstü,1.0,Hayır,4.0,698.26
+S000904,M0247,2025-04-24,Elazığ,19,Elektronik,6842.77,1.0,0.2,Sepette İndirim,Kredi Kartı,Tablet,3.0,Hayır,4.0,5474.22
+S000832,M0018,2025-12-08,İzmir,43,Kozmetik,413.92,1.0,0.0,Yok,Banka Kartı,Masaüstü,4.0,Hayır,4.0,413.92
+S000945,M0309,2025-01-22,İzmir,18,Ev & Yaşam,416.72,1.0,0.0,Yok,Banka Kartı,Mobil,5.0,Hayır,4.0,416.72
+S000957,M0136,2025-10-10,İstanbul,25,Kozmetik,500.15,1.0,0.05,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,4.0,475.14
+S001013,M0113,2025-10-25,İzmir,19,Spor,1654.59,1.0,0.0,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,3.0,1654.59
+S000575,M0282,2025-11-04,Malatya,39,Ev & Yaşam,443.0,2.0,0.1,Yeni Üye,Banka Kartı,Mobil,6.0,Evet,3.0,797.4
+S000209,M0021,2025-10-17,Elazığ,11,Kitap,213.75,2.0,0.0,Yok,Kredi Kartı,Mobil,6.0,Hayır,,427.5
+S000965,M0306,2025-03-09,Ankara,25,Spor,1115.91,2.0,0.2,Özel Gün,Havale/EFT,Mobil,4.0,Hayır,,1785.46
+S000264,M0297,2025-09-04,Malatya,35,Elektronik,30487.49,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,4.0,30487.49
+S000503,M0309,2025-08-18,İzmir,18,Spor,473.76,4.0,0.0,Yok,Kapıda Ödeme,Mobil,5.0,Hayır,4.0,1895.04
+S000393,M0287,2025-07-04,Ankara,5,Ev & Yaşam,581.4,2.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,4.0,988.38
+S000903,M0218,2025-10-16,Ankara,46,Giyim,379.25,1.0,0.15,Sepette İndirim,Banka Kartı,Masaüstü,2.0,Hayır,3.0,322.36
+S000571,M0308,2025-09-29,İstanbul,32,Ev & Yaşam,769.72,1.0,0.05,Yok,Kredi Kartı,Masaüstü,9.0,Hayır,3.0,731.23
+S000633,M0016,2025-03-04,Malatya,30,Elektronik,2845.61,2.0,0.0,Yok,Banka Kartı,Mobil,3.0,Hayır,5.0,5691.22
+S000525,M0008,2025-07-06,Ankara,48,Ev & Yaşam,1439.98,1.0,0.05,Hafta Sonu,Banka Kartı,Mobil,2.0,Hayır,4.0,1367.98
+S000398,M0245,2025-06-10,İstanbul,10,Ev & Yaşam,2047.91,1.0,0.15,Yeni Üye,Havale/EFT,Tablet,3.0,Hayır,5.0,1740.72
+S000722,M0234,2025-06-19,Ankara,19,Ev & Yaşam,669.72,3.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,5.0,2009.16
+S000699,M0161,2025-06-15,İzmir,19,Giyim,309.51,2.0,0.2,Sepette İndirim,Banka Kartı,Masaüstü,3.0,Evet,2.0,495.22
+S000948,M0264,2025-05-12,İzmir,4,Elektronik,5856.05,5.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,9.0,Hayır,3.0,24888.21
+S000485,M0309,2025-10-11,İzmir,18,Elektronik,8214.49,1.0,0.0,Yok,Kredi Kartı,Mobil,10.0,Hayır,5.0,8214.49
+S001118,M0218,2025-11-13,Ankara,46,Kozmetik,352.6,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,4.0,352.6
+S001307,M0174,2025-08-13,Bursa,5,Elektronik,964.2,1.0,0.0,Yok,,Masaüstü,2.0,Hayır,4.0,964.2
+S000890,M0279,2025-09-18,Ankara,44,Kozmetik,704.85,2.0,0.1,Hafta Sonu,Kapıda Ödeme,Mobil,5.0,Hayır,4.0,1268.73
+S001140,M0142,2025-03-29,İstanbul,43,Kozmetik,659.46,2.0,0.0,Yok,Havale/EFT,Masaüstü,1.0,Hayır,4.0,1318.92
+S000100,M0035,2025-06-08,Malatya,38,Elektronik,15085.28,1.0,0.0,Yok,Havale/EFT,Mobil,3.0,Hayır,3.0,15085.28
+S000221,M0185,2025-12-12,Malatya,41,Kozmetik,992.33,3.0,0.0,Yok,Kredi Kartı,Tablet,5.0,Hayır,,2976.99
+S000234,M0308,2025-12-01,İstanbul,32,Ev & Yaşam,491.98,2.0,0.05,Yok,Havale/EFT,Tablet,2.0,Hayır,3.0,934.76
+S000112,M0203,2025-02-12,İstanbul,22,Giyim,1589.35,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,1.0,Hayır,,1430.42
+S000721,M0086,2025-01-04,Ankara,12,Spor,285.9,1.0,0.2,Özel Gün,,Mobil,3.0,Hayır,4.0,228.72
+S000191,M0158,2025-02-01,Bursa,26,Elektronik,8160.36,1.0,0.0,Yok,Kredi Kartı,Masaüstü,1.0,Hayır,3.0,8160.36
+S000416,M0074,2025-02-26,İzmir,3,Giyim,323.79,2.0,0.0,Yok,Kredi Kartı,Masaüstü,2.0,Hayır,5.0,647.58
+S000401,M0309,2025-12-02,İzmir,18,Kitap,354.71,2.0,0.0,Yok,Banka Kartı,Mobil,2.0,Hayır,5.0,709.42
+S000655,M0314,2025-01-31,İstanbul,20,Ev & Yaşam,483.75,3.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,2.0,Hayır,5.0,1306.12
+S000751,M0119,2025-10-01,İzmir,16,Ev & Yaşam,1114.59,1.0,0.15,Sepette İndirim,Banka Kartı,Mobil,2.0,Hayır,4.0,947.4
+S000014,M0078,2025-06-10,İzmir,28,Kozmetik,526.41,1.0,0.2,Yeni Üye,Havale/EFT,Mobil,2.0,Hayır,4.0,421.13
+S001385,M0309,2025-06-28,İzmir,18,Giyim,446.14,1.0,0.25,Özel Gün,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,334.6
+S001106,M0218,2025-12-07,Ankara,46,Giyim,485.76,2.0,0.2,Sepette İndirim,Banka Kartı,Mobil,6.0,Hayır,4.0,777.22
+S000475,M0309,2025-03-29,İzmir,18,Elektronik,3735.31,1.0,0.1,Hafta Sonu,Banka Kartı,Tablet,3.0,Hayır,4.0,3361.78
+S001164,M0163,2025-06-06,Elazığ,38,Spor,379.11,4.0,0.0,Yok,Kapıda Ödeme,Mobil,6.0,Evet,2.0,1516.44
+S001245,M0204,2025-04-26,İstanbul,23,Kitap,186.5,2.0,0.1,Hafta Sonu,Kapıda Ödeme,Mobil,4.0,Hayır,3.0,335.7
+S000794,M0309,2025-02-13,İzmir,18,Spor,873.73,2.0,0.0,Yok,Kapıda Ödeme,Masaüstü,4.0,Hayır,4.0,1747.46
+S000663,M0087,2025-10-17,İstanbul,45,Elektronik,2157.39,1.0,0.05,Hafta Sonu,Kapıda Ödeme,Mobil,5.0,Hayır,4.0,2049.52
+S000876,M0312,2025-09-19,İstanbul,11,Giyim,847.61,1.0,0.0,Yok,Banka Kartı,Mobil,4.0,Evet,3.0,847.61
+S001173,M0006,2025-02-19,Bursa,40,Giyim,1293.3,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,3.0,1099.3
+S001124,M0303,2025-12-22,Ankara,11,Giyim,770.4,3.0,0.1,Hafta Sonu,Kapıda Ödeme,Mobil,2.0,Evet,,2080.08
+S000717,M0163,2025-12-02,Elazığ,38,Elektronik,7209.88,3.0,0.25,Özel Gün,Kredi Kartı,Mobil,6.0,Hayır,3.0,16222.23
+S001146,M0033,2025-10-17,İzmir,30,Spor,873.28,1.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,2.0,Hayır,,829.62
+S000353,M0254,2025-01-13,İzmir,22,Kozmetik,367.68,3.0,0.15,Özel Gün,Kredi Kartı,Mobil,2.0,Hayır,3.0,937.58
+S000519,M0012,2025-04-19,İstanbul,20,Ev & Yaşam,1261.88,2.0,0.0,Yok,Kredi Kartı,Masaüstü,4.0,Hayır,5.0,2523.76
+S000411,M0309,2025-02-17,İzmir,18,Giyim,332.2,1.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,1.0,Hayır,5.0,265.76
+S001104,M0194,2025-07-18,İstanbul,19,Spor,2035.51,3.0,0.0,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,6106.53
+S000104,M0173,2025-04-18,Ankara,18,Giyim,379.61,1.0,0.0,Yok,Havale/EFT,Mobil,2.0,Hayır,4.0,379.61
+S001329,M0014,2025-01-06,Malatya,15,Elektronik,5208.24,1.0,0.15,Yeni Üye,Kredi Kartı,Mobil,4.0,Hayır,4.0,4427.0
+S000798,M0134,2025-09-25,Ankara,30,Giyim,354.96,1.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Evet,1.0,354.96
+S000933,M0006,2025-03-22,Bursa,40,Spor,482.87,3.0,0.1,Hafta Sonu,Banka Kartı,Mobil,1.0,Hayır,5.0,1303.75
+S000577,M0179,2025-10-16,İstanbul,5,Ev & Yaşam,791.63,1.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,3.0,633.3
+S000952,M0112,2025-09-22,İstanbul,27,Ev & Yaşam,397.26,1.0,0.2,Sepette İndirim,Kredi Kartı,Masaüstü,2.0,Hayır,,317.81
+S000545,M0277,2025-10-07,İstanbul,7,Giyim,182.95,1.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,4.0,182.95
+S000514,M0160,2025-12-08,Ankara,46,Kozmetik,129.64,4.0,0.0,Yok,Kapıda Ödeme,Masaüstü,6.0,Hayır,5.0,518.56
+S001332,M0195,2025-03-08,Elazığ,5,Kitap,191.11,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,3.0,191.11
+S000392,M0130,2025-11-25,İstanbul,36,Kozmetik,177.81,2.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,6.0,Hayır,4.0,337.84
+S000963,M0303,2025-07-04,Ankara,11,Ev & Yaşam,2027.09,1.0,0.15,Sepette İndirim,Kredi Kartı,Masaüstü,1.0,Hayır,5.0,1723.03
+S001306,M0309,2025-10-29,İzmir,18,Ev & Yaşam,969.53,3.0,0.0,Yok,Kredi Kartı,Masaüstü,1.0,Hayır,5.0,2908.59
+S000447,M0318,2025-11-10,Elazığ,46,Ev & Yaşam,427.77,1.0,-0.1,Sepette İndirim,Banka Kartı,Mobil,3.0,Hayır,5.0,384.99
+S000036,M0048,2025-02-21,Ankara,40,Kitap,231.28,2.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,4.0,462.56
+S000746,M0036,2025-08-31,Ankara,35,Giyim,567.17,5.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,6.0,Hayır,3.0,2552.26
+S000238,M0130,2025-12-27,İstanbul,36,Ev & Yaşam,724.49,3.0,0.0,Yok,Havale/EFT,Mobil,2.0,Hayır,5.0,2173.47
+S000098,M0145,2025-11-15,Malatya,33,Spor,587.58,1.0,0.2,Özel Gün,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,470.06
+S001093,M0116,2025-04-29,Elazığ,21,Elektronik,10325.87,4.0,0.15,Yeni Üye,Kredi Kartı,Mobil,2.0,Hayır,5.0,35107.96
+S000812,M0269,2025-07-20,Malatya,45,Spor,870.09,1.0,0.1,Sepette İndirim,Kredi Kartı,Masaüstü,2.0,Hayır,3.0,783.08
+S000198,M0251,2025-12-03,Bursa,21,Ev & Yaşam,1820.6,1.0,0.15,Sepette İndirim,Banka Kartı,Masaüstü,2.0,Hayır,4.0,1547.51
+S000145,M0033,2025-07-25,İzmir,30,Kozmetik,276.78,1.0,0.1,Hafta Sonu,Havale/EFT,Mobil,6.0,Hayır,4.0,249.1
+S000428,M0163,2025-02-05,Elazığ,38,Kozmetik,694.41,3.0,0.15,Yeni Üye,Kredi Kartı,Tablet,3.0,Hayır,4.0,1770.75
+S000254,M0309,2025-09-19,İzmir,18,Spor,614.01,1.0,0.1,Yeni Üye,Havale/EFT,Masaüstü,1.0,Hayır,5.0,552.61
+S001330,M0230,2025-09-11,İstanbul,1,Ev & Yaşam,1057.23,1.0,0.05,Hafta Sonu,Havale/EFT,Tablet,6.0,Hayır,5.0,1004.37
+S000077,M0316,2025-12-04,Elazığ,2,Giyim,1229.27,1.0,0.25,Özel Gün,Banka Kartı,Mobil,5.0,Evet,2.0,921.95
+S001321,M0171,2025-03-05,İstanbul,9,Ev & Yaşam,253.3,1.0,0.1,Yeni Üye,Banka Kartı,Mobil,1.0,Hayır,4.0,227.97
+S000347,M0302,2025-06-12,Bursa,41,Giyim,366.25,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,5.0,366.25
+S001280,M0255,2025-01-11,İstanbul,19,Spor,883.96,2.0,0.0,Yok,Kredi Kartı,Masaüstü,1.0,Hayır,4.0,1767.92
+S000979,M0236,2025-12-18,Ankara,28,Ev & Yaşam,324.02,2.0,0.2,Yeni Üye,Kredi Kartı,Mobil,3.0,Hayır,3.0,518.43
+S001285,M0309,2025-04-01,İzmir,18,Elektronik,7833.55,1.0,0.2,Sepette İndirim,Kredi Kartı,Tablet,1.0,Hayır,4.0,6266.84
+S001131,M0220,2025-05-19,Bursa,19,Kitap,130.3,2.0,0.0,Yok,Kapıda Ödeme,Mobil,3.0,Hayır,5.0,260.6
+S001170,M0061,2025-11-23,Elazığ,44,Ev & Yaşam,234.97,1.0,0.1,Hafta Sonu,Banka Kartı,Mobil,4.0,Hayır,4.0,211.47
+S001011,M0284,2025-08-09,İzmir,13,Ev & Yaşam,424.46,3.0,0.0,Yok,Banka Kartı,Mobil,2.0,Hayır,4.0,1273.38
+S000296,M0163,2025-10-21,Elazığ,38,Giyim,271.68,2.0,0.0,Yok,Kredi Kartı,Mobil,5.0,Evet,3.0,543.36
+S000164,M0167,2025-08-15,Bursa,45,Spor,975.9,25.0,0.0,Yok,Kredi Kartı,Tablet,,Hayır,4.0,975.9
+S001094,M0171,2025-01-18,İstanbul,9,Giyim,351.21,2.0,0.0,Yok,Havale/EFT,Masaüstü,4.0,Hayır,4.0,702.42
+S001025,M0316,2025-11-23,Elazığ,2,Kozmetik,199.27,6.0,0.2,Özel Gün,Havale/EFT,Mobil,5.0,Hayır,4.0,956.5
+S001394,M0175,2025-10-09,İstanbul,14,Elektronik,4658.45,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,5.0,3959.68
+S000821,M0188,2025-11-12,İzmir,28,Elektronik,8361.56,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,5.0,8361.56
+S000231,M0268,2025-08-30,Ankara,25,Kozmetik,294.66,3.0,0.0,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,883.98
+S001206,M0175,2025-04-19,İstanbul,14,Elektronik,6584.65,2.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,4.0,Hayır,5.0,11852.37
+S001373,M0195,2025-02-17,Elazığ,5,Kitap,208.84,2.0,0.1,Hafta Sonu,Banka Kartı,Masaüstü,3.0,Hayır,5.0,375.91
+S000810,M0035,2025-12-25,Malatya,38,Elektronik,4852.12,1.0,0.25,Sepette İndirim,Banka Kartı,Mobil,4.0,Hayır,4.0,3639.09
+S000709,M0309,2025-01-18,İzmir,18,Ev & Yaşam,1358.99,1.0,0.15,Sepette İndirim,Havale/EFT,Mobil,6.0,Hayır,4.0,1155.14
+S000167,M0046,2025-12-02,İstanbul,41,Ev & Yaşam,1017.26,1.0,0.1,Sepette İndirim,Kredi Kartı,Masaüstü,2.0,Hayır,5.0,915.53
+S000867,M0192,2025-06-02,Bursa,35,Spor,2020.03,4.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,3.0,6868.1
+S000066,M0269,2025-08-15,Malatya,45,Giyim,174.58,1.0,0.15,Hafta Sonu,Havale/EFT,Mobil,5.0,Evet,2.0,148.39
+S001246,M0112,2025-12-10,İstanbul,27,Giyim,845.04,1.0,0.0,Yok,Kredi Kartı,Masaüstü,5.0,Evet,3.0,845.04
+S000115,M0309,2025-01-25,İzmir,18,Ev & Yaşam,2082.24,4.0,0.0,Yok,Kapıda Ödeme,Tablet,4.0,Hayır,4.0,8328.96
+S000530,M0309,2025-02-03,İzmir,18,Spor,1503.98,1.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,1.0,Hayır,5.0,1203.18
+S001249,M0144,2025-10-12,Bursa,8,Giyim,1420.46,2.0,0.15,Yeni Üye,Kredi Kartı,Mobil,5.0,Hayır,4.0,2414.78
+S000472,M0089,2025-07-06,Elazığ,24,Elektronik,1592.6,18.0,0.05,Hafta Sonu,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,3025.94
+S000407,M0220,2025-06-05,Bursa,19,Giyim,652.9,1.0,0.1,Sepette İndirim,Kredi Kartı,Tablet,5.0,Hayır,5.0,587.61
+S000661,M0309,2025-11-13,İzmir,18,Giyim,266.79,1.0,0.15,Hafta Sonu,Havale/EFT,Masaüstü,1.0,Hayır,5.0,226.77
+S001089,M0067,2025-04-07,Ankara,21,Giyim,571.55,1.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,5.0,571.55
+S001100,M0309,2025-07-28,İzmir,18,Giyim,637.39,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,4.0,637.39
+S000456,M0062,2025-04-09,Malatya,35,Giyim,1350.13,1.0,0.15,Özel Gün,Banka Kartı,Masaüstü,2.0,Hayır,4.0,1147.61
+S000654,M0253,2025-11-01,Ankara,5,Giyim,511.45,1.0,0.0,Yok,Banka Kartı,Mobil,5.0,Hayır,5.0,511.45
+S001243,M0228,2025-09-18,İstanbul,27,Kitap,237.13,2.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,4.0,403.12
+S000862,M0234,2025-12-24,Ankara,19,Giyim,688.75,3.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,1859.62
+S000348,M0279,2025-11-11,Ankara,44,Elektronik,4312.95,1.0,0.0,Yok,Havale/EFT,Masaüstü,3.0,Hayır,4.0,4312.95
+S000593,M0158,2025-11-18,Bursa,26,Kitap,249.75,2.0,0.1,Sepette İndirim,Kredi Kartı,Tablet,5.0,Hayır,4.0,449.55
+S001015,M0115,2025-11-17,Bursa,25,Elektronik,796.34,1.0,0.0,Yok,Kredi Kartı,Masaüstü,4.0,Hayır,4.0,796.34
+S001277,M0309,2025-02-05,İzmir,18,Spor,620.12,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,,620.12
+S000739,M0309,2025-11-29,İzmir,18,Ev & Yaşam,418.99,2.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,1.0,Hayır,4.0,670.38
+S000879,M0261,2025-01-09,Bursa,14,Kozmetik,468.5,3.0,0.1,Sepette İndirim,Banka Kartı,Masaüstü,5.0,Hayır,5.0,1264.95
+S000424,M0259,2025-01-24,Ankara,9,Kitap,306.05,3.0,0.0,Yok,Kredi Kartı,Mobil,7.0,Hayır,2.0,918.15
+S001367,M0309,2025-12-20,İzmir,18,Giyim,951.28,1.0,0.15,Özel Gün,Kredi Kartı,Masaüstü,5.0,Hayır,4.0,808.59
+S001120,M0309,2025-10-21,İzmir,18,Elektronik,4424.47,5.0,0.0,Yok,Havale/EFT,Mobil,3.0,Hayır,4.0,22122.35
+S000558,M0179,2025-04-21,İstanbul,5,Spor,487.29,2.0,0.1,Hafta Sonu,Havale/EFT,Mobil,2.0,Hayır,,877.12
+S000101,M0071,2025-06-06,Ankara,24,Giyim,520.76,2.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,5.0,1041.52
+S000023,M0165,2025-08-22,Malatya,15,Ev & Yaşam,666.12,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,5.0,Hayır,5.0,599.51
+S000015,M0038,2025-12-17,Bursa,20,Giyim,1673.25,5.0,0.05,Yok,Havale/EFT,Masaüstü,4.0,Hayır,,7947.94
+S001294,M0071,2025-03-02,Ankara,24,Giyim,371.25,1.0,0.0,Yok,,Masaüstü,1.0,Hayır,5.0,371.25
+S000266,M0043,2025-07-17,Bursa,26,Spor,266.87,1.0,0.1,Yeni Üye,Havale/EFT,Mobil,4.0,Hayır,4.0,240.18
+S001126,M0309,2025-06-11,İzmir,18,Giyim,285.88,6.0,0.1,Yeni Üye,Banka Kartı,Masaüstü,4.0,Hayır,4.0,1543.75
+S000047,M0136,2025-12-13,İstanbul,25,Kozmetik,357.57,1.0,0.15,Özel Gün,Banka Kartı,Tablet,4.0,Hayır,4.0,303.93
+S000026,M0156,2025-11-26,Elazığ,27,Kitap,140.11,4.0,0.15,Hafta Sonu,Banka Kartı,Mobil,6.0,Hayır,,476.37
+S000289,M0312,2025-01-04,İstanbul,11,Ev & Yaşam,2418.96,1.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,4.0,2418.96
+S001378,M0317,2025-10-13,İstanbul,30,Ev & Yaşam,1532.11,1.0,0.2,Sepette İndirim,Kredi Kartı,Masaüstü,5.0,Evet,2.0,1225.69
+S001366,M0179,2025-10-12,İstanbul,5,Giyim,690.96,1.0,0.0,Yok,Kredi Kartı,Masaüstü,2.0,Hayır,5.0,690.96
+S000955,M0050,2025-03-12,İstanbul,9,Elektronik,2582.62,4.0,0.1,Hafta Sonu,Kredi Kartı,Tablet,4.0,Hayır,5.0,9297.43
+S000835,M0057,2025-08-09,Bursa,16,Spor,331.96,1.0,0.05,Yok,Kredi Kartı,Mobil,4.0,Hayır,5.0,315.36
+S000520,M0176,2025-03-20,Malatya,24,Elektronik,4180.51,3.0,0.1,Sepette İndirim,Banka Kartı,Mobil,4.0,Hayır,5.0,11287.38
+S000789,M0309,2025-04-09,İzmir,18,Spor,662.08,4.0,0.1,Hafta Sonu,Banka Kartı,Mobil,5.0,Hayır,4.0,2383.49
+S001073,M0169,2025-01-31,İstanbul,6,Kozmetik,552.62,1.0,0.15,Hafta Sonu,Kredi Kartı,Mobil,6.0,Hayır,5.0,469.73
+S001178,M0309,2025-11-16,İzmir,18,Spor,649.87,5.0,0.1,Yeni Üye,Havale/EFT,Mobil,4.0,Evet,2.0,2924.42
+S001390,M0059,2025-09-10,Ankara,44,Giyim,1159.95,1.0,0.2,Yeni Üye,Banka Kartı,Mobil,3.0,Hayır,3.0,1094.99
+S000734,M0203,2025-10-28,İstanbul,22,Kitap,238.25,1.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,4.0,238.25
+S000936,M0260,2025-05-27,Bursa,32,Kitap,153.16,2.0,0.15,Özel Gün,Kredi Kartı,Mobil,2.0,Hayır,5.0,260.37
+S000436,M0145,2025-12-28,Malatya,33,Elektronik,10131.68,6.0,0.1,Yeni Üye,Banka Kartı,Masaüstü,4.0,Hayır,5.0,54711.07
+S001268,M0193,2025-01-07,Bursa,25,Ev & Yaşam,356.46,1.0,0.1,Hafta Sonu,Kapıda Ödeme,Masaüstü,2.0,Evet,3.0,320.81
+S000103,M0203,2025-11-04,İstanbul,22,Ev & Yaşam,1257.29,1.0,0.05,Yok,Kapıda Ödeme,Mobil,5.0,Evet,,1194.43
+S000225,M0309,2025-09-28,İzmir,18,Kozmetik,236.81,1.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,4.0,189.45
+S000773,M0301,2025-11-17,Bursa,4,Kitap,128.55,1.0,0.1,Sepette İndirim,Kredi Kartı,Masaüstü,,Hayır,4.0,115.7
+S000895,M0083,2025-07-24,Bursa,46,Giyim,435.27,4.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,2.0,Hayır,5.0,1654.03
+S001374,M0240,2025-10-04,Elazığ,21,Kozmetik,534.02,5.0,0.05,Yok,Banka Kartı,Mobil,3.0,Hayır,4.0,2536.59
+S000241,M0022,2025-11-04,İstanbul,30,Spor,1077.45,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,3.0,Hayır,4.0,969.7
+S000953,M0022,2025-01-28,İstanbul,30,Giyim,850.15,3.0,0.05,Hafta Sonu,Banka Kartı,Masaüstü,2.0,Hayır,4.0,2422.93
+S000628,M0309,2025-02-24,İzmir,18,Giyim,1142.0,2.0,0.2,Sepette İndirim,Havale/EFT,Mobil,4.0,Hayır,5.0,1827.2
+S001227,M0309,2025-12-03,İzmir,18,Ev & Yaşam,1510.04,3.0,0.0,Yok,Havale/EFT,Masaüstü,2.0,Hayır,4.0,4530.12
+S000211,M0012,2025-11-29,İstanbul,20,Elektronik,8180.71,2.0,0.1,Yeni Üye,Kredi Kartı,Mobil,9.0,Hayır,4.0,14725.28
+S000648,M0195,2025-01-15,Elazığ,5,Giyim,186.96,2.0,0.3,Özel Gün,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,261.74
+S001151,M0300,2025-07-05,İzmir,41,Spor,677.19,1.0,0.15,Özel Gün,Kredi Kartı,Masaüstü,1.0,Hayır,5.0,575.61
+S001197,M0068,2025-06-28,İstanbul,39,Spor,296.64,1.0,0.0,Yok,Banka Kartı,Mobil,2.0,Hayır,5.0,296.64
+S001289,M0309,2025-08-24,İzmir,18,Spor,424.93,4.0,0.15,Hafta Sonu,Kredi Kartı,Mobil,4.0,Hayır,5.0,1444.76
+S000310,M0282,2025-07-30,Malatya,39,Giyim,351.65,2.0,0.0,Yok,Banka Kartı,Mobil,11.0,Hayır,3.0,703.3
+S000306,M0058,2025-09-01,Ankara,9,Giyim,1272.42,2.0,0.0,Yok,Kredi Kartı,Masaüstü,5.0,Hayır,5.0,2544.84
+S000498,M0309,2025-10-04,İzmir,18,Giyim,1060.02,4.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,4.0,3392.06
+S000305,M0309,2025-07-30,İzmir,18,Ev & Yaşam,2059.53,3.0,0.15,Sepette İndirim,Kredi Kartı,Tablet,2.0,Hayır,4.0,5251.8
+S001076,M0193,2025-06-29,Bursa,25,Kitap,232.52,1.0,0.1,Hafta Sonu,Havale/EFT,Mobil,4.0,Hayır,4.0,209.27
+S000946,M0041,2025-12-22,Ankara,37,Elektronik,11559.93,1.0,0.2,Sepette İndirim,Banka Kartı,Masaüstü,2.0,Hayır,4.0,9247.94
+S000050,M0096,2025-04-17,Elazığ,22,Spor,396.08,1.0,0.05,Yok,Kredi Kartı,Tablet,6.0,Hayır,4.0,376.28
+S000477,M0292,2025-03-06,Malatya,9,Giyim,831.88,1.0,0.2,Sepette İndirim,Banka Kartı,Mobil,4.0,Hayır,5.0,665.5
+S000808,M0316,2025-10-12,Elazığ,2,Elektronik,3160.67,2.0,0.15,Hafta Sonu,Kredi Kartı,Mobil,6.0,Hayır,3.0,5373.14
+S001043,M0163,2025-01-11,Elazığ,38,Elektronik,1815.51,3.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,3.0,5446.53
+S001331,M0203,2025-06-03,İstanbul,22,Ev & Yaşam,932.92,1.0,0.25,Özel Gün,Kapıda Ödeme,Mobil,2.0,Hayır,5.0,825.63
+S000418,M0309,2025-07-14,İzmir,18,Giyim,1917.05,2.0,0.05,Hafta Sonu,Kapıda Ödeme,Masaüstü,3.0,Hayır,5.0,3642.39
+S001117,M0131,2025-06-12,İzmir,29,Elektronik,13449.27,1.0,0.15,Sepette İndirim,Kapıda Ödeme,Masaüstü,4.0,Hayır,4.0,11431.88
+S000574,M0175,2025-03-09,İstanbul,14,Ev & Yaşam,379.14,1.0,0.15,Sepette İndirim,Kredi Kartı,Masaüstü,3.0,Evet,3.0,322.27
+S000390,M0003,2025-12-29,Malatya,37,Spor,1711.35,4.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,3.0,6845.4
+S001252,M0024,2025-11-28,Ankara,35,Giyim,1151.23,2.0,0.2,Sepette İndirim,Kapıda Ödeme,Masaüstü,3.0,Hayır,4.0,1841.97
+S001318,M0056,2025-05-12,Elazığ,27,Giyim,315.36,2.0,0.05,Yok,Kapıda Ödeme,Masaüstü,4.0,Hayır,4.0,599.18
+S000784,M0309,2025-11-13,İzmir,18,Giyim,245.52,2.0,0.05,Hafta Sonu,Banka Kartı,Mobil,,Hayır,4.0,466.49
+S000013,M0263,2025-02-21,Malatya,20,Giyim,570.69,3.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,7.0,Hayır,4.0,1540.86
+S000379,M0024,2025-07-10,Ankara,35,Ev & Yaşam,1140.84,2.0,0.0,Yok,Banka Kartı,Mobil,2.0,Hayır,5.0,2281.68
+S000467,M0309,2025-04-15,İzmir,18,Elektronik,5044.97,3.0,0.15,Hafta Sonu,Havale/EFT,Mobil,3.0,Hayır,4.0,12864.67
+S000007,M0175,2025-06-18,İstanbul,14,Kitap,306.18,1.0,0.05,Hafta Sonu,Kredi Kartı,Masaüstü,5.0,Hayır,4.0,290.87
+S001395,M0294,2025-12-29,İzmir,18,Kozmetik,499.83,1.0,0.2,Sepette İndirim,Banka Kartı,Masaüstü,3.0,Hayır,5.0,399.86
+S001379,M0309,2025-04-30,İzmir,18,Kitap,192.88,1.0,0.0,Yok,Havale/EFT,Mobil,2.0,Hayır,5.0,192.88
+S000440,M0191,2025-06-02,Bursa,48,Ev & Yaşam,2280.18,3.0,0.15,Sepette İndirim,Kapıda Ödeme,Mobil,2.0,Hayır,4.0,5814.46
+S000004,M0309,2025-04-04,İzmir,18,Elektronik,813.65,1.0,0.0,Yok,Banka Kartı,Mobil,3.0,Hayır,5.0,813.65
+S001181,M0220,2025-04-02,Bursa,19,Elektronik,1817.32,2.0,0.2,Özel Gün,Banka Kartı,Mobil,1.0,Hayır,3.0,2907.71
+S000235,M0019,2025-05-15,Ankara,8,Kitap,302.88,2.0,0.1,Yeni Üye,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,545.18
+S000823,M0108,2025-05-07,Elazığ,42,Kitap,206.53,1.0,0.1,Sepette İndirim,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,185.88
+S000402,M0276,2025-09-05,İzmir,30,Giyim,560.87,2.0,0.2,Özel Gün,Kredi Kartı,Mobil,2.0,Hayır,5.0,897.39
+S000483,M0017,2025-12-09,Malatya,35,Kitap,225.79,1.0,0.0,Yok,Kredi Kartı,Mobil,8.0,Hayır,3.0,225.79
+S000487,M0309,2025-10-07,İzmir,18,Spor,395.29,2.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,1.0,Hayır,5.0,671.99
+S001162,M0015,2025-04-12,İstanbul,35,Kozmetik,367.86,1.0,0.1,Yeni Üye,Kredi Kartı,Tablet,5.0,Hayır,3.0,331.07
+S001112,M0308,2025-02-12,İstanbul,32,Ev & Yaşam,355.52,2.0,0.2,Özel Gün,Banka Kartı,Mobil,2.0,Hayır,4.0,568.83
+S000161,M0298,2025-10-26,Elazığ,35,Elektronik,4307.87,1.0,0.0,Yok,Banka Kartı,Mobil,7.0,Evet,3.0,4307.87
+S000642,M0099,2025-03-23,Bursa,40,Kozmetik,800.75,3.0,0.05,Yok,Havale/EFT,Mobil,3.0,Hayır,4.0,2282.14
+S001148,M0026,2025-11-09,İstanbul,7,Elektronik,8142.88,1.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,3.0,8142.88
+S000851,M0269,2025-04-10,Malatya,45,Giyim,319.76,1.0,0.0,Yok,Havale/EFT,Mobil,4.0,Evet,3.0,319.76
+S000358,M0282,2025-05-24,Malatya,39,Giyim,1198.67,1.0,0.25,Özel Gün,Kredi Kartı,Mobil,6.0,Hayır,4.0,899.0
+S000333,M0287,2025-10-16,Ankara,5,Giyim,519.94,2.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,5.0,1039.88
+S001122,M0252,2025-02-10,Ankara,16,Ev & Yaşam,809.54,4.0,0.2,Sepette İndirim,Banka Kartı,Mobil,3.0,Hayır,4.0,2590.53
+S000916,M0176,2025-10-21,Malatya,24,Kitap,172.54,2.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,3.0,345.08
+S000446,M0016,2025-07-17,Malatya,30,Kozmetik,344.53,2.0,0.0,Yok,Havale/EFT,Masaüstü,4.0,Hayır,5.0,689.06
+S000866,M0309,2025-11-02,İzmir,18,Kozmetik,957.16,1.0,0.0,Yok,Havale/EFT,Mobil,4.0,Hayır,5.0,957.16
+S000857,M0256,2025-12-08,Ankara,13,Kitap,358.52,2.0,0.0,Yok,Kredi Kartı,Mobil,9.0,Hayır,5.0,717.04
+S000351,M0028,2025-12-26,Bursa,4,Giyim,1410.03,3.0,0.15,Yeni Üye,Havale/EFT,Mobil,5.0,Evet,3.0,3595.58
+S001110,M0316,2025-07-17,Elazığ,2,Spor,1290.84,4.0,0.15,Sepette İndirim,Havale/EFT,Mobil,4.0,Hayır,4.0,4388.86
+S000171,M0134,2025-05-09,Ankara,30,Elektronik,15258.38,5.0,0.1,Hafta Sonu,Kredi Kartı,Tablet,2.0,Hayır,5.0,68662.71
+S001129,M0223,2025-11-23,İstanbul,2,Kozmetik,406.75,3.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,4.0,1037.21
+S000172,M0177,2025-07-30,İstanbul,9,Elektronik,2162.36,4.0,0.15,Yeni Üye,Kredi Kartı,Masaüstü,1.0,Hayır,4.0,7352.02
+S000107,M0306,2025-09-22,Ankara,25,Ev & Yaşam,1781.88,1.0,0.0,Yok,Kredi Kartı,Masaüstü,4.0,Evet,,1781.88
+S001017,M0161,2025-05-24,İzmir,19,Kitap,134.62,1.0,0.0,Yok,Banka Kartı,Mobil,3.0,Hayır,3.0,134.62
+S000569,M0171,2025-08-26,İstanbul,9,Kozmetik,176.16,1.0,0.0,Yok,Banka Kartı,Mobil,1.0,Hayır,,176.16
+S000814,M0293,2025-04-25,İstanbul,31,Ev & Yaşam,246.99,3.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,5.0,740.97
+S000068,M0312,2025-06-21,İstanbul,11,Kozmetik,1335.03,1.0,0.1,Hafta Sonu,Havale/EFT,Mobil,6.0,Hayır,5.0,1201.53
+S000271,M0160,2025-03-17,Ankara,46,Ev & Yaşam,953.31,1.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,5.0,953.31
+S001165,M0197,2025-10-20,İstanbul,4,Ev & Yaşam,639.89,3.0,0.05,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,1823.69
+S001267,M0305,2025-09-11,Ankara,27,Giyim,468.5,5.0,0.05,Hafta Sonu,Kapıda Ödeme,Mobil,2.0,Hayır,4.0,2225.38
+S000201,M0309,2025-09-15,İzmir,18,Ev & Yaşam,1574.42,2.0,0.15,Sepette İndirim,Kredi Kartı,Masaüstü,1.0,Hayır,4.0,2676.51
+S000341,M0036,2025-08-02,Ankara,35,Giyim,1178.8,1.0,0.0,Yok,Banka Kartı,Masaüstü,5.0,Hayır,4.0,1178.8
+S000693,M0298,2025-01-22,Elazığ,35,Kitap,172.7,5.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,6.0,Hayır,3.0,733.98
+S000156,M0108,2025-11-10,Elazığ,42,Giyim,945.59,2.0,0.2,Özel Gün,Havale/EFT,Mobil,9.0,Hayır,4.0,1512.94
+S000626,M0119,2025-02-07,İzmir,16,Elektronik,2232.47,4.0,0.05,Yok,Kredi Kartı,Mobil,5.0,Hayır,5.0,8483.39
+S000054,M0071,2025-03-23,Ankara,24,Giyim,1038.12,1.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,8.0,Hayır,3.0,986.21
+S001324,M0215,2025-06-30,Elazığ,32,Elektronik,2382.59,2.0,0.15,Hafta Sonu,Banka Kartı,Mobil,8.0,Hayır,2.0,4050.4
+S000614,M0226,2025-11-21,İstanbul,31,Spor,1779.06,1.0,0.0,Yok,Kredi Kartı,Mobil,8.0,Hayır,4.0,1779.06
+S001304,M0261,2025-04-13,Bursa,14,Giyim,319.79,2.0,0.05,Yok,Kredi Kartı,Mobil,5.0,Hayır,5.0,607.6
+S001088,M0103,2025-07-10,Elazığ,39,Giyim,1184.8,3.0,0.15,Sepette İndirim,Banka Kartı,Mobil,4.0,Hayır,4.0,3021.24
+S001293,M0313,2025-06-24,İzmir,8,Kitap,321.63,2.0,0.15,Yeni Üye,Havale/EFT,Masaüstü,5.0,Hayır,5.0,546.77
+S000361,M0309,2025-03-08,İzmir,18,Spor,2147.33,2.0,0.05,Hafta Sonu,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,4079.93
+S001062,M0245,2025-01-28,İstanbul,10,Spor,1822.11,2.0,0.1,Hafta Sonu,Kredi Kartı,Tablet,1.0,Evet,4.0,3279.8
+S000384,M0222,2025-07-18,İstanbul,12,Elektronik,7051.56,1.0,0.1,Hafta Sonu,Kapıda Ödeme,Masaüstü,2.0,Hayır,,6346.4
+S000733,M0042,2025-02-22,İstanbul,22,Elektronik,1546.42,1.0,0.0,Yok,Banka Kartı,Mobil,6.0,Evet,3.0,1546.42
+S000531,M0309,2025-11-01,İzmir,18,Kitap,385.68,2.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,5.0,771.36
+S000656,M0309,2025-11-05,İzmir,18,Kozmetik,340.74,1.0,0.25,Özel Gün,Banka Kartı,Masaüstü,4.0,Evet,2.0,255.56
+S001150,M0216,2025-03-14,Malatya,45,Ev & Yaşam,549.94,2.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,4.0,1099.88
+S000019,M0306,2025-11-03,Ankara,25,Giyim,900.74,1.0,0.0,Yok,Kredi Kartı,Mobil,6.0,Hayır,5.0,900.74
+S000360,M0007,2025-10-02,Elazığ,17,Elektronik,2637.52,2.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,4747.54
+S000885,M0309,2025-12-14,İzmir,18,Ev & Yaşam,135.97,1.0,0.25,Özel Gün,Havale/EFT,Masaüstü,1.0,Hayır,4.0,101.98
+S000445,M0309,2025-03-27,İzmir,18,Ev & Yaşam,825.11,1.0,0.0,Yok,Havale/EFT,Tablet,9.0,Hayır,4.0,825.11
+S000122,M0309,2025-08-27,İzmir,18,Ev & Yaşam,416.97,2.0,0.15,Hafta Sonu,Kredi Kartı,Masaüstü,9.0,Evet,1.0,708.85
+S001006,M0136,2025-09-28,İstanbul,25,Spor,740.39,1.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,666.35
+S001287,M0042,2025-09-27,İstanbul,22,Ev & Yaşam,596.98,1.0,0.0,Yok,Havale/EFT,Mobil,3.0,Evet,3.0,596.98
+S001396,M0316,2025-05-28,Elazığ,2,Elektronik,7868.54,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,4.0,7868.54
+S000374,M0096,2025-10-15,Elazığ,22,Kozmetik,413.0,1.0,0.0,Yok,Banka Kartı,Mobil,6.0,Hayır,,413.0
+S000533,M0109,2025-09-30,İstanbul,27,Kitap,411.89,1.0,0.0,Yok,Banka Kartı,Mobil,1.0,Hayır,4.0,411.89
+S000927,M0197,2025-10-29,İstanbul,4,Elektronik,9218.87,1.0,0.0,Yok,Kredi Kartı,Masaüstü,5.0,Hayır,4.0,9218.87
+S000213,M0218,2025-01-15,Ankara,46,Elektronik,1216.27,3.0,0.1,Hafta Sonu,Banka Kartı,Masaüstü,2.0,Hayır,5.0,3283.93
+S001348,M0032,2025-05-23,İzmir,46,Spor,1269.78,1.0,0.0,Yok,Banka Kartı,Mobil,3.0,Hayır,4.0,1269.78
+S000279,M0203,2025-10-23,İstanbul,22,Kitap,253.05,1.0,0.0,Yok,Kredi Kartı,Tablet,6.0,Hayır,4.0,253.05
+S001281,M0295,2025-11-19,İstanbul,47,Giyim,1292.59,2.0,0.0,Yok,Havale/EFT,Mobil,2.0,Hayır,5.0,2585.18
+S000947,M0200,2025-05-01,İstanbul,10,Ev & Yaşam,2111.14,3.0,0.2,Sepette İndirim,Banka Kartı,Mobil,7.0,Hayır,3.0,5066.74
+S000190,M0309,2025-11-15,İzmir,18,Giyim,510.16,2.0,0.15,Sepette İndirim,Banka Kartı,Masaüstü,1.0,Evet,2.0,867.27
+S000919,M0179,2025-10-13,İstanbul,5,Kitap,175.11,2.0,0.1,Hafta Sonu,Kapıda Ödeme,Mobil,6.0,Hayır,4.0,315.2
+S000230,M0194,2025-06-03,İstanbul,19,Elektronik,2443.56,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,6.0,Hayır,4.0,2077.03
+S000964,M0171,2025-11-04,İstanbul,9,Elektronik,12181.04,1.0,0.15,Yeni Üye,Banka Kartı,Mobil,3.0,Hayır,4.0,10353.88
+S001349,M0306,2025-08-12,Ankara,25,Giyim,1413.88,2.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,8.0,Hayır,3.0,2544.98
+S000926,M0297,2025-04-20,Malatya,35,Kitap,242.24,1.0,0.2,Sepette İndirim,Kredi Kartı,Tablet,4.0,Hayır,5.0,193.79
+S000969,M0031,2025-03-01,Ankara,13,Giyim,732.63,2.0,0.3,Özel Gün,Kredi Kartı,Mobil,3.0,Hayır,3.0,1025.68
+S000932,M0128,2025-04-09,Elazığ,21,Elektronik,1772.81,1.0,0.0,Yok,Kredi Kartı,Mobil,6.0,Hayır,3.0,1772.81
+S001213,M0306,2025-07-29,Ankara,25,Kozmetik,901.5,1.0,0.15,Hafta Sonu,Banka Kartı,Masaüstü,5.0,Hayır,5.0,766.28
+S000550,M0236,2025-05-09,Ankara,28,Giyim,548.63,4.0,0.0,Yok,Banka Kartı,Masaüstü,2.0,Hayır,5.0,2194.52
+S000129,M0230,2025-10-05,İstanbul,1,Giyim,536.53,1.0,0.0,Yok,Banka Kartı,Masaüstü,2.0,Hayır,4.0,536.53
+S001161,M0128,2025-09-09,Elazığ,21,Ev & Yaşam,627.23,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,4.0,Hayır,5.0,533.15
+S001266,M0287,2025-03-17,Ankara,5,Giyim,728.26,1.0,0.0,Yok,Kapıda Ödeme,Mobil,5.0,Hayır,4.0,728.26
+S001260,M0294,2025-10-30,İzmir,18,Elektronik,2644.09,1.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,9.0,Hayır,3.0,2379.68
+S000672,M0309,2025-11-17,İzmir,18,Spor,707.82,1.0,0.3,Özel Gün,Banka Kartı,Mobil,2.0,Hayır,5.0,495.47
+S000608,M0162,2025-03-30,Bursa,42,Ev & Yaşam,1074.12,1.0,0.05,Hafta Sonu,Kredi Kartı,Masaüstü,3.0,Hayır,,1020.41
+S000641,M0181,2025-07-29,İzmir,3,Spor,678.95,1.0,0.1,Yeni Üye,Kapıda Ödeme,Masaüstü,5.0,Hayır,4.0,611.06
+S001355,M0251,2025-08-31,Bursa,21,Ev & Yaşam,396.57,2.0,0.0,Yok,Havale/EFT,Masaüstü,2.0,Hayır,5.0,793.14
+S000848,M0254,2025-01-13,İzmir,22,Elektronik,5433.05,2.0,0.25,Sepette İndirim,Banka Kartı,Mobil,4.0,Evet,2.0,8149.58
+S001080,M0232,2025-10-09,Malatya,12,Kitap,253.54,3.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,5.0,Hayır,5.0,646.53
+S000708,M0174,2025-12-07,Bursa,5,Giyim,316.23,1.0,0.0,Yok,Kredi Kartı,Masaüstü,,Evet,,316.23
+S000676,M0224,2025-06-10,İstanbul,35,Kitap,411.02,4.0,0.05,Yok,Kredi Kartı,Mobil,4.0,Hayır,5.0,1561.88
+S001372,M0122,2025-04-07,Elazığ,23,Elektronik,3468.49,3.0,0.0,Yok,Banka Kartı,Masaüstü,4.0,Hayır,5.0,10405.47
+S000940,M0048,2025-11-24,Ankara,40,Spor,1651.41,3.0,0.15,Yeni Üye,Kredi Kartı,Masaüstü,9.0,Hayır,3.0,4211.1
+S001301,M0273,2025-12-05,İstanbul,18,Kozmetik,792.78,1.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,5.0,Hayır,4.0,753.14
+S000959,M0309,2025-10-26,İzmir,18,Kitap,273.8,2.0,0.0,Yok,Havale/EFT,Mobil,2.0,Hayır,3.0,547.6
+S001381,M0150,2025-01-01,İstanbul,26,Kitap,215.58,1.0,0.05,Yok,Kredi Kartı,Mobil,1.0,Hayır,3.0,204.8
+S000994,M0309,2025-10-20,İzmir,18,Elektronik,8366.23,2.0,0.1,Yeni Üye,Banka Kartı,Mobil,5.0,Hayır,4.0,15059.21
+S000711,M0095,2025-04-18,Malatya,45,Kozmetik,268.03,2.0,0.25,Özel Gün,Kredi Kartı,Mobil,2.0,Hayır,3.0,402.04
+S000140,M0127,2025-01-10,Malatya,22,Ev & Yaşam,1003.53,3.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,4.0,Hayır,5.0,2709.53
+S001292,M0309,2025-11-20,İzmir,18,Kozmetik,694.79,1.0,0.0,Yok,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,694.79
+S000882,M0204,2025-11-04,İstanbul,23,Kitap,345.58,1.0,0.0,Yok,Kapıda Ödeme,Tablet,3.0,Hayır,4.0,345.58
+S000003,M0164,2025-11-18,Elazığ,31,Spor,1258.26,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,3.0,1258.26
+S001322,M0206,2025-04-07,Bursa,25,Elektronik,1115.48,1.0,0.1,Yeni Üye,Kredi Kartı,Tablet,3.0,Hayır,4.0,1003.93
+S000438,M0269,2025-08-05,Malatya,45,Kozmetik,292.21,1.0,0.0,Yok,Kapıda Ödeme,Tablet,3.0,Hayır,4.0,292.21
+S000395,M0168,2025-09-13,Bursa,21,Elektronik,2710.05,2.0,0.25,Özel Gün,Havale/EFT,Mobil,1.0,Hayır,4.0,4065.08
+S000278,M0159,2025-03-03,Bursa,27,Giyim,329.92,1.0,0.0,Yok,Banka Kartı,Mobil,2.0,Evet,,329.92
+S000686,M0138,2025-08-01,Ankara,45,Kitap,160.92,4.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,5.0,Hayır,4.0,579.31
+S000283,M0320,2025-09-14,Ankara,32,Giyim,864.2,2.0,0.2,Yeni Üye,Banka Kartı,Masaüstü,4.0,Hayır,5.0,1382.72
+S000119,M0120,2025-03-24,Malatya,33,Giyim,1289.67,1.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,4.0,1289.67
+S000753,M0113,2025-03-30,İzmir,19,Kitap,358.76,4.0,0.1,Hafta Sonu,Havale/EFT,Mobil,3.0,Hayır,3.0,1291.54
+S000057,M0247,2025-12-26,Elazığ,19,Kitap,188.47,3.0,0.0,Yok,Kredi Kartı,Masaüstü,6.0,Hayır,3.0,565.41
+S001160,M0200,2025-05-02,İstanbul,10,Ev & Yaşam,2120.65,1.0,0.15,Özel Gün,Banka Kartı,Mobil,4.0,Hayır,5.0,1802.55
+S000984,M0195,2025-08-02,Elazığ,5,Ev & Yaşam,500.8,4.0,0.0,Yok,Havale/EFT,Mobil,,Hayır,3.0,2003.2
+S001199,M0074,2025-11-06,İzmir,3,Elektronik,9168.0,4.0,0.1,Yeni Üye,Kredi Kartı,Masaüstü,4.0,Hayır,5.0,33004.8
+S000042,M0299,2025-03-04,Ankara,27,Ev & Yaşam,502.03,1.0,0.15,Sepette İndirim,Banka Kartı,Mobil,3.0,Hayır,3.0,426.73
+S000669,M0236,2025-11-25,Ankara,28,Kozmetik,618.05,1.0,0.0,Yok,Kredi Kartı,Masaüstü,,Hayır,4.0,618.05
+S000612,M0175,2025-11-10,İstanbul,14,Spor,1165.34,2.0,0.15,Sepette İndirim,Havale/EFT,Mobil,1.0,Hayır,3.0,1981.08
+S000051,M0305,2025-06-29,Ankara,27,Giyim,809.77,5.0,0.1,Yeni Üye,Banka Kartı,Mobil,3.0,Hayır,5.0,3643.96
+S000524,M0309,2025-12-19,İzmir,18,Elektronik,4804.51,3.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,,14413.53
+S001054,M0056,2025-05-13,Elazığ,27,Giyim,779.98,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Evet,3.0,779.98
+S001347,M0078,2025-06-05,İzmir,28,Kozmetik,377.99,1.0,0.1,Sepette İndirim,Kredi Kartı,Masaüstü,4.0,Hayır,5.0,340.19
+S000330,M0077,2025-09-19,Ankara,16,Elektronik,4796.99,1.0,0.0,Yok,Havale/EFT,Mobil,4.0,Hayır,3.0,4796.99
+S000680,M0286,2025-12-09,Ankara,22,Elektronik,9252.25,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,4.0,9252.25
+S001279,M0201,2025-04-18,Ankara,17,Spor,2184.4,5.0,0.0,Yok,Kredi Kartı,Masaüstü,1.0,Evet,1.0,10922.0
+S001239,M0024,2025-07-05,Ankara,35,Giyim,882.03,1.0,0.0,Yok,Kredi Kartı,Masaüstü,7.0,Hayır,4.0,882.03
+S000246,M0139,2025-09-21,İstanbul,1,Spor,1943.57,2.0,0.0,Yok,Kredi Kartı,Masaüstü,7.0,Hayır,5.0,3887.14
+S001029,M0136,2025-08-21,İstanbul,25,Spor,1070.16,1.0,0.0,Yok,Kapıda Ödeme,Mobil,4.0,Hayır,5.0,1070.16
+S000385,M0158,2025-01-01,Bursa,26,Elektronik,722.44,3.0,0.2,Özel Gün,Havale/EFT,Masaüstü,1.0,Hayır,4.0,1733.86
+S000852,M0032,2025-03-05,İzmir,46,Kitap,209.58,5.0,0.05,Yok,Havale/EFT,Mobil,1.0,Hayır,4.0,995.5
+S001097,M0110,2025-02-23,Bursa,20,Kozmetik,430.9,3.0,0.1,Yeni Üye,Kredi Kartı,Mobil,1.0,Hayır,5.0,1163.43
+S001115,M0205,2025-12-05,İstanbul,39,Ev & Yaşam,1976.04,1.0,0.0,Yok,Banka Kartı,Masaüstü,1.0,Evet,1.0,1976.04
+S000540,M0309,2025-12-06,İzmir,18,Ev & Yaşam,1757.09,1.0,0.05,Hafta Sonu,Kredi Kartı,Tablet,2.0,Hayır,3.0,1669.24
+S000974,M0017,2025-05-21,Malatya,35,Kitap,314.42,2.0,0.25,Özel Gün,Kredi Kartı,Mobil,4.0,Hayır,5.0,471.63
+S001319,M0283,2025-02-25,İstanbul,14,Ev & Yaşam,649.02,5.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,5.0,3245.1
+S000069,M0309,2025-10-27,İzmir,18,Kitap,246.49,1.0,0.3,Özel Gün,Banka Kartı,Tablet,2.0,Hayır,4.0,172.54
+S001265,M0083,2025-12-20,Bursa,46,Spor,693.46,2.0,0.1,Sepette İndirim,Kapıda Ödeme,Masaüstü,1.0,Hayır,5.0,1248.23
+S001297,M0279,2025-10-15,Ankara,44,Kitap,193.69,2.0,0.15,Sepette İndirim,Kredi Kartı,Masaüstü,1.0,Hayır,5.0,329.27
+S000152,M0100,2025-08-21,İstanbul,35,Giyim,1240.6,1.0,0.0,Yok,Banka Kartı,Masaüstü,4.0,Hayır,4.0,1240.6
+S001083,M0178,2025-10-02,Ankara,9,Ev & Yaşam,591.37,2.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,4.0,1064.47
+S000430,M0169,2025-06-11,İstanbul,6,Ev & Yaşam,745.77,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,5.0,Hayır,5.0,633.9
+S000460,M0092,2025-07-07,Ankara,11,Giyim,3369.33,1.0,0.25,Sepette İndirim,Kapıda Ödeme,Masaüstü,3.0,Hayır,4.0,2527.0
+S000905,M0063,2025-05-31,Ankara,30,Kozmetik,328.91,1.0,0.0,Yok,Havale/EFT,Mobil,5.0,Hayır,5.0,328.91
+S000326,M0164,2025-01-14,Elazığ,31,Ev & Yaşam,5714.07,5.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,4.0,24284.8
+S000985,M0220,2025-08-02,Bursa,19,Giyim,1017.39,3.0,0.2,Özel Gün,Kredi Kartı,Mobil,3.0,Hayır,3.0,2441.74
+S000387,M0305,2025-06-01,Ankara,27,Spor,1327.4,2.0,0.3,Özel Gün,Kredi Kartı,Mobil,2.0,Hayır,4.0,1858.36
+S000646,M0084,2025-12-15,Malatya,11,Elektronik,10451.55,1.0,0.0,Yok,Havale/EFT,Mobil,3.0,Hayır,,10451.55
+S001356,M0312,2025-09-16,İstanbul,11,Elektronik,3763.35,2.0,0.15,Yeni Üye,,Mobil,6.0,Hayır,4.0,6397.7
+S000059,M0309,2025-11-05,İzmir,18,Ev & Yaşam,1028.46,2.0,0.0,Yok,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,2056.92
+S000479,M0306,2025-11-21,Ankara,25,Ev & Yaşam,2196.77,2.0,0.1,Yeni Üye,Kredi Kartı,Masaüstü,1.0,Hayır,5.0,3954.19
+S001145,M0299,2025-11-23,Ankara,27,Elektronik,4360.79,5.0,0.15,Sepette İndirim,Banka Kartı,Masaüstü,4.0,Hayır,5.0,18533.36
+S000660,M0254,2025-07-17,İzmir,22,Kitap,203.96,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,2.0,Evet,3.0,173.37
+S000091,M0309,2025-07-27,İzmir,18,Kitap,478.06,2.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,4.0,956.12
+S000072,M0287,2025-07-23,Ankara,5,Kozmetik,322.05,1.0,0.05,Hafta Sonu,Banka Kartı,Mobil,2.0,Hayır,4.0,305.95
+S001338,M0103,2025-05-22,Elazığ,39,Elektronik,1420.01,3.0,0.1,Yeni Üye,Havale/EFT,Mobil,6.0,Hayır,4.0,3834.03
+S000454,M0144,2025-03-24,Bursa,8,Kitap,230.46,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,6.0,Hayır,5.0,207.41
+S000736,M0025,2025-11-03,Ankara,11,Giyim,2657.26,2.0,0.0,Yok,Banka Kartı,Mobil,2.0,Hayır,5.0,5314.52
+S000291,M0119,2025-07-04,İzmir,16,Giyim,735.54,1.0,0.0,Yok,Havale/EFT,Mobil,3.0,Hayır,4.0,735.54
+S000143,M0049,2025-04-22,İzmir,45,Ev & Yaşam,1053.54,1.0,0.1,Yeni Üye,Kapıda Ödeme,Mobil,3.0,Evet,,948.19
+S000622,M0295,2025-06-23,İstanbul,47,Elektronik,6991.12,1.0,0.15,Hafta Sonu,Banka Kartı,Masaüstü,13.0,Hayır,1.0,5942.45
+S000572,M0049,2025-03-31,İzmir,45,Elektronik,4896.76,1.0,0.0,Yok,Kredi Kartı,Mobil,6.0,Hayır,3.0,4896.76
+S000720,M0230,2025-04-27,İstanbul,1,Giyim,611.71,4.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,1.0,Evet,2.0,2079.81
+S000038,M0175,2025-01-22,İstanbul,14,Spor,907.4,2.0,0.1,Hafta Sonu,Havale/EFT,Mobil,1.0,Hayır,4.0,1633.32
+S000094,M0252,2025-04-03,Ankara,16,Kozmetik,1011.32,1.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,5.0,809.06
+S000675,M0119,2025-01-07,İzmir,16,Giyim,757.65,1.0,0.05,Yok,Kredi Kartı,Masaüstü,2.0,Hayır,5.0,719.77
+S001200,M0191,2025-02-08,Bursa,48,Elektronik,4517.08,1.0,0.15,Sepette İndirim,Havale/EFT,Mobil,7.0,Hayır,2.0,3839.52
+S000239,M0057,2025-05-02,Bursa,16,Spor,1044.44,4.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,5.0,4177.76
+S001041,M0196,2025-08-14,Elazığ,19,Elektronik,5358.52,3.0,0.0,Yok,Kapıda Ödeme,Mobil,3.0,Hayır,5.0,16075.56
+S000931,M0309,2025-08-23,İzmir,18,Giyim,292.99,1.0,0.05,Yok,Banka Kartı,Mobil,,Evet,2.0,278.34
+S000742,M0309,2025-05-09,İzmir,18,Giyim,2465.34,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,5.0,2465.34
+S001371,M0309,2025-10-20,İzmir,18,Kozmetik,383.63,1.0,0.1,Yeni Üye,Havale/EFT,Mobil,3.0,Evet,2.0,345.27
+S001189,M0058,2025-01-28,Ankara,9,Giyim,443.91,6.0,0.1,Sepette İndirim,Havale/EFT,Masaüstü,3.0,Hayır,5.0,2397.11
+S001109,M0125,2025-12-12,Ankara,27,Kozmetik,388.65,2.0,0.0,Yok,Banka Kartı,Masaüstü,4.0,Hayır,4.0,777.3
+S001077,M0283,2025-11-04,İstanbul,14,Giyim,402.49,1.0,,Yok,Banka Kartı,Mobil,5.0,Hayır,5.0,402.49
+S000658,M0191,2025-09-30,Bursa,48,Giyim,1119.92,4.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,4.0,Hayır,5.0,3807.73
+S000878,M0058,2025-03-09,Ankara,9,Giyim,1454.38,2.0,0.1,Sepette İndirim,Havale/EFT,Mobil,2.0,Hayır,5.0,2617.88
+S000299,M0116,2025-12-02,Elazığ,21,Giyim,746.33,5.0,0.15,Sepette İndirim,Banka Kartı,Masaüstü,10.0,Evet,2.0,3171.9
+S001235,M0105,2025-02-14,Ankara,45,Giyim,990.02,6.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,6.0,Hayır,5.0,5346.11
+S001008,M0178,2025-11-23,Ankara,9,Ev & Yaşam,1501.14,1.0,0.25,Özel Gün,Kredi Kartı,Masaüstü,,Hayır,3.0,1125.86
+S000576,M0109,2025-05-05,İstanbul,27,Elektronik,4045.4,1.0,0.0,Yok,Havale/EFT,Mobil,2.0,Hayır,3.0,4045.4
+S000273,M0281,2025-02-16,İzmir,6,Ev & Yaşam,1210.81,1.0,0.1,Hafta Sonu,Banka Kartı,Masaüstü,2.0,Hayır,3.0,1089.73
+S001310,M0071,2025-03-19,Ankara,24,Elektronik,1677.12,2.0,0.1,Hafta Sonu,Havale/EFT,Masaüstü,7.0,Hayır,5.0,3018.82
+S001233,M0214,2025-08-08,İstanbul,6,Kozmetik,423.72,2.0,0.15,Sepette İndirim,Havale/EFT,Mobil,9.0,Evet,2.0,720.32
+S000875,M0043,2025-05-02,Bursa,26,Elektronik,4603.94,2.0,0.0,Yok,Havale/EFT,Mobil,6.0,Evet,5.0,9207.88
+S001142,M0015,2025-06-14,İstanbul,35,Ev & Yaşam,640.12,1.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,5.0,640.12
+S001152,M0079,2025-04-12,Ankara,40,Giyim,575.41,1.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,3.0,575.41
+S001314,M0298,2025-12-30,Elazığ,35,Elektronik,19642.1,1.0,0.15,Sepette İndirim,Banka Kartı,Mobil,6.0,Hayır,5.0,16695.78
+S000738,M0309,2025-02-05,İzmir,18,Elektronik,3256.1,2.0,0.3,Özel Gün,Kredi Kartı,Mobil,3.0,Evet,3.0,4558.54
+S000543,M0309,2025-11-03,İzmir,18,Kozmetik,334.38,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,5.0,334.38
+S001305,M0245,2025-01-25,İstanbul,10,Giyim,184.41,4.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,5.0,Hayır,4.0,626.99
+S000105,M0064,2025-05-16,İzmir,40,Giyim,2037.7,2.0,0.2,Sepette İndirim,Banka Kartı,Mobil,4.0,Hayır,5.0,3260.32
+S000696,M0028,2025-05-14,Bursa,4,Elektronik,3844.4,3.0,0.25,Özel Gün,Kapıda Ödeme,Mobil,3.0,Hayır,4.0,8649.9
+S000471,M0309,2025-01-29,İzmir,18,Kozmetik,578.49,2.0,0.1,Yeni Üye,Kredi Kartı,Mobil,2.0,Hayır,5.0,1041.28
+S000726,M0294,2025-01-15,İzmir,18,Elektronik,5510.45,1.0,0.05,Hafta Sonu,Banka Kartı,Mobil,3.0,Hayır,3.0,5234.93
+S000788,M0191,2025-10-22,Bursa,48,Ev & Yaşam,1231.19,2.0,0.25,Özel Gün,Kredi Kartı,Mobil,1.0,Hayır,5.0,1846.78
+S001216,M0309,2025-08-01,İzmir,18,Ev & Yaşam,1137.7,1.0,0.0,Yok,Kredi Kartı,Mobil,5.0,Hayır,5.0,1137.7
+S001334,M0192,2025-07-18,Bursa,35,Spor,416.85,2.0,0.1,Hafta Sonu,Banka Kartı,Tablet,3.0,Hayır,4.0,750.33
+S001060,M0309,2025-09-23,İzmir,18,Spor,2541.8,2.0,0.0,Yok,Havale/EFT,Masaüstü,4.0,Hayır,5.0,5083.6
+S001133,M0169,2025-01-19,İstanbul,6,Ev & Yaşam,861.37,2.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,2.0,Hayır,4.0,1550.47
+S001020,M0309,2025-11-07,İzmir,18,Giyim,921.42,2.0,0.1,Hafta Sonu,Kredi Kartı,Tablet,2.0,Hayır,5.0,1658.56
+S000854,M0190,2025-12-16,Elazığ,23,Kitap,405.81,4.0,0.15,Hafta Sonu,Kredi Kartı,Mobil,7.0,Hayır,3.0,1379.75
+S000366,M0195,2025-08-26,Elazığ,5,Giyim,598.1,1.0,0.05,Yok,Kredi Kartı,Mobil,3.0,Evet,,568.2
+S000877,M0309,2025-04-13,İzmir,18,Giyim,215.72,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,2.0,Hayır,4.0,194.15
+S000075,M0203,2025-03-24,İstanbul,22,Ev & Yaşam,1251.68,3.0,0.05,Yok,Kredi Kartı,Masaüstü,1.0,Hayır,4.0,3567.29
+S000049,M0309,2025-10-05,İzmir,18,Giyim,310.94,1.0,0.0,Yok,Kredi Kartı,Masaüstü,5.0,Hayır,5.0,310.94
+S000790,M0157,2025-12-02,İstanbul,24,Giyim,260.24,2.0,0.05,Yok,Kredi Kartı,Masaüstü,2.0,Hayır,5.0,494.46
+S000956,M0174,2025-04-28,Bursa,5,Elektronik,4145.32,1.0,0.2,Özel Gün,Kredi Kartı,Mobil,5.0,Hayır,5.0,3316.26
+S001035,M0239,2025-10-07,İzmir,48,Ev & Yaşam,1264.42,1.0,0.0,Yok,Banka Kartı,Masaüstü,2.0,Hayır,5.0,1264.42
+S001253,M0169,2025-12-14,İstanbul,6,Kozmetik,158.56,5.0,0.0,Yok,Kredi Kartı,Masaüstü,1.0,Hayır,3.0,792.8
+S000391,M0316,2025-10-17,Elazığ,2,Giyim,960.66,1.0,0.0,Yok,Havale/EFT,Mobil,7.0,Evet,2.0,960.66
+S001169,M0282,2025-01-05,Malatya,39,Spor,742.62,2.0,0.1,Hafta Sonu,Kapıda Ödeme,Mobil,6.0,Hayır,5.0,1336.72
+S001116,M0158,2025-10-15,Bursa,26,Kitap,145.18,1.0,0.05,Yok,Banka Kartı,Mobil,6.0,Hayır,3.0,137.92
+S000573,M0309,2025-12-19,İzmir,18,Kozmetik,310.76,3.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,3.0,Hayır,4.0,839.05
+S000587,M0024,2025-03-22,Ankara,35,Kitap,370.28,1.0,0.0,Yok,Kredi Kartı,Masaüstü,1.0,Hayır,,370.28
+S001159,M0058,2025-10-23,Ankara,9,Elektronik,3449.37,3.0,0.25,Sepette İndirim,Banka Kartı,Mobil,2.0,Evet,2.0,7761.08
+S000809,M0027,2025-05-20,Ankara,40,Kozmetik,1240.09,1.0,0.05,Hafta Sonu,Kapıda Ödeme,Mobil,3.0,Hayır,4.0,1178.09
+S000178,M0305,2025-12-19,Ankara,27,Giyim,431.69,5.0,0.15,Sepette İndirim,Banka Kartı,Masaüstü,2.0,Hayır,4.0,1834.68
+S001299,M0309,2025-11-20,İzmir,18,Giyim,1332.78,2.0,0.0,Yok,Kapıda Ödeme,Mobil,3.0,Hayır,4.0,2665.56
+S000555,M0208,2025-03-24,Ankara,42,Kitap,227.2,1.0,0.0,Yok,Kredi Kartı,Mobil,6.0,Hayır,4.0,227.2
+S000529,M0239,2025-03-09,İzmir,48,Kozmetik,450.37,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,4.0,450.37
+S001328,M0153,2025-06-12,Bursa,41,Elektronik,8803.82,1.0,0.0,Yok,Banka Kartı,Mobil,1.0,Hayır,5.0,8803.82
+S000607,M0220,2025-04-30,Bursa,19,Spor,332.46,2.0,0.2,Özel Gün,Kredi Kartı,Mobil,2.0,Hayır,4.0,531.94
+S001033,M0150,2025-04-12,İstanbul,26,Spor,1041.29,1.0,0.0,Yok,Kapıda Ödeme,Masaüstü,2.0,Evet,,1041.29
+S000220,M0274,2025-10-26,Elazığ,1,Ev & Yaşam,880.63,2.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,8.0,Hayır,4.0,1585.13
+S000010,M0227,2025-02-25,Ankara,7,Kitap,304.63,3.0,0.15,Yeni Üye,Kredi Kartı,Mobil,2.0,Hayır,4.0,776.81
+S000723,M0139,2025-06-09,İstanbul,1,Kitap,164.64,1.0,0.0,Yok,Kapıda Ödeme,Tablet,4.0,Hayır,5.0,164.64
+S001040,M0110,2025-11-15,Bursa,20,Kozmetik,506.39,1.0,0.0,Yok,Kredi Kartı,Masaüstü,1.0,Hayır,5.0,506.39
+S000586,M0090,2025-11-08,Bursa,18,Ev & Yaşam,1483.73,2.0,0.05,Hafta Sonu,Kredi Kartı,Masaüstü,2.0,Hayır,3.0,2819.09
+S000222,M0064,2025-03-14,İzmir,40,Elektronik,5257.84,1.0,0.15,Yeni Üye,Banka Kartı,Mobil,2.0,Hayır,5.0,4469.16
+S001393,M0084,2025-07-05,Malatya,11,Elektronik,22572.91,2.0,0.1,Yeni Üye,Kredi Kartı,Mobil,9.0,Hayır,3.0,40631.24
+S000369,M0217,2025-02-22,Ankara,46,Elektronik,8642.2,1.0,0.0,Yok,Banka Kartı,Mobil,3.0,Hayır,3.0,8642.2
+S000354,M0133,2025-07-30,Ankara,25,Spor,1596.86,1.0,0.05,Yok,Banka Kartı,Mobil,4.0,Evet,4.0,1517.02
+S000082,M0046,2025-01-28,İstanbul,41,Giyim,986.06,1.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,4.0,986.06
+S000032,M0044,2025-01-08,İstanbul,41,Giyim,588.98,2.0,0.0,Yok,Kredi Kartı,Masaüstü,1.0,Hayır,5.0,1177.96
+S001207,M0168,2025-05-10,Bursa,21,Spor,1503.03,5.0,0.0,Yok,Havale/EFT,Mobil,1.0,Hayır,5.0,7515.15
+S000822,M0186,2025-10-23,Malatya,25,Giyim,522.68,1.0,0.2,Sepette İndirim,Havale/EFT,Mobil,4.0,Hayır,4.0,418.14
+S001291,M0275,2025-07-05,İzmir,32,Elektronik,3750.43,1.0,0.25,Özel Gün,Kredi Kartı,Tablet,3.0,Evet,3.0,2812.82
+S001121,M0203,2025-02-09,İstanbul,22,Ev & Yaşam,2864.44,2.0,0.1,Hafta Sonu,,Mobil,1.0,Hayır,4.0,5155.99
+S000118,M0220,2025-10-16,Bursa,19,Kitap,193.07,1.0,0.25,Özel Gün,Kredi Kartı,Mobil,1.0,Hayır,5.0,144.8
+S001147,M0309,2025-12-15,İzmir,18,Ev & Yaşam,678.01,1.0,0.2,Sepette İndirim,Kredi Kartı,Tablet,7.0,Hayır,3.0,542.41
+S000943,M0060,2025-08-09,Ankara,1,Ev & Yaşam,657.69,1.0,0.0,Yok,Banka Kartı,Masaüstü,3.0,Hayır,4.0,657.69
+S000180,M0291,2025-12-27,İstanbul,31,Giyim,1085.97,1.0,0.15,Sepette İndirim,Kapıda Ödeme,Masaüstü,5.0,Hayır,4.0,923.07
+S001387,M0058,2025-02-11,Ankara,9,Elektronik,2207.99,1.0,0.0,Yok,Kredi Kartı,Tablet,3.0,Hayır,3.0,2207.99
+S001360,M0250,2025-06-15,İstanbul,35,Elektronik,2393.55,4.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,1.0,Hayır,,9095.49
+S000805,M0082,2025-07-15,İzmir,45,Ev & Yaşam,2263.83,1.0,0.15,Yeni Üye,Kredi Kartı,Mobil,2.0,Hayır,4.0,1924.26
+S000713,M0003,2025-12-13,Malatya,37,Elektronik,7486.21,3.0,0.0,Yok,Kredi Kartı,Tablet,3.0,Hayır,5.0,22458.63
+S000138,M0255,2025-10-23,İstanbul,19,Giyim,717.75,2.0,0.2,Yeni Üye,Kredi Kartı,Mobil,4.0,Hayır,4.0,1148.4
+S001107,M0309,2025-05-23,İzmir,18,Elektronik,3112.72,1.0,0.0,Yok,Banka Kartı,Mobil,1.0,Hayır,4.0,3112.72
+S000782,M0054,2025-07-31,İstanbul,34,Ev & Yaşam,699.74,1.0,0.05,Yok,Kredi Kartı,Mobil,2.0,Hayır,4.0,664.75
+S000597,M0191,2025-09-30,Bursa,48,Giyim,282.46,2.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,3.0,451.94
+S000317,M0309,2025-06-20,İzmir,18,Ev & Yaşam,1195.86,1.0,0.1,Hafta Sonu,Kredi Kartı,Tablet,2.0,Hayır,5.0,1076.27
+S001007,M0245,2025-07-13,İstanbul,10,Elektronik,4154.67,4.0,0.0,Yok,Havale/EFT,Masaüstü,5.0,Hayır,,16618.68
+S001269,M0119,2025-10-08,İzmir,16,Ev & Yaşam,673.96,3.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,3.0,Hayır,4.0,1920.79
+S000988,M0309,2025-01-27,İzmir,18,Kitap,123.77,1.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,4.0,123.77
+S000378,M0309,2025-11-26,İzmir,18,Ev & Yaşam,755.93,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,5.0,642.54
+S001218,M0301,2025-07-26,Bursa,4,Spor,831.08,2.0,0.2,Yeni Üye,Kredi Kartı,Tablet,2.0,Hayır,,1329.73
+S000938,M0314,2025-05-13,İstanbul,20,Elektronik,1606.28,1.0,0.0,Yok,Havale/EFT,Mobil,5.0,Hayır,4.0,1606.28
+S000795,M0287,2025-04-06,Ankara,5,Elektronik,3272.99,2.0,0.15,Özel Gün,Kredi Kartı,Masaüstü,6.0,Hayır,3.0,5564.08
+S000399,M0305,2025-09-30,Ankara,27,Kozmetik,753.11,1.0,0.2,Sepette İndirim,Kapıda Ödeme,Mobil,3.0,Hayır,4.0,602.49
+S000921,M0115,2025-09-13,Bursa,25,Kitap,241.71,1.0,0.0,Yok,Kapıda Ödeme,Mobil,6.0,Hayır,3.0,241.71
+S001134,M0282,2025-12-19,Malatya,39,Kitap,246.35,1.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,4.0,Hayır,4.0,221.72
+S000908,M0316,2025-10-16,Elazığ,2,Elektronik,3898.37,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,5.0,3898.37
+S000217,M0134,2025-10-27,Ankara,30,Spor,2309.85,5.0,0.0,Yok,Havale/EFT,Masaüstü,5.0,Hayır,5.0,11549.25
+S000725,M0217,2025-01-10,Ankara,46,Giyim,626.8,1.0,0.0,Yok,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,626.8
+S000448,M0282,2025-09-18,Malatya,39,Giyim,1097.37,1.0,0.0,Yok,Kredi Kartı,Mobil,5.0,Hayır,4.0,1097.37
+S000886,M0309,2025-03-04,İzmir,18,Giyim,938.95,2.0,0.1,Sepette İndirim,Kredi Kartı,Masaüstü,1.0,Hayır,5.0,1690.11
+S000425,M0306,2025-05-01,Ankara,25,Ev & Yaşam,533.73,2.0,0.0,Yok,Kredi Kartı,Mobil,5.0,Hayır,5.0,1067.46
+S000949,M0298,2025-05-15,Elazığ,35,Giyim,1835.54,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,5.0,Evet,2.0,1651.99
+S001398,M0131,2025-05-30,İzmir,29,Kitap,192.28,1.0,0.1,Hafta Sonu,Banka Kartı,Masaüstü,1.0,Hayır,,173.05
+S000610,M0204,2025-02-15,İstanbul,23,Spor,1060.26,2.0,0.15,Yeni Üye,Kredi Kartı,Mobil,7.0,Hayır,4.0,1802.44
+S001311,M0309,2025-12-09,İzmir,18,Giyim,515.74,1.0,0.2,Sepette İndirim,Banka Kartı,Mobil,2.0,Hayır,5.0,412.59
+S000195,M0095,2025-03-05,Malatya,45,Ev & Yaşam,681.49,1.0,0.2,Özel Gün,Kredi Kartı,Mobil,3.0,Hayır,4.0,545.19
+S000516,M0309,2025-07-26,İzmir,18,Ev & Yaşam,1747.86,1.0,0.15,Sepette İndirim,Kredi Kartı,Masaüstü,4.0,Hayır,,1485.68
+S001273,M0309,2025-02-15,İzmir,18,Giyim,766.36,1.0,0.2,Özel Gün,Banka Kartı,Mobil,2.0,Evet,3.0,613.09
+S000208,M0092,2025-12-29,Ankara,11,Spor,1033.58,2.0,0.0,Yok,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,2067.16
+S000797,M0103,2025-04-26,Elazığ,39,Kozmetik,659.09,5.0,0.15,Sepette İndirim,Kapıda Ödeme,Masaüstü,6.0,Hayır,4.0,2801.13
+S001014,M0313,2025-08-10,İzmir,8,Ev & Yaşam,849.46,5.0,0.0,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,,4247.3
+S001296,M0218,2025-11-14,Ankara,46,Giyim,2178.38,1.0,0.0,Yok,Banka Kartı,Mobil,1.0,Hayır,4.0,2178.38
+S000033,M0284,2025-07-31,İzmir,13,Ev & Yaşam,941.4,1.0,0.25,Sepette İndirim,Banka Kartı,Mobil,3.0,Hayır,3.0,706.05
+S000176,M0252,2025-02-20,Ankara,16,Elektronik,12869.45,4.0,0.0,Yok,Banka Kartı,Mobil,6.0,Evet,2.0,51477.8
+S000388,M0160,2025-09-09,Ankara,46,Elektronik,718.23,1.0,0.15,Sepette İndirim,Kredi Kartı,Tablet,6.0,Hayır,4.0,610.5
+S000966,M0220,2025-12-19,Bursa,19,Ev & Yaşam,386.79,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,5.0,Hayır,4.0,328.77
+S000073,M0298,2025-02-27,Elazığ,35,Spor,998.37,4.0,0.1,Yeni Üye,Kredi Kartı,Masaüstü,5.0,Hayır,4.0,3594.13
+S000327,M0306,2025-11-05,Ankara,25,Giyim,1208.96,1.0,0.05,Hafta Sonu,Kapıda Ödeme,Mobil,5.0,Hayır,4.0,1148.51
+S000616,M0163,2025-01-10,Elazığ,38,Kozmetik,340.56,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,4.0,340.56
+S001270,M0245,2025-12-10,İstanbul,10,Ev & Yaşam,2131.87,5.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,5.0,8527.48
+S000272,M0312,2025-03-01,İstanbul,11,Ev & Yaşam,578.93,1.0,0.0,Yok,Kredi Kartı,Mobil,5.0,Hayır,4.0,578.93
+S000332,M0204,2025-01-07,İstanbul,23,Giyim,507.08,5.0,0.3,Özel Gün,Kredi Kartı,Mobil,3.0,Hayır,5.0,1774.78
+S000731,M0051,2025-10-07,Elazığ,34,Ev & Yaşam,862.37,1.0,0.15,Sepette İndirim,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,733.01
+S000893,M0239,2025-01-22,İzmir,48,Elektronik,6469.04,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,5.0,6469.04
+S000444,M0231,2025-08-24,Ankara,12,Kozmetik,332.94,2.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,4.0,665.88
+S000752,M0034,2025-02-11,İstanbul,39,Spor,573.1,1.0,0.1,Hafta Sonu,Havale/EFT,Masaüstü,2.0,Hayır,5.0,515.79
+S000843,M0024,2025-01-04,Ankara,35,Spor,725.53,1.0,,Sepette İndirim,Kredi Kartı,Mobil,1.0,Hayır,5.0,616.7
+S000464,M0044,2025-01-23,İstanbul,41,Ev & Yaşam,422.52,1.0,0.0,Yok,Kapıda Ödeme,Tablet,6.0,Hayır,4.0,422.52
+S000695,M0218,2025-10-03,Ankara,46,Giyim,230.64,1.0,0.15,Sepette İndirim,Kredi Kartı,Masaüstü,4.0,Evet,2.0,196.04
+S000749,M0071,2025-03-15,Ankara,24,Spor,806.34,1.0,0.1,Yeni Üye,Banka Kartı,Mobil,5.0,Hayır,4.0,725.71
+S000687,M0305,2025-11-17,Ankara,27,Kitap,157.37,2.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,4.0,251.79
+S001316,M0252,2025-10-15,Ankara,16,Elektronik,3256.81,2.0,0.2,Sepette İndirim,Kapıda Ödeme,Mobil,3.0,Hayır,4.0,5210.9
+S000844,M0012,2025-09-29,İstanbul,20,Spor,576.62,2.0,0.0,Yok,Kredi Kartı,Masaüstü,1.0,Hayır,5.0,1153.24
+S000044,M0218,2025-05-05,Ankara,46,Spor,3101.63,1.0,0.0,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,3101.63
+S000338,M0312,2025-07-31,İstanbul,11,Elektronik,8539.44,5.0,0.15,Sepette İndirim,Kredi Kartı,Tablet,1.0,Hayır,4.0,36292.62
+S000647,M0207,2025-05-04,Elazığ,37,Spor,1500.7,4.0,0.2,Yeni Üye,Kredi Kartı,Tablet,3.0,Hayır,5.0,4802.24
+S000582,M0042,2025-11-12,İstanbul,22,Spor,2151.76,1.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,4.0,1721.41
+S000365,M0252,2025-04-06,Ankara,16,Kozmetik,347.13,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,3.0,Hayır,5.0,312.42
+S000489,M0109,2025-10-06,İstanbul,27,Ev & Yaşam,1099.1,3.0,0.15,Sepette İndirim,Kapıda Ödeme,Masaüstü,1.0,Evet,3.0,2802.7
+S001021,M0181,2025-01-27,İzmir,3,Ev & Yaşam,1772.53,1.0,0.2,Özel Gün,Kredi Kartı,Masaüstü,1.0,Hayır,3.0,1418.02
+S000685,M0065,2025-07-09,Elazığ,36,Ev & Yaşam,507.11,3.0,0.15,Yeni Üye,Havale/EFT,Mobil,4.0,Hayır,4.0,1293.13
+S000434,M0319,2025-07-23,Bursa,7,Elektronik,5135.39,1.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,4.0,Hayır,4.0,4621.85
+S000681,M0309,2025-09-20,İzmir,18,Kitap,168.77,1.0,0.0,Yok,Havale/EFT,Masaüstü,3.0,Hayır,4.0,168.77
+S000097,M0211,2025-09-26,İstanbul,23,Spor,928.38,1.0,0.0,Yok,Kredi Kartı,Mobil,5.0,Hayır,5.0,928.38
+S001217,M0305,2025-03-21,Ankara,27,Spor,1296.09,1.0,0.0,Yok,Banka Kartı,Masaüstü,1.0,Hayır,4.0,1296.09
+S000983,M0284,2025-08-20,İzmir,13,Giyim,771.16,2.0,0.0,Yok,Havale/EFT,Mobil,3.0,Hayır,4.0,1542.32
+S001361,M0309,2025-02-01,İzmir,18,Elektronik,5654.58,1.0,0.15,Hafta Sonu,Kredi Kartı,Masaüstü,5.0,Hayır,4.0,4806.39
+S000990,M0171,2025-08-07,İstanbul,9,Giyim,600.63,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,4.0,600.63
+S000318,M0216,2025-04-24,Malatya,45,Kitap,349.06,1.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,5.0,349.06
+S001377,M0286,2025-12-06,Ankara,22,Ev & Yaşam,945.1,1.0,0.0,Yok,Kredi Kartı,Masaüstü,1.0,Hayır,4.0,945.1
+S000653,M0184,2025-05-10,İstanbul,25,Giyim,533.0,1.0,0.25,Özel Gün,Banka Kartı,Tablet,2.0,Evet,3.0,399.75
+S000538,M0174,2025-05-30,Bursa,5,Elektronik,3312.18,3.0,0.0,Yok,Kredi Kartı,Mobil,7.0,Hayır,4.0,9936.54
+S000553,M0309,2025-01-02,İzmir,18,Elektronik,1796.45,1.0,0.1,Hafta Sonu,Havale/EFT,Mobil,2.0,Hayır,4.0,1616.8
+S000702,M0065,2025-02-23,Elazığ,36,Ev & Yaşam,904.65,4.0,0.1,Sepette İndirim,Banka Kartı,Masaüstü,3.0,Hayır,5.0,3256.74
+S000160,M0197,2025-02-15,İstanbul,4,Giyim,596.61,1.0,0.15,Sepette İndirim,Kredi Kartı,Masaüstü,4.0,Hayır,5.0,507.12
+S000528,M0309,2025-10-19,İzmir,18,Spor,758.83,1.0,0.2,Sepette İndirim,Kredi Kartı,Masaüstü,3.0,Hayır,4.0,607.06
+S000135,M0154,2025-11-09,İstanbul,30,Giyim,613.28,2.0,0.1,Hafta Sonu,Kredi Kartı,Tablet,4.0,Hayır,4.0,1103.9
+S000064,M0207,2025-06-30,Elazığ,37,Kitap,330.06,1.0,0.0,Yok,Kredi Kartı,Masaüstü,5.0,Hayır,4.0,330.06
+S001049,M0305,2025-12-18,Ankara,27,Elektronik,1667.7,1.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,2.0,Evet,3.0,1584.32
+S000040,M0293,2025-09-19,İstanbul,31,Giyim,955.24,5.0,0.15,Hafta Sonu,Kredi Kartı,Mobil,1.0,Hayır,5.0,4059.77
+S000319,M0097,2025-09-19,İzmir,32,Giyim,815.88,2.0,0.0,Yok,Havale/EFT,Mobil,4.0,Hayır,5.0,1631.76
+S000839,M0309,2025-12-31,İzmir,18,Kozmetik,238.18,1.0,0.15,Sepette İndirim,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,202.45
+S000924,M0309,2025-12-31,İzmir,18,Ev & Yaşam,660.01,1.0,0.0,Yok,Kredi Kartı,Masaüstü,4.0,Hayır,4.0,660.01
+S000714,M0152,2025-04-13,İstanbul,17,Elektronik,944.8,3.0,0.15,Özel Gün,Kredi Kartı,Mobil,3.0,Hayır,3.0,2409.24
+S000325,M0027,2025-07-31,Ankara,40,Giyim,514.32,1.0,0.1,Hafta Sonu,Banka Kartı,Mobil,3.0,Hayır,,462.89
+S000745,M0244,2025-05-19,İstanbul,42,Ev & Yaşam,1081.0,2.0,0.05,Hafta Sonu,Kapıda Ödeme,Masaüstü,2.0,Hayır,4.0,2053.9
+S001354,M0243,2025-05-01,Malatya,34,Spor,720.54,4.0,0.2,Sepette İndirim,Banka Kartı,Masaüstü,3.0,Hayır,4.0,2305.73
+S000743,M0134,2025-12-09,Ankara,30,Kitap,283.22,2.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,3.0,Hayır,4.0,509.8
+S000692,M0270,2025-07-21,Malatya,38,Kitap,278.69,4.0,0.2,Özel Gün,Kredi Kartı,Mobil,3.0,Hayır,5.0,891.81
+S000978,M0197,2025-06-12,İstanbul,4,Ev & Yaşam,2307.35,1.0,0.0,Yok,Kredi Kartı,Masaüstü,28.0,Hayır,5.0,2307.35
+S000277,M0305,2025-07-22,Ankara,27,Giyim,519.39,2.0,0.05,Hafta Sonu,Kapıda Ödeme,Mobil,7.0,Hayır,3.0,986.84
+S000412,M0092,2026-02-30,Ankara,11,Kozmetik,387.18,2.0,0.05,Yok,Banka Kartı,Mobil,,Hayır,4.0,735.64
+S001004,M0258,2025-12-08,Ankara,33,Giyim,953.3,2.0,0.2,Sepette İndirim,Banka Kartı,Mobil,3.0,Hayır,3.0,1525.28
+S000265,M0316,2025-11-15,Elazığ,2,Kozmetik,626.19,1.0,0.2,Özel Gün,Banka Kartı,Masaüstü,3.0,Hayır,5.0,500.95
+S000282,M0239,2025-06-04,İzmir,48,Kitap,349.68,2.0,0.15,Hafta Sonu,Kapıda Ödeme,Mobil,4.0,Hayır,5.0,594.46
+S001027,M0309,2025-07-05,İzmir,18,Kozmetik,764.46,1.0,0.25,Sepette İndirim,Kredi Kartı,Masaüstü,3.0,Evet,4.0,573.34
+S000486,M0214,2025-05-14,İstanbul,6,Kozmetik,1080.13,1.0,0.1,Hafta Sonu,Kapıda Ödeme,Masaüstü,1.0,Hayır,4.0,972.12
+S001389,M0289,2025-03-04,İzmir,3,Kitap,268.81,1.0,0.15,Sepette İndirim,Havale/EFT,Mobil,3.0,Hayır,4.0,228.49
+S000915,M0082,2025-05-12,İzmir,45,Giyim,286.73,4.0,0.25,Özel Gün,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,860.19
+S001069,M0197,2025-07-13,İstanbul,4,Ev & Yaşam,346.96,5.0,0.0,Yok,Havale/EFT,Mobil,6.0,Evet,2.0,1734.8
+S000263,M0109,2025-06-14,İstanbul,27,Giyim,579.39,1.0,0.0,Yok,Havale/EFT,Mobil,1.0,Hayır,5.0,579.39
+S000359,M0042,2025-10-31,İstanbul,22,Kitap,73.49,2.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,4.0,146.98
+S000125,M0220,2025-01-10,Bursa,19,Spor,1180.59,1.0,0.2,Yeni Üye,Kredi Kartı,Mobil,5.0,Hayır,4.0,944.47
+S000701,M0309,2025-05-11,İzmir,18,Kozmetik,318.93,1.0,0.2,Yeni Üye,Banka Kartı,Mobil,2.0,Hayır,4.0,255.14
+S001384,M0157,2025-11-08,İstanbul,24,Ev & Yaşam,690.21,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,5.0,690.21
+S001144,M0034,2025-01-05,İstanbul,39,Elektronik,5226.43,1.0,0.2,Sepette İndirim,Banka Kartı,Masaüstü,1.0,Evet,,4181.14
+S001204,M0287,2025-09-11,Ankara,5,Kozmetik,407.51,1.0,0.3,Özel Gün,Havale/EFT,Mobil,2.0,Hayır,3.0,285.26
+S000126,M0309,2025-08-20,İzmir,18,Giyim,475.58,2.0,0.25,Özel Gün,Banka Kartı,Mobil,1.0,Hayır,3.0,713.37
+S000102,M0024,2025-09-11,Ankara,35,Ev & Yaşam,717.46,1.0,0.0,Yok,Banka Kartı,Mobil,4.0,Hayır,4.0,717.46
+S000132,M0284,2025-04-30,İzmir,13,Elektronik,2624.97,1.0,0.2,Sepette İndirim,Kapıda Ödeme,Masaüstü,5.0,Hayır,5.0,2099.98
+S000986,M0309,2025-11-20,İzmir,18,Kitap,97.21,2.0,0.15,Özel Gün,Banka Kartı,Mobil,1.0,Hayır,5.0,165.26
+S000544,M0025,2025-07-30,Ankara,11,Giyim,348.48,3.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,5.0,1045.44
+S000081,M0309,2025-05-26,İzmir,18,Ev & Yaşam,1008.72,3.0,0.1,Yeni Üye,Kredi Kartı,Tablet,2.0,Hayır,4.0,2723.54
+S000061,M0140,2025-09-26,Bursa,26,Giyim,487.46,5.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,7.0,Hayır,,2193.57
+S000856,M0077,2025-08-02,Ankara,16,Elektronik,7769.08,3.0,0.0,Yok,Kredi Kartı,Masaüstü,5.0,Hayır,4.0,23307.24
+S000157,M0214,2025-05-16,İstanbul,6,Elektronik,7912.21,1.0,0.05,Yok,Kredi Kartı,Masaüstü,4.0,Hayır,5.0,7516.6
+S001370,M0309,2025-09-15,İzmir,18,Kitap,354.79,1.0,0.05,Hafta Sonu,Kapıda Ödeme,Masaüstü,4.0,Hayır,4.0,337.05
+S000796,M0058,2025-05-15,Ankara,9,Ev & Yaşam,1302.0,1.0,0.15,Hafta Sonu,,Tablet,4.0,Hayır,5.0,1106.7
+S000130,M0287,2025-12-23,Ankara,5,Giyim,474.11,1.0,0.2,Sepette İndirim,Havale/EFT,Masaüstü,1.0,Hayır,5.0,379.29
+S000256,M0128,2025-03-23,Elazığ,21,Kitap,105.34,2.0,0.1,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,5.0,189.61
+S000322,M0041,2025-08-02,Ankara,37,Elektronik,1829.72,2.0,0.1,Yeni Üye,Havale/EFT,Mobil,3.0,Hayır,4.0,3293.5
+S000463,M0306,2025-12-13,Ankara,25,Giyim,731.37,1.0,0.1,Hafta Sonu,Banka Kartı,Tablet,5.0,Hayır,3.0,658.23
+S000267,M0011,2025-11-29,Malatya,27,Giyim,717.22,1.0,0.0,Yok,Kredi Kartı,Mobil,6.0,Hayır,4.0,717.22
+S001182,M0011,2025-03-30,Malatya,27,Kitap,152.62,1.0,0.1,Hafta Sonu,,Mobil,5.0,Hayır,5.0,137.36
+S000803,M0217,2025-06-16,Ankara,46,Giyim,782.4,1.0,0.2,Sepette İndirim,Kredi Kartı,Masaüstü,2.0,Hayır,5.0,625.92
+S000261,M0185,2025-11-28,Malatya,41,Giyim,1450.81,2.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,3.0,2901.62
+S000203,M0305,2025-05-10,Ankara,27,Kitap,160.58,1.0,0.0,Yok,Kredi Kartı,Tablet,6.0,Hayır,3.0,160.58
+S000490,M0309,2025-05-21,İzmir,18,Kozmetik,319.6,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,4.0,Hayır,4.0,287.64
+S000131,M0309,2025-02-02,İzmir,18,Kitap,211.64,1.0,0.0,Yok,Havale/EFT,Mobil,1.0,Hayır,4.0,211.64
+S001264,M0309,2025-10-19,İzmir,18,Giyim,332.48,1.0,0.0,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,4.0,332.48
+S000884,M0179,2025-10-18,İstanbul,5,Giyim,470.94,3.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,5.0,1200.9
+S000443,M0309,2025-06-08,İzmir,18,Kitap,508.72,6.0,0.1,Hafta Sonu,,Masaüstü,2.0,Hayır,5.0,2747.09
+S000185,M0131,2025-12-07,İzmir,29,Spor,752.73,2.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,5.0,1204.37
+S000861,M0014,2025-02-27,Malatya,15,Kitap,187.46,1.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,3.0,Hayır,5.0,178.09
+S001167,M0309,2025-10-23,İzmir,18,Elektronik,4146.73,1.0,0.0,Yok,Kredi Kartı,Mobil,7.0,Hayır,4.0,4146.73
+S000804,M0282,2025-09-13,Malatya,39,Elektronik,704.82,1.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,3.0,Hayır,5.0,563.86
+S000995,M0131,2025-10-19,İzmir,29,Giyim,2441.73,1.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,2.0,Evet,3.0,2075.47
+S000785,M0309,2025-09-24,İzmir,18,Kitap,198.07,1.0,0.15,Özel Gün,Banka Kartı,Mobil,4.0,Hayır,4.0,168.36
+S000871,M0148,2025-04-19,İstanbul,4,Ev & Yaşam,1817.93,1.0,0.1,Hafta Sonu,Banka Kartı,Mobil,2.0,Hayır,4.0,1636.14
+S000506,M0113,2025-05-11,İzmir,19,Ev & Yaşam,1240.51,1.0,0.0,Yok,Havale/EFT,Masaüstü,1.0,Hayır,5.0,1240.51
+S001202,M0119,2025-07-15,İzmir,16,Giyim,1241.97,2.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Evet,,2483.94
+S000109,M0228,2025-08-02,İstanbul,27,Elektronik,7633.66,3.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,1.0,Hayır,5.0,19465.83
+S001247,M0309,2025-03-06,İzmir,18,Giyim,733.67,1.0,0.1,Hafta Sonu,Havale/EFT,Masaüstü,3.0,Hayır,,660.3
+S000233,M0306,2025-11-12,Ankara,25,Kitap,239.78,2.0,0.0,Yok,Kredi Kartı,Masaüstü,6.0,Hayır,4.0,479.56
+S001259,M0283,2025-08-01,İstanbul,14,Giyim,412.06,1.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,4.0,412.06
+S000151,M0026,2025-11-24,İstanbul,7,Giyim,1116.71,3.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,3015.12
+S000408,M0196,2025-03-11,Elazığ,19,Ev & Yaşam,3310.2,1.0,0.0,Yok,Havale/EFT,Masaüstü,4.0,Hayır,2.0,3310.2
+S001208,M0188,2025-12-17,İzmir,28,Ev & Yaşam,2261.83,1.0,0.2,Sepette İndirim,Banka Kartı,Tablet,7.0,Hayır,3.0,1809.46
+S000370,M0083,2025-03-31,Bursa,46,Kozmetik,277.89,1.0,0.15,Sepette İndirim,Kredi Kartı,Tablet,8.0,Hayır,4.0,236.21
+S001251,M0231,2025-06-24,Ankara,12,Ev & Yaşam,1409.39,1.0,0.3,Özel Gün,Havale/EFT,Masaüstü,6.0,Hayır,5.0,986.57
+S000409,M0016,2025-10-07,Malatya,30,Ev & Yaşam,618.03,3.0,0.1,Hafta Sonu,Kredi Kartı,Tablet,4.0,Hayır,4.0,1668.68
+S000715,M0044,2025-07-06,İstanbul,41,Kitap,371.03,2.0,0.0,Yok,Kapıda Ödeme,Masaüstü,6.0,Hayır,4.0,742.06
+S000539,M0309,2025-03-10,İzmir,18,Elektronik,2623.75,2.0,0.0,Yok,Kredi Kartı,Masaüstü,4.0,Hayır,5.0,5247.5
+S001290,M0093,2025-10-30,İstanbul,48,Elektronik,4891.11,1.0,0.0,Yok,Kredi Kartı,Tablet,1.0,Hayır,4.0,4891.11
+S000179,M0002,2025-11-08,Ankara,26,Kitap,364.9,1.0,0.0,Yok,Havale/EFT,Mobil,7.0,Hayır,3.0,364.9
+S000737,M0176,2025-01-23,Malatya,24,Ev & Yaşam,648.65,1.0,0.0,Yok,Kredi Kartı,Mobil,5.0,Hayır,5.0,648.65
+S000308,M0305,2025-03-12,Ankara,27,Giyim,324.02,1.0,0.0,Yok,Banka Kartı,Mobil,5.0,Hayır,5.0,324.02
+S000111,M0309,2025-04-14,İzmir,18,Elektronik,1921.91,1.0,0.2,Sepette İndirim,Banka Kartı,Mobil,1.0,Hayır,4.0,1537.53
+S000564,M0078,2025-12-17,İzmir,28,Giyim,890.5,3.0,0.05,Hafta Sonu,Kredi Kartı,Masaüstü,4.0,Hayır,5.0,2537.92
+S000662,M0040,2025-06-13,İzmir,19,Giyim,428.61,1.0,0.0,Yok,Havale/EFT,Mobil,4.0,Hayır,4.0,428.61
+S001090,M0287,2025-11-26,Ankara,5,Ev & Yaşam,1172.76,3.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,5.0,3518.28
+S000133,M0309,2025-03-18,İzmir,18,Kozmetik,648.4,1.0,0.25,Özel Gün,Kredi Kartı,Mobil,4.0,Hayır,5.0,486.3
+S000389,M0245,2025-08-05,İstanbul,10,Kitap,204.97,2.0,,Özel Gün,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,307.46
+S001395,M0294,2025-12-29,İzmir,18,Kozmetik,499.83,1.0,0.2,Sepette İndirim,Banka Kartı,Masaüstü,3.0,Hayır,5.0,399.86
+S001192,M0119,2025-08-30,İzmir,16,Ev & Yaşam,1092.07,2.0,0.0,Yok,Banka Kartı,Mobil,4.0,Hayır,5.0,2184.14
+S001135,M0203,2025-12-02,İstanbul,22,Ev & Yaşam,294.74,1.0,0.0,Yok,Kapıda Ödeme,Masaüstü,2.0,Evet,2.0,294.74
+S000488,M0051,2025-09-28,Elazığ,34,Ev & Yaşam,973.69,1.0,0.0,Yok,Kredi Kartı,Masaüstü,8.0,Evet,3.0,973.69
+S001026,M0017,2025-10-26,Malatya,35,Kitap,259.68,1.0,0.0,Yok,Kredi Kartı,Masaüstü,5.0,Hayır,,259.68
+S001096,M0309,2025-06-04,İzmir,18,Giyim,505.02,1.0,0.0,Yok,Banka Kartı,Mobil,2.0,Hayır,4.0,505.02
+S000258,M0294,2025-10-10,İzmir,18,Kitap,189.88,2.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,4.0,379.76
+S001364,M0037,2025-03-06,İstanbul,20,Giyim,2818.39,1.0,0.2,Sepette İndirim,Kapıda Ödeme,Mobil,2.0,Hayır,4.0,2254.71
+S000888,M0083,2025-06-15,Bursa,46,Giyim,1440.27,1.0,0.1,Yeni Üye,Kredi Kartı,Tablet,6.0,Evet,1.0,1296.24
+S000841,M0309,2025-06-10,İzmir,18,Kozmetik,437.84,1.0,0.05,Hafta Sonu,Kapıda Ödeme,Masaüstü,4.0,Hayır,4.0,415.95
+S000011,M0005,2025-08-19,Ankara,36,Spor,723.59,2.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,4.0,Hayır,5.0,1302.46
+S000998,M0203,2025-07-09,İstanbul,22,Elektronik,3015.32,4.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,4.0,12061.28
+S000763,M0230,2025-06-13,İstanbul,1,Kozmetik,235.01,1.0,0.0,Yok,Banka Kartı,Tablet,1.0,Hayır,4.0,235.01
+S000561,M0320,2025-07-10,Ankara,32,Ev & Yaşam,859.07,1.0,0.15,Yeni Üye,Havale/EFT,Masaüstü,3.0,Hayır,5.0,730.21
+S000640,M0174,2025-11-05,Bursa,5,Spor,260.41,1.0,0.15,Sepette İndirim,Havale/EFT,Masaüstü,2.0,Hayır,4.0,221.35
+S001070,M0066,2025-11-27,İzmir,47,Kitap,392.88,1.0,0.1,Hafta Sonu,Banka Kartı,Mobil,4.0,Hayır,4.0,353.59
+S000671,M0192,2025-10-10,Bursa,35,Elektronik,4473.92,1.0,0.0,Yok,Havale/EFT,Tablet,4.0,Hayır,4.0,4348.92
+S000071,M0230,2025-04-20,İstanbul,1,Kozmetik,493.49,1.0,0.2,Sepette İndirim,Havale/EFT,Mobil,1.0,Evet,4.0,394.79
+S000184,M0316,2025-05-16,Elazığ,2,Elektronik,3246.66,2.0,0.15,Yeni Üye,Kredi Kartı,Masaüstü,7.0,Hayır,5.0,5519.32
+S001237,M0245,2025-12-16,İstanbul,10,Kitap,208.4,2.0,0.0,Yok,Havale/EFT,Mobil,2.0,Hayır,4.0,416.8
+S001232,M0309,2025-12-10,İzmir,18,Elektronik,5717.42,2.0,0.15,Sepette İndirim,Banka Kartı,Mobil,4.0,Hayır,5.0,9719.61
+S000154,M0309,2025-05-08,İzmir,18,Elektronik,3631.17,2.0,0.1,Yeni Üye,Kredi Kartı,Masaüstü,1.0,Hayır,5.0,6536.11
+S000817,M0097,2025-11-13,İzmir,32,Elektronik,16794.93,1.0,0.1,Sepette İndirim,Havale/EFT,Mobil,,Hayır,4.0,15115.44
+S000368,M0309,2025-01-23,İzmir,18,Elektronik,4128.39,2.0,0.15,Hafta Sonu,Banka Kartı,Mobil,3.0,Hayır,5.0,7018.26
+S001185,M0232,2025-12-22,Malatya,12,Elektronik,2779.22,1.0,0.0,Yok,Havale/EFT,Masaüstü,7.0,Hayır,5.0,2779.22
+S000611,M0090,2025-07-21,Bursa,18,Spor,913.04,5.0,0.0,Yok,Banka Kartı,Masaüstü,4.0,Hayır,5.0,4565.2
+S001368,M0309,2025-11-23,İzmir,18,Giyim,699.44,1.0,0.0,Yok,Banka Kartı,Masaüstü,3.0,Hayır,4.0,699.44
+S000691,M0057,2025-11-05,Bursa,16,Giyim,402.27,6.0,0.2,Özel Gün,Kredi Kartı,Tablet,3.0,Hayır,4.0,1930.9
+S001005,M0191,2025-04-05,Bursa,48,Elektronik,3888.72,4.0,0.0,Yok,Banka Kartı,Mobil,2.0,Hayır,4.0,15554.88
+S000732,M0286,2025-10-20,Ankara,22,Elektronik,8618.86,2.0,0.0,Yok,Kredi Kartı,Masaüstü,4.0,Hayır,5.0,17237.72
+S000468,M0056,2025-11-05,Elazığ,27,Spor,2815.12,1.0,0.1,Sepette İndirim,Havale/EFT,Mobil,5.0,Hayır,4.0,2533.61
+S001383,M0309,2025-12-01,İzmir,18,Elektronik,1380.11,1.0,0.15,Yeni Üye,Banka Kartı,Mobil,7.0,Hayır,4.0,1173.09
+S000972,M0024,2025-05-24,Ankara,35,Kozmetik,268.84,3.0,0.1,Hafta Sonu,Banka Kartı,Masaüstü,4.0,Hayır,5.0,725.87
+S001010,M0058,2025-05-04,Ankara,9,Spor,365.33,1.0,0.05,Yok,Kredi Kartı,Mobil,1.0,Hayır,4.0,347.06
+S000559,M0293,2025-04-24,İstanbul,31,Ev & Yaşam,725.83,1.0,0.15,Hafta Sonu,,Mobil,2.0,Hayır,4.0,616.96
+S001168,M0220,2025-03-12,Bursa,19,Spor,1617.03,1.0,0.1,Yeni Üye,Kredi Kartı,Tablet,4.0,Hayır,4.0,1455.33
+S000716,M0174,2025-09-29,Bursa,5,Spor,787.67,2.0,0.0,Yok,Banka Kartı,Masaüstü,1.0,Hayır,4.0,1575.34
+S000041,M0024,2025-10-14,Ankara,35,Kitap,251.85,2.0,0.0,Yok,Kredi Kartı,Masaüstü,3.0,Hayır,4.0,503.7
+S000700,M0309,2025-12-21,İzmir,18,Kitap,434.74,5.0,0.2,Özel Gün,Havale/EFT,Mobil,2.0,Hayır,4.0,1738.96
+S000316,M0207,2025-12-01,Elazığ,37,Ev & Yaşam,2072.85,1.0,0.2,Özel Gün,Kredi Kartı,Mobil,5.0,Hayır,4.0,1658.28
+S000024,M0305,2025-12-27,Ankara,27,Kozmetik,531.33,4.0,0.15,Hafta Sonu,Kredi Kartı,Mobil,6.0,Hayır,4.0,1806.52
+S000224,M0309,2025-03-17,İzmir,18,Giyim,1754.37,3.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,3.0,5263.11
+S000025,M0251,2025-03-03,Bursa,21,Elektronik,4774.02,2.0,0.15,Yeni Üye,Kredi Kartı,Masaüstü,4.0,Hayır,4.0,8115.83
+S000694,M0007,2025-02-18,Elazığ,17,Kozmetik,1148.28,1.0,0.1,Hafta Sonu,Havale/EFT,Masaüstü,5.0,Hayır,5.0,1033.45
+S000150,M0112,2025-11-11,İstanbul,27,Giyim,1189.12,6.0,0.0,Yok,Havale/EFT,Mobil,1.0,Hayır,4.0,7134.72
+S000698,M0271,2025-10-25,İstanbul,40,Kitap,292.82,2.0,0.25,Sepette İndirim,Banka Kartı,Masaüstü,2.0,Hayır,4.0,439.23
+S001032,M0165,2025-11-20,Malatya,15,Ev & Yaşam,1674.28,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,5.0,Hayır,4.0,1506.85
+S001064,M0109,2025-09-22,İstanbul,27,Giyim,518.49,5.0,0.15,Hafta Sonu,Banka Kartı,Mobil,5.0,Evet,3.0,2203.58
+S001059,M0309,2025-07-30,İzmir,18,Spor,682.57,2.0,0.15,Sepette İndirim,Havale/EFT,Tablet,3.0,Hayır,,1160.37
+S000604,M0204,2025-11-20,İstanbul,23,Elektronik,2295.74,2.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,4.0,4591.48
+S000620,M0040,2025-03-08,İzmir,19,Elektronik,2177.95,1.0,0.0,Yok,Kapıda Ödeme,Mobil,5.0,Evet,,2177.95
+S000678,M0161,2025-10-12,İzmir,19,Ev & Yaşam,2632.43,1.0,0.15,Sepette İndirim,Kredi Kartı,Tablet,5.0,Hayır,4.0,2237.57
+S000001,M0228,2025-06-23,İstanbul,27,Giyim,543.77,2.0,0.0,Yok,Havale/EFT,Mobil,2.0,Hayır,3.0,1087.54
+S000199,M0316,2025-08-20,Elazığ,2,Elektronik,16644.63,4.0,0.2,Sepette İndirim,Kredi Kartı,Masaüstü,5.0,Evet,2.0,53262.82
+S000117,M0309,2025-02-23,İzmir,18,Giyim,1263.6,1.0,0.1,Sepette İndirim,Havale/EFT,Tablet,3.0,Hayır,4.0,1137.24
+S000086,M0195,2025-07-02,Elazığ,5,Spor,991.28,1.0,0.1,Sepette İndirim,Kredi Kartı,Tablet,3.0,Hayır,3.0,892.15
+S000997,M0011,2025-04-09,Malatya,27,Giyim,542.89,1.0,0.1,Sepette İndirim,Havale/EFT,Masaüstü,3.0,Hayır,4.0,488.6
+S000546,M0309,2025-02-28,İzmir,18,Giyim,459.56,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,2.0,Hayır,5.0,413.6
+S001340,M0146,2025-09-22,İstanbul,21,Ev & Yaşam,576.1,1.0,0.15,Hafta Sonu,Kredi Kartı,Mobil,5.0,Hayır,5.0,489.68
+S000465,M0261,2025-11-10,Bursa,14,Spor,2228.19,1.0,0.1,Hafta Sonu,Banka Kartı,Masaüstü,3.0,Hayır,5.0,2005.37
+S000845,M0309,2025-01-05,İzmir,18,Giyim,579.94,2.0,0.0,Yok,Banka Kartı,Mobil,4.0,Hayır,5.0,1159.88
+S001376,M0117,2025-07-31,Elazığ,4,Ev & Yaşam,1169.89,1.0,0.0,Yok,Banka Kartı,Mobil,3.0,Hayır,5.0,1169.89
+S000377,M0011,2025-12-18,Malatya,27,Giyim,612.66,5.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Evet,3.0,3063.3
+S000187,M0291,2025-03-24,İstanbul,31,Elektronik,8239.05,2.0,0.15,Yeni Üye,Kredi Kartı,Masaüstü,1.0,Hayır,4.0,14006.38
+S001074,M0245,2025-04-03,İstanbul,10,Spor,198.91,3.0,0.1,Yeni Üye,Kapıda Ödeme,Mobil,3.0,Hayır,4.0,537.06
+S001092,M0316,2025-11-01,Elazığ,2,Ev & Yaşam,1309.4,3.0,0.1,Hafta Sonu,Kredi Kartı,Tablet,2.0,Hayır,4.0,3535.38
+S000334,M0085,2025-06-01,Ankara,43,Kitap,166.62,3.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,2.0,Hayır,4.0,399.89
+S001114,M0225,2025-07-10,İstanbul,3,Giyim,990.05,4.0,0.0,Yok,Banka Kartı,Masaüstü,3.0,Hayır,3.0,3960.2
+S000645,M0246,2025-05-27,İstanbul,17,Elektronik,5430.14,2.0,0.1,Sepette İndirim,Havale/EFT,Mobil,2.0,Hayır,5.0,9774.25
+S000459,M0316,2025-06-04,Elazığ,2,Kitap,229.04,2.0,0.0,Yok,Kredi Kartı,Tablet,7.0,Hayır,5.0,458.08
+S000251,M0160,2025-11-19,Ankara,46,Kozmetik,353.35,3.0,0.1,Hafta Sonu,Kapıda Ödeme,Mobil,6.0,Hayır,5.0,954.05
+S000270,M0144,2025-02-24,Bursa,8,Ev & Yaşam,872.71,2.0,0.25,Özel Gün,Banka Kartı,Mobil,3.0,Hayır,4.0,1309.06
+S000092,M0005,2025-08-11,Ankara,36,Elektronik,2638.41,1.0,0.05,Hafta Sonu,Havale/EFT,Mobil,5.0,Hayır,4.0,2506.49
+S000665,M0277,2025-11-23,İstanbul,7,Giyim,345.17,1.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,5.0,345.17
+S000060,M0119,2025-07-23,İzmir,16,Kozmetik,637.22,6.0,0.1,Yeni Üye,Banka Kartı,Masaüstü,2.0,Hayır,4.0,3440.99
+S000302,M0309,2025-04-24,İzmir,18,Kitap,117.67,1.0,0.15,Hafta Sonu,Banka Kartı,Mobil,3.0,Hayır,5.0,100.02
+S001101,M0306,2025-11-17,Ankara,25,Kitap,226.68,2.0,0.2,Sepette İndirim,Kredi Kartı,Masaüstü,6.0,Hayır,4.0,362.69
+S000421,M0309,2025-12-14,İzmir,18,Kozmetik,256.57,2.0,0.05,Hafta Sonu,Kredi Kartı,Masaüstü,4.0,Hayır,4.0,487.48
+S000021,M0092,2025-07-17,Ankara,11,Ev & Yaşam,1686.28,1.0,0.25,Sepette İndirim,Kredi Kartı,Tablet,3.0,Hayır,6.0,1264.71
+S001051,M0316,2025-11-02,Elazığ,2,Kitap,177.72,2.0,0.0,Yok,Kredi Kartı,Mobil,8.0,Hayır,3.0,355.44
+S001191,M0043,2025-02-04,Bursa,26,Spor,1226.77,1.0,0.25,Sepette İndirim,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,920.08
+S001397,M0309,2025-07-20,İzmir,18,Giyim,1071.41,3.0,0.0,Yok,Banka Kartı,Masaüstü,3.0,Evet,,3214.23
+S000196,M0195,2025-03-15,Elazığ,5,Elektronik,2146.82,3.0,0.0,Yok,Banka Kartı,Mobil,6.0,Hayır,4.0,6440.46
+S000427,M0027,2025-10-15,Ankara,40,Giyim,416.72,3.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,6.0,Hayır,5.0,1125.14
+S000484,M0305,2025-03-11,Ankara,27,Elektronik,2568.58,4.0,0.0,Yok,Kredi Kartı,Tablet,10.0,Hayır,3.0,10274.32
+S001018,M0119,2025-07-18,İzmir,16,Kozmetik,154.23,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,5.0,Hayır,4.0,138.81
+S000566,M0133,2025-08-03,Ankara,25,Ev & Yaşam,651.04,2.0,0.0,Yok,Kredi Kartı,Tablet,1.0,Hayır,5.0,1302.08
+S000301,M0288,2025-05-20,Ankara,30,Kozmetik,784.21,1.0,0.0,Yok,Banka Kartı,Masaüstü,7.0,Hayır,4.0,784.21
+S000977,M0058,2025-03-26,Ankara,9,Kitap,254.02,1.0,0.15,Sepette İndirim,Havale/EFT,Masaüstü,1.0,Hayır,4.0,215.92
+S000684,M0263,2025-05-13,Malatya,20,Kitap,214.27,1.0,0.2,Sepette İndirim,Banka Kartı,Mobil,4.0,Hayır,4.0,171.42
+S000584,M0011,2025-08-09,Malatya,27,Elektronik,1621.55,4.0,0.1,Yeni Üye,Kredi Kartı,Masaüstü,5.0,Hayır,3.0,5837.58
+S001030,M0044,2025-10-26,İstanbul,41,Kozmetik,253.6,2.0,0.0,Yok,Kredi Kartı,Mobil,3.0,Hayır,3.0,507.2
+S000227,M0174,2025-05-20,Bursa,5,Giyim,634.6,2.0,0.05,Yok,Banka Kartı,Mobil,2.0,Hayır,,1205.74
+S000311,M0001,2025-07-07,İstanbul,14,Kitap,199.52,2.0,0.05,Yok,Kredi Kartı,Mobil,2.0,Hayır,4.0,379.09
+S000040,M0293,2025-09-19,İstanbul,31,Giyim,955.24,5.0,0.15,Hafta Sonu,Kredi Kartı,Mobil,1.0,Hayır,5.0,4059.77
+S001067,M0039,2025-11-19,Bursa,13,Giyim,370.19,1.0,0.05,Hafta Sonu,Banka Kartı,Mobil,3.0,Hayır,4.0,351.68
+S000605,M0309,2025-08-14,İzmir,18,Ev & Yaşam,1255.13,1.0,0.0,Yok,Banka Kartı,Mobil,2.0,Hayır,5.0,1255.13
+S000800,M0294,2025-07-21,İzmir,18,Spor,729.3,2.0,0.0,Yok,Banka Kartı,Tablet,3.0,Hayır,5.0,1458.6
+S000182,M0031,2025-09-18,Ankara,13,Kozmetik,227.57,4.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,1.0,Hayır,5.0,864.77
+S000918,M0018,2025-09-18,İzmir,43,Ev & Yaşam,916.54,2.0,0.15,Hafta Sonu,Havale/EFT,Tablet,4.0,Hayır,5.0,1558.12
+S000017,M0290,2025-06-27,Ankara,25,Kozmetik,706.74,2.0,0.25,Sepette İndirim,Havale/EFT,Mobil,5.0,Hayır,4.0,1060.11
+S000836,M0309,2025-09-26,İzmir,18,Giyim,513.8,2.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,1.0,Hayır,4.0,924.84
+S001012,M0025,2025-04-05,Ankara,11,Giyim,780.8,1.0,0.0,Yok,Banka Kartı,Mobil,4.0,Evet,3.0,780.8
+S000116,M0309,2025-04-03,İzmir,18,Kozmetik,587.76,3.0,0.05,Hafta Sonu,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,1675.12
+S000212,M0163,2025-11-17,Elazığ,38,Elektronik,4010.54,1.0,0.05,Hafta Sonu,Banka Kartı,Mobil,4.0,Hayır,4.0,3810.01
+S000670,M0309,2025-11-28,İzmir,18,Spor,1182.14,1.0,0.0,Yok,Havale/EFT,Mobil,8.0,Hayır,5.0,1182.14
+S000458,M0248,2025-10-30,İstanbul,32,Elektronik,3208.39,4.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,5.0,12833.56
+S000144,M0180,2025-05-26,İstanbul,47,Giyim,422.1,1.0,0.15,Sepette İndirim,Banka Kartı,Mobil,4.0,Hayır,4.0,358.78
+S000312,M0309,2025-08-16,İzmir,18,Giyim,740.43,1.0,0.05,Yok,Kredi Kartı,Mobil,2.0,Hayır,4.0,703.41
+S000842,M0309,2025-12-11,İzmir,18,Giyim,404.22,3.0,0.2,Sepette İndirim,Kredi Kartı,Tablet,1.0,Hayır,5.0,970.13
+S000242,M0309,2025-12-13,İzmir,18,Giyim,1046.06,1.0,0.15,Yeni Üye,Banka Kartı,Masaüstü,6.0,Hayır,3.0,889.15
+S000363,M0163,2025-02-08,Elazığ,38,Giyim,799.94,2.0,0.15,Yeni Üye,Havale/EFT,Masaüstü,5.0,Evet,3.0,1359.9
+S000441,M0193,2025-10-21,Bursa,25,Kozmetik,231.0,1.0,0.1,Sepette İndirim,Kredi Kartı,Masaüstü,3.0,Hayır,4.0,207.9
+S000910,M0160,2025-10-02,Ankara,46,Kozmetik,194.9,1.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,5.0,194.9
+S000602,M0309,2025-03-23,İzmir,18,Elektronik,4280.01,2.0,0.25,Sepette İndirim,Kapıda Ödeme,Masaüstü,6.0,Hayır,4.0,6420.02
+S001091,M0275,2025-09-08,İzmir,32,Kitap,228.18,4.0,0.0,Yok,Kapıda Ödeme,Tablet,1.0,Hayır,5.0,912.72
+S001002,M0191,2025-06-05,Bursa,48,Spor,1197.91,3.0,0.15,Sepette İndirim,Kredi Kartı,Mobil,1.0,Hayır,5.0,3054.67
+S000617,M0150,2025-05-15,İstanbul,26,Giyim,674.51,5.0,0.0,Yok,Kredi Kartı,Masaüstü,,Hayır,4.0,3372.55
+S000793,M0156,2025-11-23,Elazığ,27,Kozmetik,525.14,4.0,0.1,Hafta Sonu,Havale/EFT,Tablet,4.0,Hayır,3.0,1890.5
+S000922,M0172,2025-11-19,Elazığ,4,Ev & Yaşam,835.55,1.0,0.0,Yok,Havale/EFT,Masaüstü,3.0,Hayır,3.0,835.55
+S000123,M0026,2025-12-03,İstanbul,7,Giyim,181.89,1.0,0.2,Sepette İndirim,Kredi Kartı,Mobil,1.0,Evet,2.0,145.51
+S000770,M0011,2025-12-10,Malatya,27,Elektronik,2668.26,2.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,3.0,5336.52
+S000667,M0191,2025-01-16,Bursa,48,Kitap,304.8,1.0,0.0,Yok,Kredi Kartı,Tablet,5.0,Hayır,5.0,304.8
+S000853,M0309,2025-01-15,İzmir,18,Spor,686.35,1.0,0.1,Yeni Üye,Kredi Kartı,Mobil,8.0,Hayır,3.0,617.72
+S000846,M0199,2025-06-19,İzmir,24,Kitap,291.14,1.0,0.0,Yok,Banka Kartı,Masaüstü,2.0,Hayır,,291.14
+S000226,M0312,2025-09-11,İstanbul,11,Spor,1141.53,3.0,0.0,Yok,Kredi Kartı,Mobil,2.0,Hayır,4.0,3424.59
+S000474,M0296,2025-12-04,Elazığ,45,Giyim,2009.72,1.0,0.0,Yok,Banka Kartı,Masaüstü,4.0,Hayır,5.0,2009.72
+S000433,M0043,2025-05-16,Bursa,26,Kitap,160.8,3.0,0.0,Yok,Kredi Kartı,Mobil,10.0,Hayır,4.0,482.4
+S000012,M0309,2025-10-31,İzmir,18,Elektronik,8351.02,2.0,0.15,Yeni Üye,Kredi Kartı,Mobil,4.0,Hayır,4.0,14196.73
+S000951,M0024,2025-04-13,Ankara,35,Giyim,392.98,4.0,0.0,Yok,Kredi Kartı,Masaüstü,2.0,Hayır,3.0,1571.92
+S000480,M0240,2025-06-17,Elazığ,21,Kitap,374.96,2.0,0.25,Sepette İndirim,Banka Kartı,Tablet,5.0,Evet,2.0,562.44
+S000163,M0309,2025-03-28,İzmir,18,Elektronik,4259.71,1.0,0.1,Hafta Sonu,Kredi Kartı,Masaüstü,3.0,Hayır,5.0,3833.74
+S000755,M0283,2025-05-31,İstanbul,14,Giyim,595.44,2.0,0.1,Yeni Üye,Kredi Kartı,Mobil,4.0,Hayır,3.0,1071.79
+S000478,M0163,2025-02-03,Elazığ,38,Elektronik,1569.39,1.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,3.0,Hayır,4.0,1412.45
+S001123,M0309,2025-10-18,İzmir,18,Elektronik,2580.29,1.0,0.15,Hafta Sonu,Banka Kartı,Masaüstü,2.0,Hayır,3.0,2193.25
+S000718,M0309,2025-10-04,İzmir,18,Giyim,755.51,4.0,0.0,Yok,Kredi Kartı,Mobil,1.0,Hayır,,3022.04
+S001320,M0164,2025-09-03,Elazığ,31,Elektronik,1374.04,1.0,0.1,Yeni Üye,Kredi Kartı,Masaüstü,4.0,Hayır,5.0,1236.64
+S000473,M0150,2025-08-11,İstanbul,26,Kitap,109.17,1.0,0.05,Hafta Sonu,Kapıda Ödeme,Tablet,8.0,Evet,2.0,103.71
+S000727,M0309,2025-08-25,İzmir,18,Ev & Yaşam,637.29,2.0,0.2,Sepette İndirim,Banka Kartı,Tablet,1.0,Hayır,4.0,1019.66
+S000396,M0035,2025-12-02,Malatya,38,Giyim,654.79,1.0,0.0,Yok,Havale/EFT,Tablet,3.0,Hayır,5.0,654.79
+S001303,M0290,2025-06-26,Ankara,25,Kozmetik,543.11,2.0,0.1,Sepette İndirim,Banka Kartı,Mobil,5.0,Hayır,5.0,977.6
+S000114,M0218,2025-12-13,Ankara,46,Kozmetik,391.55,1.0,0.1,Sepette İndirim,Kapıda Ödeme,Mobil,2.0,Hayır,5.0,352.4
+S000594,M0305,2025-03-31,Ankara,27,Giyim,1783.03,3.0,0.1,Hafta Sonu,,Mobil,3.0,Evet,3.0,4814.18
+S000165,M0018,2025-06-14,İzmir,43,Kitap,211.97,1.0,0.15,Özel Gün,Kredi Kartı,Mobil,2.0,Hayır,5.0,180.17
+S000618,M0245,2025-07-29,İstanbul,10,Kitap,398.63,1.0,0.1,Sepette İndirim,Kredi Kartı,Tablet,2.0,Hayır,5.0,358.77
+S000664,M0207,2025-03-16,Elazığ,37,Ev & Yaşam,1687.4,1.0,0.0,Yok,Kredi Kartı,Tablet,3.0,Hayır,4.0,1687.4
+S001362,M0024,2025-06-25,Ankara,35,Giyim,1276.69,2.0,0.3,Özel Gün,Kapıda Ödeme,Tablet,6.0,Evet,2.0,1787.37
+S000659,M0163,2025-11-22,Elazığ,38,Giyim,500.63,3.0,0.05,Yok,Kapıda Ödeme,Masaüstü,5.0,Hayır,3.0,1426.8
+S000449,M0123,2025-07-25,Bursa,42,Spor,1237.28,1.0,0.1,Yeni Üye,Banka Kartı,Mobil,6.0,Hayır,5.0,1113.55
+S000747,M0188,2025-04-19,İzmir,28,Spor,1190.14,3.0,0.1,Hafta Sonu,Banka Kartı,Masaüstü,3.0,Hayır,5.0,3213.38
+S000513,M0174,2025-03-19,Bursa,5,Kozmetik,861.73,2.0,0.0,Yok,Kredi Kartı,Mobil,4.0,Hayır,5.0,1723.46
+S000022,M0087,2025-12-27,İstanbul,45,Spor,1142.49,1.0,0.0,Yok,Kredi Kartı,Masaüstü,2.0,Hayır,4.0,1142.49
+S001272,M0220,2025-01-23,Bursa,19,Kitap,249.98,4.0,0.0,Yok,Kredi Kartı,Tablet,2.0,Hayır,4.0,999.92
+S000937,M0309,2025-05-01,İzmir,18,Elektronik,1207.92,1.0,0.15,Özel Gün,Kapıda Ödeme,Mobil,2.0,Hayır,3.0,1026.73
+S000815,M0245,2025-02-01,İstanbul,10,Giyim,419.63,4.0,0.0,Yok,Kredi Kartı,Masaüstü,6.0,Hayır,5.0,1678.52
+S000554,M0069,2025-05-24,Malatya,2,Ev & Yaşam,1898.86,1.0,0.1,Yeni Üye,Banka Kartı,Mobil,3.0,Hayır,5.0,1708.97
+S000639,M0217,2025-11-23,Ankara,46,Ev & Yaşam,2275.24,6.0,0.05,Hafta Sonu,Banka Kartı,Masaüstü,4.0,Hayır,4.0,12968.87
+S000240,M0309,2025-06-16,İzmir,18,Giyim,1255.64,3.0,0.2,Yeni Üye,Banka Kartı,Mobil,2.0,Hayır,5.0,3013.54
+S000541,M0316,2025-07-03,Elazığ,2,Kitap,384.83,2.0,0.1,Hafta Sonu,Kredi Kartı,Mobil,4.0,Hayır,4.0,692.69
+S000002,M0186,2025-05-17,Malatya,25,Giyim,518.33,3.0,0.3,Özel Gün,Kredi Kartı,Mobil,7.0,Hayır,3.0,1088.49
+S001143,M0191,2025-03-25,Bursa,48,Kozmetik,348.76,5.0,0.2,Sepette İndirim,Havale/EFT,Mobil,2.0,Hayır,5.0,1395.04
+S000873,M0116,2025-05-29,Elazığ,21,Spor,2804.27,1.0,0.1,Yeni Üye,Kredi Kartı,Tablet,5.0,Hayır,3.0,2523.84
+S000193,M0191,2025-06-09,Bursa,48,Giyim,711.74,2.0,0.2,Sepette İndirim,Kredi Kartı,Masaüstü,2.0,Evet,3.0,1138.78
+S000183,M0309,2025-11-12,İzmir,18,Spor,443.49,5.0,0.0,Yok,Kapıda Ödeme,Masaüstü,2.0,Evet,1.0,2217.45
+S000045,M0245,2025-11-27,İstanbul,10,Kozmetik,379.73,2.0,0.05,Yok,Kredi Kartı,Masaüstü,7.0,Hayır,4.0,721.49
+S000346,M0309,2025-10-09,İzmir,18,Giyim,429.52,4.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,4.0,Evet,2.0,1632.18
+S000579,M0309,2025-09-26,İzmir,18,Giyim,285.11,6.0,0.0,Yok,Kapıda Ödeme,Mobil,3.0,Hayır,4.0,1710.66
+S000831,M0163,2025-07-04,Elazığ,38,Kitap,216.89,1.0,0.0,Yok,Banka Kartı,Mobil,4.0,Hayır,4.0,216.89
+S000280,M0309,2025-04-22,İzmir,18,Elektronik,6724.67,2.0,0.05,Hafta Sonu,Kredi Kartı,Mobil,1.0,Hayır,4.0,12776.87
+S000666,M0179,2025-08-05,İstanbul,5,Elektronik,645.59,2.0,0.2,Özel Gün,Kredi Kartı,Masaüstü,6.0,Hayır,2.0,1032.94
